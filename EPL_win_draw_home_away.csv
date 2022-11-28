@@ -1,0 +1,2501 @@
+,Team1,Team2,HomeWin,AwayWin,HomeDraw,AwayDraw
+0,Arsenal,Arsenal,0,0,0,0
+1,Arsenal,Aston Villa,0.61,0.52,0.22,0.39
+2,Arsenal,Chelsea,0.44,0.28,0.36,0.28
+3,Arsenal,Liverpool,0.36,0.2,0.4,0.32
+4,Arsenal,Man City,0.55,0.5,0.35,0.15
+5,Arsenal,Newcastle,0.74,0.39,0.09,0.35
+6,Arsenal,Oldham,0,0,1,1
+7,Arsenal,Sheffield United,1,0,0,0.5
+8,Arsenal,Southampton,0.72,0.39,0.28,0.33
+9,Arsenal,West Ham,0.73,0.55,0.05,0.36
+10,Arsenal,Norwich,0.71,0.43,0.29,0.43
+11,Arsenal,Tottenham,0.56,0.2,0.4,0.44
+12,Arsenal,Everton,0.76,0.48,0.2,0.28
+13,Arsenal,Ipswich,1,0.75,0,0.25
+14,Arsenal,Leeds,0.73,0.36,0,0.27
+15,Arsenal,Wimbledon,0.29,0.71,0.43,0.14
+16,Arsenal,Blackburn,0.59,0.53,0.29,0.18
+17,Arsenal,Coventry,0.62,0.38,0.25,0.38
+18,Arsenal,Man United,0.4,0.12,0.32,0.24
+19,Arsenal,QPR,0.67,0.33,0.17,0.33
+20,Arsenal,Sheffield Weds,0.71,0.14,0.29,0.29
+21,Arsenal,Swindon,0,1,1,0
+22,Arsenal,Crystal Palace,0.75,0.62,0.12,0.25
+23,Arsenal,Leicester,0.92,0.33,0.08,0.5
+24,Arsenal,Nottingham Forest,0.75,0.5,0.25,0.25
+25,Arsenal,Bolton,0.77,0.38,0.23,0.23
+26,Arsenal,Middlesbrough,0.54,0.62,0.38,0.15
+27,Arsenal,Derby,0.71,0.71,0.29,0.14
+28,Arsenal,Sunderland,0.69,0.5,0.31,0.31
+29,Arsenal,Barnsley,1,1,0,0
+30,Arsenal,Charlton,0.75,0.75,0.12,0.12
+31,Arsenal,Watford,0.8,0.8,0,0
+32,Arsenal,Bradford,1,0,0,0.5
+33,Arsenal,Fulham,0.69,0.69,0.31,0.08
+34,Arsenal,Birmingham,0.71,0.57,0.29,0.29
+35,Arsenal,Middlesboro,1,1,0,0
+36,Arsenal,West Brom,0.83,0.5,0.08,0.25
+37,Arsenal,Portsmouth,0.71,0.43,0.29,0.57
+38,Arsenal,Wolves,0.75,1,0.25,0
+39,Arsenal,Wigan,0.88,0.62,0,0.25
+40,Arsenal,Reading,1,1,0,0
+41,Arsenal,Hull,0.6,1,0.2,0
+42,Arsenal,Stoke,1,0.2,0,0.3
+43,Arsenal,Burnley,1,0.75,0,0.25
+44,Arsenal,Blackpool,1,1,0,0
+45,Arsenal,Swansea,0.43,0.57,0.14,0
+46,Arsenal,Cardiff,1,1,0,0
+47,Arsenal,Bournemouth,1,0.33,0,0.33
+48,Arsenal,Brighton,1,0,0,0
+49,Arsenal,Huddersfield,1,1,0,0
+50,Aston Villa,Arsenal,0.09,0.17,0.39,0.22
+51,Aston Villa,Aston Villa,0,0,0,0
+52,Aston Villa,Chelsea,0.3,0.17,0.3,0.22
+53,Aston Villa,Liverpool,0.22,0.22,0.22,0.22
+54,Aston Villa,Man City,0.22,0.11,0.39,0.06
+55,Aston Villa,Newcastle,0.27,0.09,0.36,0.27
+56,Aston Villa,Oldham,0,0,0,1
+57,Aston Villa,Sheffield United,1,0.5,0,0.5
+58,Aston Villa,Southampton,0.38,0.44,0.31,0.19
+59,Aston Villa,West Ham,0.45,0.2,0.4,0.5
+60,Aston Villa,Norwich,0.57,0.43,0.43,0.29
+61,Aston Villa,Tottenham,0.39,0.22,0.3,0.26
+62,Aston Villa,Everton,0.48,0.26,0.35,0.39
+63,Aston Villa,Ipswich,0.75,0.75,0,0.25
+64,Aston Villa,Leeds,0.55,0.18,0.18,0.45
+65,Aston Villa,Wimbledon,0.57,0.14,0.14,0.57
+66,Aston Villa,Blackburn,0.59,0.29,0.06,0.24
+67,Aston Villa,Coventry,0.62,0.75,0.25,0.12
+68,Aston Villa,Man United,0.04,0.04,0.3,0.13
+69,Aston Villa,QPR,0.67,0,0.33,0.5
+70,Aston Villa,Sheffield Weds,0.43,0.57,0.43,0.14
+71,Aston Villa,Swindon,1,1,0,0
+72,Aston Villa,Crystal Palace,0.33,0.17,0.5,0.33
+73,Aston Villa,Leicester,0.3,0.1,0.5,0.4
+74,Aston Villa,Nottingham Forest,0.5,0.25,0.25,0.75
+75,Aston Villa,Bolton,0.46,0.38,0.31,0.38
+76,Aston Villa,Middlesbrough,0.33,0.5,0.42,0.25
+77,Aston Villa,Derby,1,0.43,0,0
+78,Aston Villa,Sunderland,0.33,0.4,0.53,0.27
+79,Aston Villa,Barnsley,0,1,0,0
+80,Aston Villa,Charlton,0.75,0.38,0.12,0.25
+81,Aston Villa,Watford,0.67,0.33,0,0.33
+82,Aston Villa,Bradford,1,0.5,0,0.5
+83,Aston Villa,Fulham,0.54,0.15,0.38,0.46
+84,Aston Villa,Birmingham,0.43,0.43,0.29,0.29
+85,Aston Villa,Middlesboro,1,1,0,0
+86,Aston Villa,West Brom,0.5,0.2,0.3,0.6
+87,Aston Villa,Portsmouth,0.57,0.43,0.29,0.29
+88,Aston Villa,Wolves,0.25,0.75,0.5,0.25
+89,Aston Villa,Wigan,0.12,0.5,0.38,0.38
+90,Aston Villa,Reading,1,0.67,0,0
+91,Aston Villa,Hull,1,0.5,0,0.25
+92,Aston Villa,Stoke,0.12,0.25,0.5,0.25
+93,Aston Villa,Burnley,0.5,0,0,1
+94,Aston Villa,Blackpool,1,0,0,1
+95,Aston Villa,Swansea,0.2,0,0.2,0.4
+96,Aston Villa,Cardiff,1,0,0,1
+97,Aston Villa,Bournemouth,0,1,0,0
+98,Aston Villa,Brighton,0,0,0,0
+99,Aston Villa,Huddersfield,0,0,0,0
+100,Chelsea,Arsenal,0.44,0.2,0.28,0.36
+101,Chelsea,Aston Villa,0.61,0.39,0.22,0.3
+102,Chelsea,Chelsea,0,0,0,0
+103,Chelsea,Liverpool,0.56,0.24,0.2,0.28
+104,Chelsea,Man City,0.6,0.55,0.25,0.1
+105,Chelsea,Newcastle,0.7,0.26,0.26,0.26
+106,Chelsea,Oldham,0,0,0,0
+107,Chelsea,Sheffield United,1,0.5,0,0
+108,Chelsea,Southampton,0.61,0.61,0.22,0.17
+109,Chelsea,West Ham,0.59,0.5,0.23,0.14
+110,Chelsea,Norwich,0.71,0.57,0.14,0.29
+111,Chelsea,Tottenham,0.64,0.4,0.32,0.4
+112,Chelsea,Everton,0.56,0.36,0.4,0.32
+113,Chelsea,Ipswich,0.75,0,0.25,0.75
+114,Chelsea,Leeds,0.45,0.18,0.36,0.27
+115,Chelsea,Wimbledon,0.43,0.57,0.29,0.43
+116,Chelsea,Blackburn,0.41,0.53,0.29,0.18
+117,Chelsea,Coventry,0.62,0,0.25,0.5
+118,Chelsea,Man United,0.48,0.24,0.32,0.4
+119,Chelsea,QPR,0.67,0.33,0.17,0.33
+120,Chelsea,Sheffield Weds,0.29,0.29,0.71,0.43
+121,Chelsea,Swindon,1,1,0,0
+122,Chelsea,Crystal Palace,0.62,0.75,0.12,0
+123,Chelsea,Leicester,0.58,0.58,0.33,0.17
+124,Chelsea,Nottingham Forest,0.5,0.5,0.25,0.25
+125,Chelsea,Bolton,0.69,0.69,0.23,0.15
+126,Chelsea,Middlesbrough,0.77,0.54,0.23,0.08
+127,Chelsea,Derby,1,0.43,0,0.29
+128,Chelsea,Sunderland,0.81,0.62,0,0.12
+129,Chelsea,Barnsley,1,1,0,0
+130,Chelsea,Charlton,0.62,0.62,0.12,0
+131,Chelsea,Watford,0.8,0.4,0.2,0.2
+132,Chelsea,Bradford,1,0,0,0.5
+133,Chelsea,Fulham,0.62,0.54,0.38,0.38
+134,Chelsea,Birmingham,0.71,0.43,0.29,0.43
+135,Chelsea,Middlesboro,1,0,0,1
+136,Chelsea,West Brom,0.83,0.67,0.17,0.08
+137,Chelsea,Portsmouth,1,0.86,0,0.14
+138,Chelsea,Wolves,1,0.75,0,0
+139,Chelsea,Wigan,0.88,0.75,0.12,0.12
+140,Chelsea,Reading,0.67,0.67,0.33,0.33
+141,Chelsea,Hull,0.8,0.8,0.2,0.2
+142,Chelsea,Stoke,0.9,0.6,0.1,0.2
+143,Chelsea,Burnley,0.5,0.75,0.25,0.25
+144,Chelsea,Blackpool,1,1,0,0
+145,Chelsea,Swansea,0.86,0.43,0.14,0.43
+146,Chelsea,Cardiff,1,1,0,0
+147,Chelsea,Bournemouth,0.33,1,0,0
+148,Chelsea,Brighton,1,1,0,0
+149,Chelsea,Huddersfield,0,1,1,0
+150,Liverpool,Arsenal,0.48,0.24,0.32,0.4
+151,Liverpool,Aston Villa,0.57,0.57,0.22,0.22
+152,Liverpool,Chelsea,0.48,0.24,0.28,0.2
+153,Liverpool,Liverpool,0,0,0,0
+154,Liverpool,Man City,0.75,0.2,0.2,0.45
+155,Liverpool,Newcastle,0.78,0.3,0.17,0.26
+156,Liverpool,Oldham,1,1,0,0
+157,Liverpool,Sheffield United,0.5,0,0,1
+158,Liverpool,Southampton,0.56,0.44,0.28,0.22
+159,Liverpool,West Ham,0.68,0.5,0.27,0.14
+160,Liverpool,Norwich,0.57,0.86,0.29,0.14
+161,Liverpool,Tottenham,0.6,0.28,0.32,0.28
+162,Liverpool,Everton,0.44,0.4,0.48,0.36
+163,Liverpool,Ipswich,0.5,0.75,0,0.25
+164,Liverpool,Leeds,0.64,0.55,0.09,0.18
+165,Liverpool,Wimbledon,0.57,0.14,0.43,0.43
+166,Liverpool,Blackburn,0.59,0.35,0.35,0.35
+167,Liverpool,Coventry,0.62,0.38,0.12,0.25
+168,Liverpool,Man United,0.32,0.2,0.24,0.16
+169,Liverpool,QPR,0.83,0.67,0.17,0
+170,Liverpool,Sheffield Weds,0.86,0.29,0,0.43
+171,Liverpool,Swindon,0,1,1,0
+172,Liverpool,Crystal Palace,0.5,0.62,0.12,0.12
+173,Liverpool,Leicester,0.58,0.42,0.17,0.25
+174,Liverpool,Nottingham Forest,1,0,0,0.75
+175,Liverpool,Bolton,0.92,0.46,0.08,0.23
+176,Liverpool,Middlesbrough,0.77,0.23,0.23,0.38
+177,Liverpool,Derby,0.71,0.71,0.14,0
+178,Liverpool,Sunderland,0.5,0.62,0.5,0.19
+179,Liverpool,Barnsley,0,1,0,0
+180,Liverpool,Charlton,0.5,0.5,0.38,0
+181,Liverpool,Watford,0.8,0.6,0,0.2
+182,Liverpool,Bradford,1,0.5,0,0
+183,Liverpool,Fulham,0.62,0.62,0.31,0
+184,Liverpool,Birmingham,0.29,0.14,0.57,0.57
+185,Liverpool,Middlesboro,0,0,1,0
+186,Liverpool,West Brom,0.67,0.5,0.17,0.33
+187,Liverpool,Portsmouth,0.71,0.43,0.29,0.14
+188,Liverpool,Wolves,0.75,0.5,0,0.5
+189,Liverpool,Wigan,0.62,0.5,0.25,0.38
+190,Liverpool,Reading,1,0.33,0,0.33
+191,Liverpool,Hull,0.6,0.2,0.4,0.2
+192,Liverpool,Stoke,0.6,0.4,0.4,0.2
+193,Liverpool,Burnley,0.75,0.75,0.25,0
+194,Liverpool,Blackpool,0,0,0,0
+195,Liverpool,Swansea,0.71,0.29,0.14,0.29
+196,Liverpool,Cardiff,1,1,0,0
+197,Liverpool,Bournemouth,0.67,0.67,0.33,0
+198,Liverpool,Brighton,1,1,0,0
+199,Liverpool,Huddersfield,1,1,0,0
+200,Man City,Arsenal,0.35,0.1,0.15,0.35
+201,Man City,Aston Villa,0.83,0.39,0.06,0.39
+202,Man City,Chelsea,0.35,0.15,0.1,0.25
+203,Man City,Liverpool,0.35,0.05,0.45,0.2
+204,Man City,Man City,0,0,0,0
+205,Man City,Newcastle,0.72,0.5,0.22,0.17
+206,Man City,Oldham,0,0,1,1
+207,Man City,Sheffield United,0,1,1,0
+208,Man City,Southampton,0.54,0.46,0.23,0.31
+209,Man City,West Ham,0.76,0.35,0.12,0.24
+210,Man City,Norwich,0.57,0.43,0.29,0.57
+211,Man City,Tottenham,0.4,0.25,0.15,0.15
+212,Man City,Everton,0.5,0.2,0.2,0.25
+213,Man City,Ipswich,0.67,0.33,0,0.33
+214,Man City,Leeds,0.17,0.33,0.67,0
+215,Man City,Wimbledon,0.67,0,0,0
+216,Man City,Blackburn,0.23,0.38,0.54,0.15
+217,Man City,Coventry,0,0,0.75,0.25
+218,Man City,Man United,0.35,0.3,0.1,0.25
+219,Man City,QPR,0.83,0.33,0,0.5
+220,Man City,Sheffield Weds,0.67,0,0,1
+221,Man City,Swindon,1,1,0,0
+222,Man City,Crystal Palace,0.86,0.57,0.14,0.14
+223,Man City,Leicester,0.43,0.57,0,0.29
+224,Man City,Nottingham Forest,0,0,1,0
+225,Man City,Bolton,0.73,0.36,0,0.36
+226,Man City,Middlesbrough,0.33,0.11,0.33,0.33
+227,Man City,Derby,0.5,0,0.5,1
+228,Man City,Sunderland,0.85,0.54,0.15,0.08
+229,Man City,Barnsley,0,0,0,0
+230,Man City,Charlton,0.33,0.33,0.33,0.33
+231,Man City,Watford,0.75,0.75,0.25,0.25
+232,Man City,Bradford,1,0,0,1
+233,Man City,Fulham,0.42,0.5,0.33,0.42
+234,Man City,Birmingham,0.71,0.29,0.29,0.29
+235,Man City,Middlesboro,0,0,1,0
+236,Man City,West Brom,0.75,0.67,0.17,0.08
+237,Man City,Portsmouth,0.71,0.29,0.29,0.14
+238,Man City,Wolves,0.75,0.5,0.25,0
+239,Man City,Wigan,0.62,0.38,0.12,0.25
+240,Man City,Reading,0.67,0.33,0,0
+241,Man City,Hull,0.6,0.6,0.4,0.2
+242,Man City,Stoke,0.8,0.3,0.1,0.5
+243,Man City,Burnley,0.5,0.5,0.5,0.25
+244,Man City,Blackpool,1,1,0,0
+245,Man City,Swansea,1,0.57,0,0.29
+246,Man City,Cardiff,1,0,0,0
+247,Man City,Bournemouth,1,1,0,0
+248,Man City,Brighton,1,1,0,0
+249,Man City,Huddersfield,0,1,1,0
+250,Newcastle,Arsenal,0.26,0.17,0.35,0.09
+251,Newcastle,Aston Villa,0.64,0.36,0.27,0.36
+252,Newcastle,Chelsea,0.48,0.04,0.26,0.26
+253,Newcastle,Liverpool,0.43,0.04,0.26,0.17
+254,Newcastle,Man City,0.33,0.06,0.17,0.22
+255,Newcastle,Newcastle,0,0,0,0
+256,Newcastle,Oldham,1,1,0,0
+257,Newcastle,Sheffield United,0.5,0.5,0,0
+258,Newcastle,Southampton,0.65,0.06,0.18,0.24
+259,Newcastle,West Ham,0.55,0.4,0.3,0.2
+260,Newcastle,Norwich,0.86,0.14,0.14,0.29
+261,Newcastle,Tottenham,0.52,0.39,0.22,0.04
+262,Newcastle,Everton,0.52,0.22,0.17,0.22
+263,Newcastle,Ipswich,0.5,0.5,0.5,0.25
+264,Newcastle,Leeds,0.45,0.55,0.27,0.27
+265,Newcastle,Wimbledon,0.71,0,0.14,0.57
+266,Newcastle,Blackburn,0.38,0.19,0.25,0.31
+267,Newcastle,Coventry,0.88,0.38,0.12,0.25
+268,Newcastle,Man United,0.22,0.04,0.26,0.35
+269,Newcastle,QPR,0.83,0.5,0,0.17
+270,Newcastle,Sheffield Weds,0.71,0.43,0.14,0.43
+271,Newcastle,Swindon,1,0,0,1
+272,Newcastle,Crystal Palace,0.57,0.57,0.29,0.29
+273,Newcastle,Leicester,0.64,0.27,0.09,0.36
+274,Newcastle,Nottingham Forest,1,0.25,0,0.75
+275,Newcastle,Bolton,0.67,0.33,0.25,0
+276,Newcastle,Middlesbrough,0.5,0.5,0.42,0.42
+277,Newcastle,Derby,0.71,0.43,0.29,0.14
+278,Newcastle,Sunderland,0.29,0.36,0.36,0.36
+279,Newcastle,Barnsley,1,0,0,1
+280,Newcastle,Charlton,0.38,0.12,0.5,0.5
+281,Newcastle,Watford,0.5,0,0,0.5
+282,Newcastle,Bradford,1,0,0,0.5
+283,Newcastle,Fulham,0.5,0.25,0.25,0
+284,Newcastle,Birmingham,0.83,0.33,0,0.67
+285,Newcastle,Middlesboro,1,0,0,0
+286,Newcastle,West Brom,0.64,0.36,0.18,0.36
+287,Newcastle,Portsmouth,0.5,0.17,0.33,0.67
+288,Newcastle,Wolves,0.33,0.33,0.67,0.67
+289,Newcastle,Wigan,0.71,0.14,0.29,0
+290,Newcastle,Reading,0.67,0,0,0.33
+291,Newcastle,Hull,0,0.67,0.33,0.33
+292,Newcastle,Stoke,0.5,0.25,0.38,0.12
+293,Newcastle,Burnley,0,0,1,0.5
+294,Newcastle,Blackpool,0,0,0,1
+295,Newcastle,Swansea,0.17,0.33,0.33,0.17
+296,Newcastle,Cardiff,1,1,0,0
+297,Newcastle,Bournemouth,0,0.5,0,0.5
+298,Newcastle,Brighton,0,0,1,0
+299,Newcastle,Huddersfield,1,0,0,0
+300,Oldham,Arsenal,0,0,1,1
+301,Oldham,Aston Villa,0,1,1,0
+302,Oldham,Chelsea,1,1,0,0
+303,Oldham,Liverpool,0,0,0,0
+304,Oldham,Man City,0,0,1,1
+305,Oldham,Newcastle,0,0,0,0
+306,Oldham,Oldham,0,0,0,0
+307,Oldham,Sheffield United,0,0,1,0
+308,Oldham,Southampton,1,1,0,0
+309,Oldham,West Ham,0,0,0,0
+310,Oldham,Norwich,1,0,0,1
+311,Oldham,Tottenham,0,0,0,0
+312,Oldham,Everton,0,0,0,0
+313,Oldham,Ipswich,0,0,0,1
+314,Oldham,Leeds,0,0,1,0
+315,Oldham,Wimbledon,0,0,1,0
+316,Oldham,Blackburn,0,0,0,0
+317,Oldham,Coventry,0,0,1,1
+318,Oldham,Man United,0,0,0,0
+319,Oldham,QPR,1,0,0,0
+320,Oldham,Sheffield Weds,0,0,1,0
+321,Oldham,Swindon,1,1,0,0
+322,Oldham,Crystal Palace,0,0,0,0
+323,Oldham,Leicester,0,0,0,0
+324,Oldham,Nottingham Forest,0,0,0,0
+325,Oldham,Bolton,0,0,0,0
+326,Oldham,Middlesbrough,0,0,0,0
+327,Oldham,Derby,0,0,0,0
+328,Oldham,Sunderland,0,0,0,0
+329,Oldham,Barnsley,0,0,0,0
+330,Oldham,Charlton,0,0,0,0
+331,Oldham,Watford,0,0,0,0
+332,Oldham,Bradford,0,0,0,0
+333,Oldham,Fulham,0,0,0,0
+334,Oldham,Birmingham,0,0,0,0
+335,Oldham,Middlesboro,0,0,0,0
+336,Oldham,West Brom,0,0,0,0
+337,Oldham,Portsmouth,0,0,0,0
+338,Oldham,Wolves,0,0,0,0
+339,Oldham,Wigan,0,0,0,0
+340,Oldham,Reading,0,0,0,0
+341,Oldham,Hull,0,0,0,0
+342,Oldham,Stoke,0,0,0,0
+343,Oldham,Burnley,0,0,0,0
+344,Oldham,Blackpool,0,0,0,0
+345,Oldham,Swansea,0,0,0,0
+346,Oldham,Cardiff,0,0,0,0
+347,Oldham,Bournemouth,0,0,0,0
+348,Oldham,Brighton,0,0,0,0
+349,Oldham,Huddersfield,0,0,0,0
+350,Sheffield United,Arsenal,0.5,0,0.5,0
+351,Sheffield United,Aston Villa,0,0,0.5,0
+352,Sheffield United,Chelsea,0.5,0,0,0
+353,Sheffield United,Liverpool,0,0.5,1,0
+354,Sheffield United,Man City,0,0,0,1
+355,Sheffield United,Newcastle,0.5,0.5,0,0
+356,Sheffield United,Oldham,1,0,0,1
+357,Sheffield United,Sheffield United,0,0,0,0
+358,Sheffield United,Southampton,0,0,1,1
+359,Sheffield United,West Ham,1,0,0,0.5
+360,Sheffield United,Norwich,0,1,0,0
+361,Sheffield United,Tottenham,0.5,0,0.5,0.5
+362,Sheffield United,Everton,0,0,1,0
+363,Sheffield United,Ipswich,0,0,1,0
+364,Sheffield United,Leeds,0,0,1,0
+365,Sheffield United,Wimbledon,1,0,0,0
+366,Sheffield United,Blackburn,0,0,0.5,0.5
+367,Sheffield United,Coventry,0,0,1,1
+368,Sheffield United,Man United,0,0,0,0
+369,Sheffield United,QPR,0,0,1,0
+370,Sheffield United,Sheffield Weds,0,0,1,0
+371,Sheffield United,Swindon,1,0,0,1
+372,Sheffield United,Crystal Palace,0,0,0,0
+373,Sheffield United,Leicester,0,0,0,0
+374,Sheffield United,Nottingham Forest,0,0,0,0
+375,Sheffield United,Bolton,0,0,1,0
+376,Sheffield United,Middlesbrough,1,0,0,0
+377,Sheffield United,Derby,0,0,0,0
+378,Sheffield United,Sunderland,0,0,0,0
+379,Sheffield United,Barnsley,0,0,0,0
+380,Sheffield United,Charlton,1,0,0,1
+381,Sheffield United,Watford,1,1,0,0
+382,Sheffield United,Bradford,0,0,0,0
+383,Sheffield United,Fulham,1,0,0,0
+384,Sheffield United,Birmingham,0,0,0,0
+385,Sheffield United,Middlesboro,0,0,0,0
+386,Sheffield United,West Brom,0,0,0,0
+387,Sheffield United,Portsmouth,0,0,1,0
+388,Sheffield United,Wolves,0,0,0,0
+389,Sheffield United,Wigan,0,1,0,0
+390,Sheffield United,Reading,0,0,0,0
+391,Sheffield United,Hull,0,0,0,0
+392,Sheffield United,Stoke,0,0,0,0
+393,Sheffield United,Burnley,0,0,0,0
+394,Sheffield United,Blackpool,0,0,0,0
+395,Sheffield United,Swansea,0,0,0,0
+396,Sheffield United,Cardiff,0,0,0,0
+397,Sheffield United,Bournemouth,0,0,0,0
+398,Sheffield United,Brighton,0,0,0,0
+399,Sheffield United,Huddersfield,0,0,0,0
+400,Southampton,Arsenal,0.28,0,0.33,0.28
+401,Southampton,Aston Villa,0.38,0.31,0.19,0.31
+402,Southampton,Chelsea,0.22,0.17,0.17,0.22
+403,Southampton,Liverpool,0.33,0.17,0.22,0.28
+404,Southampton,Man City,0.23,0.23,0.31,0.23
+405,Southampton,Newcastle,0.71,0.18,0.24,0.18
+406,Southampton,Oldham,0,0,0,0
+407,Southampton,Sheffield United,0,0,1,1
+408,Southampton,Southampton,0,0,0,0
+409,Southampton,West Ham,0.44,0.25,0.38,0.06
+410,Southampton,Norwich,0.5,0.17,0.33,0.33
+411,Southampton,Tottenham,0.44,0.17,0.22,0.11
+412,Southampton,Everton,0.56,0.06,0.28,0.28
+413,Southampton,Ipswich,0.25,0.25,0.25,0
+414,Southampton,Leeds,0.36,0.09,0.09,0.45
+415,Southampton,Wimbledon,0.43,0.43,0.29,0.14
+416,Southampton,Blackburn,0.6,0.1,0.3,0.1
+417,Southampton,Coventry,0.38,0.25,0.38,0.5
+418,Southampton,Man United,0.28,0.11,0.17,0.17
+419,Southampton,QPR,0.6,0.4,0,0.2
+420,Southampton,Sheffield Weds,0.29,0.14,0.29,0.57
+421,Southampton,Swindon,1,0,0,0
+422,Southampton,Crystal Palace,0.75,0.38,0.12,0.38
+423,Southampton,Leicester,0.42,0.08,0.42,0.33
+424,Southampton,Nottingham Forest,0,0.25,0.5,0.25
+425,Southampton,Bolton,0.17,0.33,0.33,0.67
+426,Southampton,Middlesbrough,0.33,0.56,0.44,0.11
+427,Southampton,Derby,0.5,0,0.17,0.5
+428,Southampton,Sunderland,0.4,0.4,0.3,0.4
+429,Southampton,Barnsley,1,0,0,0
+430,Southampton,Charlton,0.5,0,0.5,0.5
+431,Southampton,Watford,0.5,0.25,0.25,0.5
+432,Southampton,Bradford,1,1,0,0
+433,Southampton,Fulham,0.33,0.17,0.67,0.33
+434,Southampton,Birmingham,0.33,0,0.67,0
+435,Southampton,Middlesboro,0,0,1,1
+436,Southampton,West Brom,0.5,0.38,0.25,0.25
+437,Southampton,Portsmouth,1,0,0,0
+438,Southampton,Wolves,1,1,0,0
+439,Southampton,Wigan,0,0,0,1
+440,Southampton,Reading,1,1,0,0
+441,Southampton,Hull,0.67,0.67,0.33,0
+442,Southampton,Stoke,0.17,0.17,0.5,0.5
+443,Southampton,Burnley,0.67,0,0,0.33
+444,Southampton,Blackpool,0,0,0,0
+445,Southampton,Swansea,0.5,0.67,0.33,0.17
+446,Southampton,Cardiff,0,1,0,0
+447,Southampton,Bournemouth,0.67,0.33,0.33,0.33
+448,Southampton,Brighton,0,0,1,1
+449,Southampton,Huddersfield,0,0,1,1
+450,West Ham,Arsenal,0.09,0.23,0.36,0.05
+451,West Ham,Aston Villa,0.3,0.15,0.5,0.4
+452,West Ham,Chelsea,0.36,0.18,0.14,0.23
+453,West Ham,Liverpool,0.36,0.05,0.14,0.27
+454,West Ham,Man City,0.41,0.12,0.24,0.12
+455,West Ham,Newcastle,0.4,0.15,0.2,0.3
+456,West Ham,Oldham,1,1,0,0
+457,West Ham,Sheffield United,0.5,0,0.5,0
+458,West Ham,Southampton,0.69,0.19,0.06,0.38
+459,West Ham,West Ham,0,0,0,0
+460,West Ham,Norwich,0.4,0,0.6,0.6
+461,West Ham,Tottenham,0.45,0.18,0.14,0.27
+462,West Ham,Everton,0.23,0.14,0.32,0.23
+463,West Ham,Ipswich,0.5,0.25,0.25,0.75
+464,West Ham,Leeds,0.1,0.1,0.3,0.1
+465,West Ham,Wimbledon,0.43,0.43,0.14,0.43
+466,West Ham,Blackburn,0.71,0.21,0.21,0.29
+467,West Ham,Coventry,0.62,0.25,0.25,0.5
+468,West Ham,Man United,0.14,0.09,0.45,0.09
+469,West Ham,QPR,0.4,0.2,0.4,0.4
+470,West Ham,Sheffield Weds,0.57,0.29,0.14,0.29
+471,West Ham,Swindon,0,0,1,1
+472,West Ham,Crystal Palace,0.43,0.43,0.29,0.29
+473,West Ham,Leicester,0.64,0.36,0.09,0.27
+474,West Ham,Nottingham Forest,0.75,0.25,0,0.75
+475,West Ham,Bolton,0.4,0.1,0.2,0.1
+476,West Ham,Middlesbrough,0.73,0.18,0.18,0.09
+477,West Ham,Derby,0.57,0.43,0.43,0.29
+478,West Ham,Sunderland,0.67,0.2,0.2,0.47
+479,West Ham,Barnsley,1,1,0,0
+480,West Ham,Charlton,0.5,0,0.17,0.33
+481,West Ham,Watford,0.6,0.2,0,0.4
+482,West Ham,Bradford,0.5,1,0.5,0
+483,West Ham,Fulham,0.5,0.6,0.4,0.1
+484,West Ham,Birmingham,0.4,0.4,0.2,0.4
+485,West Ham,Middlesboro,1,0,0,1
+486,West Ham,West Brom,0.3,0.4,0.6,0.3
+487,West Ham,Portsmouth,0.2,0.2,0.2,0.6
+488,West Ham,Wolves,0.5,0.5,0,0.5
+489,West Ham,Wigan,0.57,0.43,0.14,0
+490,West Ham,Reading,0.33,0.33,0.33,0
+491,West Ham,Hull,1,0,0,0.4
+492,West Ham,Stoke,0.22,0.33,0.56,0.33
+493,West Ham,Burnley,0.75,0.5,0,0.25
+494,West Ham,Blackpool,0,1,1,0
+495,West Ham,Swansea,0.83,0.17,0,0.5
+496,West Ham,Cardiff,1,1,0,0
+497,West Ham,Bournemouth,0.33,0.33,0.33,0.33
+498,West Ham,Brighton,0,0,0,0
+499,West Ham,Huddersfield,1,1,0,0
+500,Norwich,Arsenal,0.14,0,0.43,0.29
+501,Norwich,Aston Villa,0.29,0,0.29,0.43
+502,Norwich,Chelsea,0.14,0.14,0.29,0.14
+503,Norwich,Liverpool,0,0.14,0.14,0.29
+504,Norwich,Man City,0,0.14,0.57,0.29
+505,Norwich,Newcastle,0.57,0,0.29,0.14
+506,Norwich,Oldham,0,0,1,0
+507,Norwich,Sheffield United,0,1,0,0
+508,Norwich,Southampton,0.5,0.17,0.33,0.33
+509,Norwich,West Ham,0.4,0,0.6,0.6
+510,Norwich,Norwich,0,0,0,0
+511,Norwich,Tottenham,0.14,0.29,0.14,0.29
+512,Norwich,Everton,0.29,0.14,0.57,0.29
+513,Norwich,Ipswich,1,0.5,0,0
+514,Norwich,Leeds,1,0.5,0,0
+515,Norwich,Wimbledon,0,0,0,0
+516,Norwich,Blackburn,0.25,0.25,0.75,0.25
+517,Norwich,Coventry,0.5,0,0.5,0
+518,Norwich,Man United,0.29,0.14,0,0.14
+519,Norwich,QPR,0.5,0.25,0.25,0.5
+520,Norwich,Sheffield Weds,0,0,1,1
+521,Norwich,Swindon,0,0,1,1
+522,Norwich,Crystal Palace,0.25,0.25,0.5,0.5
+523,Norwich,Leicester,0.5,0,0,0
+524,Norwich,Nottingham Forest,0,0,0,0
+525,Norwich,Bolton,1,0.5,0,0
+526,Norwich,Middlesbrough,0,0,1,0
+527,Norwich,Derby,0,0,0,0
+528,Norwich,Sunderland,0.75,0.25,0,0.5
+529,Norwich,Barnsley,0,0,0,0
+530,Norwich,Charlton,1,0,0,0
+531,Norwich,Watford,1,0,0,0
+532,Norwich,Bradford,0,0,0,0
+533,Norwich,Fulham,0,0,0.5,0
+534,Norwich,Birmingham,1,0,0,1
+535,Norwich,Middlesboro,0,0,0,0
+536,Norwich,West Brom,0.4,0.6,0,0.2
+537,Norwich,Portsmouth,0,0,1,1
+538,Norwich,Wolves,1,0,0,1
+539,Norwich,Wigan,0.5,0,0.5,0.5
+540,Norwich,Reading,1,0,0,1
+541,Norwich,Hull,1,0,0,0
+542,Norwich,Stoke,0.25,0.25,0.75,0
+543,Norwich,Burnley,0,0,0,0
+544,Norwich,Blackpool,0,0,0,0
+545,Norwich,Swansea,0.5,0.5,0.5,0
+546,Norwich,Cardiff,0,0,1,0
+547,Norwich,Bournemouth,1,0,0,0
+548,Norwich,Brighton,0,0,0,0
+549,Norwich,Huddersfield,0,0,0,0
+550,Tottenham,Arsenal,0.36,0.04,0.44,0.4
+551,Tottenham,Aston Villa,0.52,0.3,0.26,0.3
+552,Tottenham,Chelsea,0.2,0.04,0.4,0.32
+553,Tottenham,Liverpool,0.44,0.08,0.28,0.32
+554,Tottenham,Man City,0.6,0.45,0.15,0.15
+555,Tottenham,Newcastle,0.57,0.26,0.04,0.22
+556,Tottenham,Oldham,1,1,0,0
+557,Tottenham,Sheffield United,0.5,0,0.5,0.5
+558,Tottenham,Southampton,0.72,0.33,0.11,0.22
+559,Tottenham,West Ham,0.55,0.41,0.27,0.14
+560,Tottenham,Norwich,0.43,0.71,0.29,0.14
+561,Tottenham,Tottenham,0,0,0,0
+562,Tottenham,Everton,0.6,0.32,0.28,0.48
+563,Tottenham,Ipswich,0.5,0.25,0.25,0.25
+564,Tottenham,Leeds,0.45,0.18,0.27,0.27
+565,Tottenham,Wimbledon,0.43,0.43,0.43,0.14
+566,Tottenham,Blackburn,0.59,0.41,0.18,0.24
+567,Tottenham,Coventry,0.38,0.5,0.25,0.12
+568,Tottenham,Man United,0.24,0.08,0.28,0.12
+569,Tottenham,QPR,0.67,0.33,0.17,0.33
+570,Tottenham,Sheffield Weds,0.43,0.43,0.14,0.14
+571,Tottenham,Swindon,0,0,1,0
+572,Tottenham,Crystal Palace,0.5,0.62,0.38,0.12
+573,Tottenham,Leicester,0.42,0.33,0.25,0.17
+574,Tottenham,Nottingham Forest,0.25,0.25,0,0.25
+575,Tottenham,Bolton,0.69,0.15,0.15,0.31
+576,Tottenham,Middlesbrough,0.54,0.31,0.31,0.38
+577,Tottenham,Derby,0.57,0.43,0.43,0
+578,Tottenham,Sunderland,0.88,0.44,0.06,0.31
+579,Tottenham,Barnsley,1,0,0,1
+580,Tottenham,Charlton,0.25,0.62,0.38,0
+581,Tottenham,Watford,1,0.4,0,0.6
+582,Tottenham,Bradford,0.5,0,0.5,1
+583,Tottenham,Fulham,0.62,0.38,0.23,0.23
+584,Tottenham,Birmingham,0.86,0.14,0,0.57
+585,Tottenham,Middlesboro,0,0,0,0
+586,Tottenham,West Brom,0.42,0.33,0.5,0.42
+587,Tottenham,Portsmouth,0.86,0.43,0.14,0.14
+588,Tottenham,Wolves,0.5,0.5,0.25,0.25
+589,Tottenham,Wigan,0.5,0.38,0.25,0.5
+590,Tottenham,Reading,1,0.67,0,0
+591,Tottenham,Hull,0.6,0.8,0.2,0.2
+592,Tottenham,Stoke,0.5,0.7,0.3,0
+593,Tottenham,Burnley,0.75,0.5,0.25,0.25
+594,Tottenham,Blackpool,0,0,1,0
+595,Tottenham,Swansea,0.86,0.71,0.14,0.29
+596,Tottenham,Cardiff,1,1,0,0
+597,Tottenham,Bournemouth,1,0.67,0,0.33
+598,Tottenham,Brighton,1,0,0,1
+599,Tottenham,Huddersfield,1,1,0,0
+600,Everton,Arsenal,0.24,0.04,0.28,0.2
+601,Everton,Aston Villa,0.35,0.17,0.39,0.35
+602,Everton,Chelsea,0.32,0.04,0.32,0.4
+603,Everton,Liverpool,0.24,0.08,0.36,0.48
+604,Everton,Man City,0.55,0.3,0.25,0.2
+605,Everton,Newcastle,0.57,0.3,0.22,0.17
+606,Everton,Oldham,1,1,0,0
+607,Everton,Sheffield United,1,0,0,1
+608,Everton,Southampton,0.67,0.17,0.28,0.28
+609,Everton,West Ham,0.64,0.45,0.23,0.32
+610,Everton,Norwich,0.57,0.14,0.29,0.57
+611,Everton,Tottenham,0.2,0.12,0.48,0.28
+612,Everton,Everton,0,0,0,0
+613,Everton,Ipswich,0.25,0.5,0.25,0.25
+614,Everton,Leeds,0.45,0.09,0.55,0.36
+615,Everton,Wimbledon,0.29,0.43,0.43,0.29
+616,Everton,Blackburn,0.41,0.35,0.18,0.29
+617,Everton,Coventry,0.12,0.12,0.62,0.38
+618,Everton,Man United,0.24,0.04,0.16,0.2
+619,Everton,QPR,0.5,0.33,0.17,0.33
+620,Everton,Sheffield Weds,0.14,0.29,0.29,0.29
+621,Everton,Swindon,1,0,0,1
+622,Everton,Crystal Palace,0.38,0.5,0.25,0.38
+623,Everton,Leicester,0.33,0.25,0.58,0.5
+624,Everton,Nottingham Forest,0.5,0.5,0,0
+625,Everton,Bolton,0.62,0.38,0.15,0.31
+626,Everton,Middlesbrough,0.54,0.38,0.31,0.23
+627,Everton,Derby,0.57,0.43,0.29,0
+628,Everton,Sunderland,0.69,0.38,0.12,0.25
+629,Everton,Barnsley,1,0,0,1
+630,Everton,Charlton,0.62,0.25,0,0.38
+631,Everton,Watford,0.8,0.4,0.2,0.2
+632,Everton,Bradford,1,0.5,0,0.5
+633,Everton,Fulham,1,0.23,0,0.15
+634,Everton,Birmingham,0.29,0.43,0.71,0.43
+635,Everton,Middlesboro,1,0,0,1
+636,Everton,West Brom,0.5,0.5,0.33,0.17
+637,Everton,Portsmouth,0.71,0.57,0,0.14
+638,Everton,Wolves,0.5,0.25,0.5,0.5
+639,Everton,Wigan,0.62,0.38,0.25,0.5
+640,Everton,Reading,0.67,0.33,0.33,0
+641,Everton,Hull,0.8,0.2,0.2,0.4
+642,Everton,Stoke,0.6,0.3,0.1,0.5
+643,Everton,Burnley,0.75,0.25,0,0
+644,Everton,Blackpool,1,0,0,1
+645,Everton,Swansea,0.43,0.43,0.43,0.43
+646,Everton,Cardiff,1,0,0,1
+647,Everton,Bournemouth,1,0,0,0.33
+648,Everton,Brighton,1,0,0,1
+649,Everton,Huddersfield,1,1,0,0
+650,Ipswich,Arsenal,0,0,0.25,0
+651,Ipswich,Aston Villa,0,0.25,0.25,0
+652,Ipswich,Chelsea,0.25,0,0.75,0.25
+653,Ipswich,Liverpool,0,0.5,0.25,0
+654,Ipswich,Man City,0.33,0.33,0.33,0
+655,Ipswich,Newcastle,0.25,0,0.25,0.5
+656,Ipswich,Oldham,0,1,1,0
+657,Ipswich,Sheffield United,1,0,0,1
+658,Ipswich,Southampton,0.75,0.5,0,0.25
+659,Ipswich,West Ham,0,0.25,0.75,0.25
+660,Ipswich,Norwich,0.5,0,0,0
+661,Ipswich,Tottenham,0.5,0.25,0.25,0.25
+662,Ipswich,Everton,0.25,0.5,0.25,0.25
+663,Ipswich,Ipswich,0,0,0,0
+664,Ipswich,Leeds,0.25,0.25,0.25,0.25
+665,Ipswich,Wimbledon,0,0.5,1,0.5
+666,Ipswich,Blackburn,0.33,0,0.33,0.33
+667,Ipswich,Coventry,0.67,0.33,0,0
+668,Ipswich,Man United,0.25,0,0.25,0.25
+669,Ipswich,QPR,0,0.5,0,0
+670,Ipswich,Sheffield Weds,0,0,0,0
+671,Ipswich,Swindon,0,0,1,1
+672,Ipswich,Crystal Palace,0,0,0,0
+673,Ipswich,Leicester,1,0,0,0.33
+674,Ipswich,Nottingham Forest,0,0,0,0
+675,Ipswich,Bolton,0,0,0,0
+676,Ipswich,Middlesbrough,1,0.5,0,0.5
+677,Ipswich,Derby,0.5,0.5,0,0.5
+678,Ipswich,Sunderland,1,0,0,0
+679,Ipswich,Barnsley,0,0,0,0
+680,Ipswich,Charlton,0.5,0,0,0
+681,Ipswich,Watford,0,0,0,0
+682,Ipswich,Bradford,1,1,0,0
+683,Ipswich,Fulham,1,0,0,1
+684,Ipswich,Birmingham,0,0,0,0
+685,Ipswich,Middlesboro,0,0,0,0
+686,Ipswich,West Brom,0,0,0,0
+687,Ipswich,Portsmouth,0,0,0,0
+688,Ipswich,Wolves,0,0,0,0
+689,Ipswich,Wigan,0,0,0,0
+690,Ipswich,Reading,0,0,0,0
+691,Ipswich,Hull,0,0,0,0
+692,Ipswich,Stoke,0,0,0,0
+693,Ipswich,Burnley,0,0,0,0
+694,Ipswich,Blackpool,0,0,0,0
+695,Ipswich,Swansea,0,0,0,0
+696,Ipswich,Cardiff,0,0,0,0
+697,Ipswich,Bournemouth,0,0,0,0
+698,Ipswich,Brighton,0,0,0,0
+699,Ipswich,Huddersfield,0,0,0,0
+700,Leeds,Arsenal,0.36,0.27,0.27,0
+701,Leeds,Aston Villa,0.36,0.27,0.45,0.18
+702,Leeds,Chelsea,0.55,0.18,0.27,0.36
+703,Leeds,Liverpool,0.27,0.27,0.18,0.09
+704,Leeds,Man City,0.67,0.17,0,0.67
+705,Leeds,Newcastle,0.18,0.27,0.27,0.27
+706,Leeds,Oldham,1,0,0,1
+707,Leeds,Sheffield United,1,0,0,1
+708,Leeds,Southampton,0.45,0.55,0.45,0.09
+709,Leeds,West Ham,0.8,0.6,0.1,0.3
+710,Leeds,Norwich,0.5,0,0,0
+711,Leeds,Tottenham,0.55,0.27,0.27,0.27
+712,Leeds,Everton,0.55,0,0.36,0.55
+713,Leeds,Ipswich,0.5,0.5,0.25,0.25
+714,Leeds,Leeds,0,0,0,0
+715,Leeds,Wimbledon,0.57,0.14,0.43,0.29
+716,Leeds,Blackburn,0.44,0.44,0.44,0.11
+717,Leeds,Coventry,0.75,0.25,0.12,0.5
+718,Leeds,Man United,0.36,0,0.18,0.36
+719,Leeds,QPR,0.33,0.67,0.33,0
+720,Leeds,Sheffield Weds,0.43,0.43,0.14,0.43
+721,Leeds,Swindon,1,1,0,0
+722,Leeds,Crystal Palace,0.5,1,0,0
+723,Leeds,Leicester,0.62,0.38,0.12,0
+724,Leeds,Nottingham Forest,0.75,0,0,0.5
+725,Leeds,Bolton,0.2,0.8,0.2,0
+726,Leeds,Middlesbrough,0.43,0.29,0.29,0.71
+727,Leeds,Derby,0.5,0.5,0.5,0.5
+728,Leeds,Sunderland,0.8,0.8,0,0
+729,Leeds,Barnsley,1,1,0,0
+730,Leeds,Charlton,0.4,0.8,0.4,0.2
+731,Leeds,Watford,1,1,0,0
+732,Leeds,Bradford,1,0.5,0,0.5
+733,Leeds,Fulham,0.67,0,0,0.33
+734,Leeds,Birmingham,0.5,0,0,0
+735,Leeds,Middlesboro,0,0,0,1
+736,Leeds,West Brom,0,1,1,0
+737,Leeds,Portsmouth,0,0,0,0
+738,Leeds,Wolves,1,0,0,0
+739,Leeds,Wigan,0,0,0,0
+740,Leeds,Reading,0,0,0,0
+741,Leeds,Hull,0,0,0,0
+742,Leeds,Stoke,0,0,0,0
+743,Leeds,Burnley,0,0,0,0
+744,Leeds,Blackpool,0,0,0,0
+745,Leeds,Swansea,0,0,0,0
+746,Leeds,Cardiff,0,0,0,0
+747,Leeds,Bournemouth,0,0,0,0
+748,Leeds,Brighton,0,0,0,0
+749,Leeds,Huddersfield,0,0,0,0
+750,Wimbledon,Arsenal,0.14,0.29,0.14,0.43
+751,Wimbledon,Aston Villa,0.29,0.29,0.57,0.14
+752,Wimbledon,Chelsea,0,0.29,0.43,0.29
+753,Wimbledon,Liverpool,0.43,0,0.43,0.43
+754,Wimbledon,Man City,1,0.33,0,0
+755,Wimbledon,Newcastle,0.43,0.14,0.57,0.14
+756,Wimbledon,Oldham,1,0,0,1
+757,Wimbledon,Sheffield United,1,0,0,0
+758,Wimbledon,Southampton,0.43,0.29,0.14,0.29
+759,Wimbledon,West Ham,0.14,0.43,0.43,0.14
+760,Wimbledon,Norwich,1,1,0,0
+761,Wimbledon,Tottenham,0.43,0.14,0.14,0.43
+762,Wimbledon,Everton,0.29,0.29,0.29,0.43
+763,Wimbledon,Ipswich,0,0,0.5,1
+764,Wimbledon,Leeds,0.57,0,0.29,0.43
+765,Wimbledon,Wimbledon,0,0,0,0
+766,Wimbledon,Blackburn,0.33,0,0.33,0.17
+767,Wimbledon,Coventry,0.29,0.14,0.29,0.57
+768,Wimbledon,Man United,0.14,0,0.29,0.14
+769,Wimbledon,QPR,0.33,0.67,0.33,0
+770,Wimbledon,Sheffield Weds,0.43,0.29,0.29,0.29
+771,Wimbledon,Swindon,1,1,0,0
+772,Wimbledon,Crystal Palace,0.5,0.5,0,0.5
+773,Wimbledon,Leicester,0.6,0.4,0,0.2
+774,Wimbledon,Nottingham Forest,0.5,0.25,0.25,0.25
+775,Wimbledon,Bolton,0.5,0,0.5,0
+776,Wimbledon,Middlesbrough,0,0.25,0.75,0.5
+777,Wimbledon,Derby,0.25,0.25,0.75,0.5
+778,Wimbledon,Sunderland,1,0.5,0,0
+779,Wimbledon,Barnsley,1,0,0,0
+780,Wimbledon,Charlton,1,0,0,0
+781,Wimbledon,Watford,1,1,0,0
+782,Wimbledon,Bradford,1,0,0,0
+783,Wimbledon,Fulham,0,0,0,0
+784,Wimbledon,Birmingham,0,0,0,0
+785,Wimbledon,Middlesboro,0,0,0,0
+786,Wimbledon,West Brom,0,0,0,0
+787,Wimbledon,Portsmouth,0,0,0,0
+788,Wimbledon,Wolves,0,0,0,0
+789,Wimbledon,Wigan,0,0,0,0
+790,Wimbledon,Reading,0,0,0,0
+791,Wimbledon,Hull,0,0,0,0
+792,Wimbledon,Stoke,0,0,0,0
+793,Wimbledon,Burnley,0,0,0,0
+794,Wimbledon,Blackpool,0,0,0,0
+795,Wimbledon,Swansea,0,0,0,0
+796,Wimbledon,Cardiff,0,0,0,0
+797,Wimbledon,Bournemouth,0,0,0,0
+798,Wimbledon,Brighton,0,0,0,0
+799,Wimbledon,Huddersfield,0,0,0,0
+800,Blackburn,Arsenal,0.29,0.12,0.18,0.29
+801,Blackburn,Aston Villa,0.47,0.35,0.24,0.06
+802,Blackburn,Chelsea,0.29,0.29,0.18,0.29
+803,Blackburn,Liverpool,0.29,0.06,0.35,0.35
+804,Blackburn,Man City,0.46,0.23,0.15,0.54
+805,Blackburn,Newcastle,0.5,0.38,0.31,0.25
+806,Blackburn,Oldham,1,1,0,0
+807,Blackburn,Sheffield United,0.5,0.5,0.5,0.5
+808,Blackburn,Southampton,0.8,0.1,0.1,0.3
+809,Blackburn,West Ham,0.5,0.07,0.29,0.21
+810,Blackburn,Norwich,0.5,0,0.25,0.75
+811,Blackburn,Tottenham,0.35,0.24,0.24,0.18
+812,Blackburn,Everton,0.35,0.41,0.29,0.18
+813,Blackburn,Ipswich,0.67,0.33,0.33,0.33
+814,Blackburn,Leeds,0.44,0.11,0.11,0.44
+815,Blackburn,Wimbledon,0.83,0.33,0.17,0.33
+816,Blackburn,Blackburn,0,0,0,0
+817,Blackburn,Coventry,0.67,0,0.17,0.5
+818,Blackburn,Man United,0.24,0.12,0.35,0.18
+819,Blackburn,QPR,0.75,0.5,0.25,0.25
+820,Blackburn,Sheffield Weds,0.67,0.33,0.17,0.33
+821,Blackburn,Swindon,1,1,0,0
+822,Blackburn,Crystal Palace,0.67,0.67,0.33,0.33
+823,Blackburn,Leicester,0.67,0,0.17,0.67
+824,Blackburn,Nottingham Forest,0.5,0.5,0.25,0.5
+825,Blackburn,Bolton,0.38,0.31,0.31,0.38
+826,Blackburn,Middlesbrough,0.3,0.5,0.5,0.1
+827,Blackburn,Derby,0.4,0.2,0.2,0.2
+828,Blackburn,Sunderland,0.44,0.22,0.33,0.33
+829,Blackburn,Barnsley,1,0,0,1
+830,Blackburn,Charlton,0.86,0.29,0,0.14
+831,Blackburn,Watford,1,0,0,0
+832,Blackburn,Bradford,0,0,0,0
+833,Blackburn,Fulham,0.64,0.36,0.18,0.27
+834,Blackburn,Birmingham,0.43,0.29,0.57,0
+835,Blackburn,Middlesboro,1,0,0,0
+836,Blackburn,West Brom,0.33,0.33,0.5,0.33
+837,Blackburn,Portsmouth,0.71,0.43,0,0.29
+838,Blackburn,Wolves,0.75,0.5,0,0.5
+839,Blackburn,Wigan,0.71,0.29,0.14,0.29
+840,Blackburn,Reading,0.5,0.5,0.5,0.5
+841,Blackburn,Hull,0.5,0.5,0.5,0.5
+842,Blackburn,Stoke,0.25,0,0.25,0
+843,Blackburn,Burnley,1,1,0,0
+844,Blackburn,Blackpool,0,1,1,0
+845,Blackburn,Swansea,1,0,0,0
+846,Blackburn,Cardiff,0,0,0,0
+847,Blackburn,Bournemouth,0,0,0,0
+848,Blackburn,Brighton,0,0,0,0
+849,Blackburn,Huddersfield,0,0,0,0
+850,Coventry,Arsenal,0.25,0.12,0.38,0.25
+851,Coventry,Aston Villa,0.12,0.12,0.12,0.25
+852,Coventry,Chelsea,0.5,0.12,0.5,0.25
+853,Coventry,Liverpool,0.38,0.25,0.25,0.12
+854,Coventry,Man City,0.75,0.25,0.25,0.75
+855,Coventry,Newcastle,0.38,0,0.25,0.12
+856,Coventry,Oldham,0,0,1,1
+857,Coventry,Sheffield United,0,0,1,1
+858,Coventry,Southampton,0.25,0.25,0.5,0.38
+859,Coventry,West Ham,0.25,0.12,0.5,0.25
+860,Coventry,Norwich,1,0,0,0.5
+861,Coventry,Tottenham,0.38,0.38,0.12,0.25
+862,Coventry,Everton,0.5,0.25,0.38,0.62
+863,Coventry,Ipswich,0.67,0.33,0,0
+864,Coventry,Leeds,0.25,0.12,0.5,0.12
+865,Coventry,Wimbledon,0.29,0.43,0.57,0.29
+866,Coventry,Blackburn,0.5,0.17,0.5,0.17
+867,Coventry,Coventry,0,0,0,0
+868,Coventry,Man United,0.12,0,0,0.12
+869,Coventry,QPR,0.33,0,0,0.67
+870,Coventry,Sheffield Weds,0.57,0.14,0.29,0.57
+871,Coventry,Swindon,0,0,1,0
+872,Coventry,Crystal Palace,0,1,0.5,0
+873,Coventry,Leicester,0.33,0.33,0.33,0.33
+874,Coventry,Nottingham Forest,0.25,0.25,0.5,0.25
+875,Coventry,Bolton,0,1,0.5,0
+876,Coventry,Middlesbrough,0.4,0,0.2,0.2
+877,Coventry,Derby,0.6,0,0.2,0.4
+878,Coventry,Sunderland,0.67,0,0.33,0.33
+879,Coventry,Barnsley,1,0,0,0
+880,Coventry,Charlton,0.5,0,0.5,1
+881,Coventry,Watford,1,0,0,0
+882,Coventry,Bradford,0.5,0,0.5,0.5
+883,Coventry,Fulham,0,0,0,0
+884,Coventry,Birmingham,0,0,0,0
+885,Coventry,Middlesboro,0,0,0,0
+886,Coventry,West Brom,0,0,0,0
+887,Coventry,Portsmouth,0,0,0,0
+888,Coventry,Wolves,0,0,0,0
+889,Coventry,Wigan,0,0,0,0
+890,Coventry,Reading,0,0,0,0
+891,Coventry,Hull,0,0,0,0
+892,Coventry,Stoke,0,0,0,0
+893,Coventry,Burnley,0,0,0,0
+894,Coventry,Blackpool,0,0,0,0
+895,Coventry,Swansea,0,0,0,0
+896,Coventry,Cardiff,0,0,0,0
+897,Coventry,Bournemouth,0,0,0,0
+898,Coventry,Brighton,0,0,0,0
+899,Coventry,Huddersfield,0,0,0,0
+900,Man United,Arsenal,0.64,0.28,0.24,0.32
+901,Man United,Aston Villa,0.83,0.65,0.13,0.3
+902,Man United,Chelsea,0.36,0.2,0.4,0.32
+903,Man United,Liverpool,0.64,0.44,0.16,0.24
+904,Man United,Man City,0.45,0.55,0.25,0.1
+905,Man United,Newcastle,0.61,0.52,0.35,0.26
+906,Man United,Oldham,1,1,0,0
+907,Man United,Sheffield United,1,1,0,0
+908,Man United,Southampton,0.72,0.56,0.17,0.17
+909,Man United,West Ham,0.82,0.41,0.09,0.45
+910,Man United,Norwich,0.71,0.71,0.14,0
+911,Man United,Tottenham,0.8,0.48,0.12,0.28
+912,Man United,Everton,0.76,0.6,0.2,0.16
+913,Man United,Ipswich,0.75,0.5,0.25,0.25
+914,Man United,Leeds,0.64,0.45,0.36,0.18
+915,Man United,Wimbledon,0.86,0.57,0.14,0.29
+916,Man United,Blackburn,0.71,0.41,0.18,0.35
+917,Man United,Coventry,0.88,0.88,0.12,0
+918,Man United,Man United,0,0,0,0
+919,Man United,QPR,1,0.83,0,0.17
+920,Man United,Sheffield Weds,0.86,0.29,0.14,0.29
+921,Man United,Swindon,1,0,0,1
+922,Man United,Crystal Palace,1,0.62,0,0.38
+923,Man United,Leicester,0.67,0.58,0.25,0.33
+924,Man United,Nottingham Forest,0.75,0.5,0,0.5
+925,Man United,Bolton,0.77,0.62,0.08,0.31
+926,Man United,Middlesbrough,0.46,0.77,0.31,0.15
+927,Man United,Derby,0.71,0.43,0,0.57
+928,Man United,Sunderland,0.81,0.62,0.12,0.25
+929,Man United,Barnsley,1,1,0,0
+930,Man United,Charlton,0.88,0.88,0.12,0.12
+931,Man United,Watford,1,0.8,0,0
+932,Man United,Bradford,1,1,0,0
+933,Man United,Fulham,0.85,0.54,0.08,0.31
+934,Man United,Birmingham,1,0.43,0,0.57
+935,Man United,Middlesboro,1,0,0,0
+936,Man United,West Brom,0.5,0.75,0.25,0.17
+937,Man United,Portsmouth,1,0.43,0,0.14
+938,Man United,Wolves,1,0.5,0,0
+939,Man United,Wigan,1,0.88,0,0
+940,Man United,Reading,0.67,0.67,0.33,0.33
+941,Man United,Hull,0.8,0.8,0.2,0.2
+942,Man United,Stoke,0.9,0.4,0.1,0.4
+943,Man United,Burnley,0.5,0.5,0.5,0.25
+944,Man United,Blackpool,1,1,0,0
+945,Man United,Swansea,0.71,0.57,0.14,0.14
+946,Man United,Cardiff,1,0,0,1
+947,Man United,Bournemouth,0.67,0.67,0.33,0
+948,Man United,Brighton,1,0,0,0
+949,Man United,Huddersfield,1,0,0,0
+950,QPR,Arsenal,0.33,0.17,0.33,0.17
+951,QPR,Aston Villa,0.5,0,0.5,0.33
+952,QPR,Chelsea,0.33,0.17,0.33,0.17
+953,QPR,Liverpool,0.33,0,0,0.17
+954,QPR,Man City,0.17,0.17,0.5,0
+955,QPR,Newcastle,0.33,0.17,0.17,0
+956,QPR,Oldham,1,0,0,0
+957,QPR,Sheffield United,1,0,0,1
+958,QPR,Southampton,0.4,0.4,0.2,0
+959,QPR,West Ham,0.4,0.2,0.4,0.4
+960,QPR,Norwich,0.25,0.25,0.5,0.25
+961,QPR,Tottenham,0.33,0.17,0.33,0.17
+962,QPR,Everton,0.33,0.33,0.33,0.17
+963,QPR,Ipswich,0.5,1,0,0
+964,QPR,Leeds,0.33,0.33,0,0.33
+965,QPR,Wimbledon,0.33,0.33,0,0.33
+966,QPR,Blackburn,0.25,0,0.25,0.25
+967,QPR,Coventry,0.33,0.67,0.67,0
+968,QPR,Man United,0,0,0.17,0
+969,QPR,QPR,0,0,0,0
+970,QPR,Sheffield Weds,0.33,0.67,0,0
+971,QPR,Swindon,0,0,0,0
+972,QPR,Crystal Palace,0,0,0.5,0.5
+973,QPR,Leicester,1,0,0,0.5
+974,QPR,Nottingham Forest,0,0,1,0
+975,QPR,Bolton,0.5,0.5,0,0
+976,QPR,Middlesbrough,0,0,1,0
+977,QPR,Derby,0,0,0,0
+978,QPR,Sunderland,0.67,0.33,0,0.33
+979,QPR,Barnsley,0,0,0,0
+980,QPR,Charlton,0,0,0,0
+981,QPR,Watford,0,0,0,0
+982,QPR,Bradford,0,0,0,0
+983,QPR,Fulham,0.5,0,0,0
+984,QPR,Birmingham,0,0,0,0
+985,QPR,Middlesboro,0,0,0,0
+986,QPR,West Brom,0.33,0.33,0.33,0
+987,QPR,Portsmouth,0,0,0,0
+988,QPR,Wolves,0,1,0,0
+989,QPR,Wigan,0.5,0,0.5,0.5
+990,QPR,Reading,0,0,1,1
+991,QPR,Hull,0,0,0,0
+992,QPR,Stoke,0.33,0.33,0.33,0
+993,QPR,Burnley,1,0,0,0
+994,QPR,Blackpool,0,0,0,0
+995,QPR,Swansea,0.33,0,0.33,0.33
+996,QPR,Cardiff,0,0,0,0
+997,QPR,Bournemouth,0,0,0,0
+998,QPR,Brighton,0,0,0,0
+999,QPR,Huddersfield,0,0,0,0
+1000,Sheffield Weds,Arsenal,0.57,0,0.29,0.29
+1001,Sheffield Weds,Aston Villa,0.29,0.14,0.14,0.43
+1002,Sheffield Weds,Chelsea,0.29,0,0.43,0.71
+1003,Sheffield Weds,Liverpool,0.29,0.14,0.43,0
+1004,Sheffield Weds,Man City,0,0.33,1,0
+1005,Sheffield Weds,Newcastle,0.14,0.14,0.43,0.14
+1006,Sheffield Weds,Oldham,1,0,0,1
+1007,Sheffield Weds,Sheffield United,1,0,0,1
+1008,Sheffield Weds,Southampton,0.29,0.43,0.57,0.29
+1009,Sheffield Weds,West Ham,0.43,0.29,0.29,0.14
+1010,Sheffield Weds,Norwich,0,0,1,1
+1011,Sheffield Weds,Tottenham,0.43,0.43,0.14,0.14
+1012,Sheffield Weds,Everton,0.43,0.57,0.29,0.29
+1013,Sheffield Weds,Ipswich,1,1,0,0
+1014,Sheffield Weds,Leeds,0.14,0.43,0.43,0.14
+1015,Sheffield Weds,Wimbledon,0.43,0.29,0.29,0.29
+1016,Sheffield Weds,Blackburn,0.33,0.17,0.33,0.17
+1017,Sheffield Weds,Coventry,0.29,0.14,0.57,0.29
+1018,Sheffield Weds,Man United,0.43,0,0.29,0.14
+1019,Sheffield Weds,QPR,0.33,0.67,0,0
+1020,Sheffield Weds,Sheffield Weds,0,0,0,0
+1021,Sheffield Weds,Swindon,0,1,1,0
+1022,Sheffield Weds,Crystal Palace,0.5,0,0,0
+1023,Sheffield Weds,Leicester,0.8,0.4,0,0.2
+1024,Sheffield Weds,Nottingham Forest,0.5,0.25,0,0
+1025,Sheffield Weds,Bolton,1,0,0,0
+1026,Sheffield Weds,Middlesbrough,0.75,0,0,0
+1027,Sheffield Weds,Derby,0,0,0.25,0.5
+1028,Sheffield Weds,Sunderland,0.5,0,0,0.5
+1029,Sheffield Weds,Barnsley,1,0,0,0
+1030,Sheffield Weds,Charlton,1,1,0,0
+1031,Sheffield Weds,Watford,0,0,1,0
+1032,Sheffield Weds,Bradford,1,0,0,1
+1033,Sheffield Weds,Fulham,0,0,0,0
+1034,Sheffield Weds,Birmingham,0,0,0,0
+1035,Sheffield Weds,Middlesboro,0,0,0,0
+1036,Sheffield Weds,West Brom,0,0,0,0
+1037,Sheffield Weds,Portsmouth,0,0,0,0
+1038,Sheffield Weds,Wolves,0,0,0,0
+1039,Sheffield Weds,Wigan,0,0,0,0
+1040,Sheffield Weds,Reading,0,0,0,0
+1041,Sheffield Weds,Hull,0,0,0,0
+1042,Sheffield Weds,Stoke,0,0,0,0
+1043,Sheffield Weds,Burnley,0,0,0,0
+1044,Sheffield Weds,Blackpool,0,0,0,0
+1045,Sheffield Weds,Swansea,0,0,0,0
+1046,Sheffield Weds,Cardiff,0,0,0,0
+1047,Sheffield Weds,Bournemouth,0,0,0,0
+1048,Sheffield Weds,Brighton,0,0,0,0
+1049,Sheffield Weds,Huddersfield,0,0,0,0
+1050,Swindon,Arsenal,0,0,0,1
+1051,Swindon,Aston Villa,0,0,0,0
+1052,Swindon,Chelsea,0,0,0,0
+1053,Swindon,Liverpool,0,0,0,1
+1054,Swindon,Man City,0,0,0,0
+1055,Swindon,Newcastle,0,0,1,0
+1056,Swindon,Oldham,0,0,0,0
+1057,Swindon,Sheffield United,0,0,1,0
+1058,Swindon,Southampton,1,0,0,0
+1059,Swindon,West Ham,0,0,1,1
+1060,Swindon,Norwich,0,0,1,1
+1061,Swindon,Tottenham,1,0,0,1
+1062,Swindon,Everton,0,0,1,0
+1063,Swindon,Ipswich,0,0,1,1
+1064,Swindon,Leeds,0,0,0,0
+1065,Swindon,Wimbledon,0,0,0,0
+1066,Swindon,Blackburn,0,0,0,0
+1067,Swindon,Coventry,1,0,0,1
+1068,Swindon,Man United,0,0,1,0
+1069,Swindon,QPR,1,1,0,0
+1070,Swindon,Sheffield Weds,0,0,0,1
+1071,Swindon,Swindon,0,0,0,0
+1072,Swindon,Crystal Palace,0,0,0,0
+1073,Swindon,Leicester,0,0,0,0
+1074,Swindon,Nottingham Forest,0,0,0,0
+1075,Swindon,Bolton,0,0,0,0
+1076,Swindon,Middlesbrough,0,0,0,0
+1077,Swindon,Derby,0,0,0,0
+1078,Swindon,Sunderland,0,0,0,0
+1079,Swindon,Barnsley,0,0,0,0
+1080,Swindon,Charlton,0,0,0,0
+1081,Swindon,Watford,0,0,0,0
+1082,Swindon,Bradford,0,0,0,0
+1083,Swindon,Fulham,0,0,0,0
+1084,Swindon,Birmingham,0,0,0,0
+1085,Swindon,Middlesboro,0,0,0,0
+1086,Swindon,West Brom,0,0,0,0
+1087,Swindon,Portsmouth,0,0,0,0
+1088,Swindon,Wolves,0,0,0,0
+1089,Swindon,Wigan,0,0,0,0
+1090,Swindon,Reading,0,0,0,0
+1091,Swindon,Hull,0,0,0,0
+1092,Swindon,Stoke,0,0,0,0
+1093,Swindon,Burnley,0,0,0,0
+1094,Swindon,Blackpool,0,0,0,0
+1095,Swindon,Swansea,0,0,0,0
+1096,Swindon,Cardiff,0,0,0,0
+1097,Swindon,Bournemouth,0,0,0,0
+1098,Swindon,Brighton,0,0,0,0
+1099,Swindon,Huddersfield,0,0,0,0
+1100,Crystal Palace,Arsenal,0.12,0.12,0.25,0.12
+1101,Crystal Palace,Aston Villa,0.5,0.17,0.33,0.5
+1102,Crystal Palace,Chelsea,0.25,0.25,0,0.12
+1103,Crystal Palace,Liverpool,0.25,0.38,0.12,0.12
+1104,Crystal Palace,Man City,0.29,0,0.14,0.14
+1105,Crystal Palace,Newcastle,0.14,0.14,0.29,0.29
+1106,Crystal Palace,Oldham,0,0,0,0
+1107,Crystal Palace,Sheffield United,0,0,0,0
+1108,Crystal Palace,Southampton,0.25,0.12,0.38,0.12
+1109,Crystal Palace,West Ham,0.29,0.29,0.29,0.29
+1110,Crystal Palace,Norwich,0.25,0.25,0.5,0.5
+1111,Crystal Palace,Tottenham,0.25,0.12,0.12,0.38
+1112,Crystal Palace,Everton,0.12,0.38,0.38,0.25
+1113,Crystal Palace,Ipswich,1,1,0,0
+1114,Crystal Palace,Leeds,0,0.5,0,0
+1115,Crystal Palace,Wimbledon,0,0.5,0.5,0
+1116,Crystal Palace,Blackburn,0,0,0.33,0.33
+1117,Crystal Palace,Coventry,0,0.5,0,0.5
+1118,Crystal Palace,Man United,0,0,0.38,0
+1119,Crystal Palace,QPR,0.5,0.5,0.5,0.5
+1120,Crystal Palace,Sheffield Weds,1,0.5,0,0
+1121,Crystal Palace,Swindon,0,0,0,0
+1122,Crystal Palace,Crystal Palace,0,0,0,0
+1123,Crystal Palace,Leicester,0.5,0.5,0.17,0.17
+1124,Crystal Palace,Nottingham Forest,0,0,0,0
+1125,Crystal Palace,Bolton,0,0,0.5,0
+1126,Crystal Palace,Middlesbrough,0.5,0.5,0,0
+1127,Crystal Palace,Derby,1,0,0,1
+1128,Crystal Palace,Sunderland,0.25,0.5,0,0.5
+1129,Crystal Palace,Barnsley,0,0,0,0
+1130,Crystal Palace,Charlton,0,0,0,1
+1131,Crystal Palace,Watford,0.67,0.33,0,0.67
+1132,Crystal Palace,Bradford,0,0,0,0
+1133,Crystal Palace,Fulham,0.5,0,0,0.5
+1134,Crystal Palace,Birmingham,1,1,0,0
+1135,Crystal Palace,Middlesboro,0,0,0,0
+1136,Crystal Palace,West Brom,0.67,0.17,0,0.5
+1137,Crystal Palace,Portsmouth,0,0,0,0
+1138,Crystal Palace,Wolves,0,0,0,0
+1139,Crystal Palace,Wigan,0,0,0,0
+1140,Crystal Palace,Reading,0,0,0,0
+1141,Crystal Palace,Hull,0.67,0.33,0,0.33
+1142,Crystal Palace,Stoke,0.8,0.6,0.2,0
+1143,Crystal Palace,Burnley,0.33,0.33,0.33,0
+1144,Crystal Palace,Blackpool,0,0,0,0
+1145,Crystal Palace,Swansea,0.2,0,0.2,0.8
+1146,Crystal Palace,Cardiff,1,1,0,0
+1147,Crystal Palace,Bournemouth,0,0.33,0.67,0.67
+1148,Crystal Palace,Brighton,1,0,0,1
+1149,Crystal Palace,Huddersfield,0,1,0,0
+1150,Leicester,Arsenal,0.17,0,0.5,0.08
+1151,Leicester,Aston Villa,0.5,0.2,0.4,0.5
+1152,Leicester,Chelsea,0.25,0.08,0.17,0.33
+1153,Leicester,Liverpool,0.33,0.25,0.25,0.17
+1154,Leicester,Man City,0.14,0.57,0.29,0
+1155,Leicester,Newcastle,0.36,0.27,0.36,0.09
+1156,Leicester,Oldham,0,0,0,0
+1157,Leicester,Sheffield United,0,0,0,0
+1158,Leicester,Southampton,0.58,0.17,0.33,0.42
+1159,Leicester,West Ham,0.36,0.27,0.27,0.09
+1160,Leicester,Norwich,1,0.5,0,0
+1161,Leicester,Tottenham,0.5,0.33,0.17,0.25
+1162,Leicester,Everton,0.25,0.08,0.5,0.58
+1163,Leicester,Ipswich,0.67,0,0.33,0
+1164,Leicester,Leeds,0.62,0.25,0,0.12
+1165,Leicester,Wimbledon,0.4,0.4,0.2,0
+1166,Leicester,Blackburn,0.33,0.17,0.67,0.17
+1167,Leicester,Coventry,0.33,0.33,0.33,0.33
+1168,Leicester,Man United,0.08,0.08,0.33,0.25
+1169,Leicester,QPR,0.5,0,0.5,0
+1170,Leicester,Sheffield Weds,0.4,0.2,0.2,0
+1171,Leicester,Swindon,0,0,0,0
+1172,Leicester,Crystal Palace,0.33,0.33,0.17,0.17
+1173,Leicester,Leicester,0,0,0,0
+1174,Leicester,Nottingham Forest,0.33,0,0.33,0.33
+1175,Leicester,Bolton,0,0,0.67,0.67
+1176,Leicester,Middlesbrough,0.14,0.43,0.29,0.43
+1177,Leicester,Derby,0.33,0.33,0,0
+1178,Leicester,Sunderland,0.71,0.14,0.29,0.43
+1179,Leicester,Barnsley,1,1,0,0
+1180,Leicester,Charlton,0.25,0,0.75,0.5
+1181,Leicester,Watford,1,0.25,0,0.25
+1182,Leicester,Bradford,0.5,0,0,0.5
+1183,Leicester,Fulham,0,0,0.5,0.5
+1184,Leicester,Birmingham,0,1,0,0
+1185,Leicester,Middlesboro,0,0,0,0
+1186,Leicester,West Brom,0,1,0.5,0
+1187,Leicester,Portsmouth,1,1,0,0
+1188,Leicester,Wolves,0,0,1,0
+1189,Leicester,Wigan,0,0,0,0
+1190,Leicester,Reading,0,0,0,0
+1191,Leicester,Hull,0.5,0.5,0.5,0
+1192,Leicester,Stoke,0.5,0.25,0.25,0.75
+1193,Leicester,Burnley,0.67,0.33,0.33,0
+1194,Leicester,Blackpool,0,0,0,0
+1195,Leicester,Swansea,0.75,0.5,0.25,0
+1196,Leicester,Cardiff,0,0,0,0
+1197,Leicester,Bournemouth,0,0,1,0.67
+1198,Leicester,Brighton,1,1,0,0
+1199,Leicester,Huddersfield,1,0,0,1
+1200,Nottingham Forest,Arsenal,0.25,0,0.25,0.25
+1201,Nottingham Forest,Aston Villa,0,0.25,0.75,0.25
+1202,Nottingham Forest,Chelsea,0.25,0.25,0.25,0.25
+1203,Nottingham Forest,Liverpool,0.25,0,0.75,0
+1204,Nottingham Forest,Man City,1,0,0,1
+1205,Nottingham Forest,Newcastle,0,0,0.75,0
+1206,Nottingham Forest,Oldham,0,0,0,0
+1207,Nottingham Forest,Sheffield United,0,0,0,0
+1208,Nottingham Forest,Southampton,0.5,0.5,0.25,0.5
+1209,Nottingham Forest,West Ham,0,0.25,0.75,0
+1210,Nottingham Forest,Norwich,1,1,0,0
+1211,Nottingham Forest,Tottenham,0.5,0.75,0.25,0
+1212,Nottingham Forest,Everton,0.5,0.5,0,0
+1213,Nottingham Forest,Ipswich,1,1,0,0
+1214,Nottingham Forest,Leeds,0.5,0.25,0.5,0
+1215,Nottingham Forest,Wimbledon,0.5,0.25,0.25,0.25
+1216,Nottingham Forest,Blackburn,0,0.25,0.5,0.25
+1217,Nottingham Forest,Coventry,0.5,0.25,0.25,0.5
+1218,Nottingham Forest,Man United,0,0.25,0.5,0
+1219,Nottingham Forest,QPR,1,0,0,1
+1220,Nottingham Forest,Sheffield Weds,0.75,0.5,0,0
+1221,Nottingham Forest,Swindon,0,0,0,0
+1222,Nottingham Forest,Crystal Palace,1,1,0,0
+1223,Nottingham Forest,Leicester,0.67,0.33,0.33,0.33
+1224,Nottingham Forest,Nottingham Forest,0,0,0,0
+1225,Nottingham Forest,Bolton,1,0,0,1
+1226,Nottingham Forest,Middlesbrough,0.33,0,0.33,1
+1227,Nottingham Forest,Derby,0,0,1,0.5
+1228,Nottingham Forest,Sunderland,0,0,0,1
+1229,Nottingham Forest,Barnsley,0,0,0,0
+1230,Nottingham Forest,Charlton,0,0,0,1
+1231,Nottingham Forest,Watford,0,0,0,0
+1232,Nottingham Forest,Bradford,0,0,0,0
+1233,Nottingham Forest,Fulham,0,0,0,0
+1234,Nottingham Forest,Birmingham,0,0,0,0
+1235,Nottingham Forest,Middlesboro,0,0,0,0
+1236,Nottingham Forest,West Brom,0,0,0,0
+1237,Nottingham Forest,Portsmouth,0,0,0,0
+1238,Nottingham Forest,Wolves,0,0,0,0
+1239,Nottingham Forest,Wigan,0,0,0,0
+1240,Nottingham Forest,Reading,0,0,0,0
+1241,Nottingham Forest,Hull,0,0,0,0
+1242,Nottingham Forest,Stoke,0,0,0,0
+1243,Nottingham Forest,Burnley,0,0,0,0
+1244,Nottingham Forest,Blackpool,0,0,0,0
+1245,Nottingham Forest,Swansea,0,0,0,0
+1246,Nottingham Forest,Cardiff,0,0,0,0
+1247,Nottingham Forest,Bournemouth,0,0,0,0
+1248,Nottingham Forest,Brighton,0,0,0,0
+1249,Nottingham Forest,Huddersfield,0,0,0,0
+1250,Bolton,Arsenal,0.38,0,0.23,0.23
+1251,Bolton,Aston Villa,0.23,0.23,0.38,0.31
+1252,Bolton,Chelsea,0.15,0.08,0.15,0.23
+1253,Bolton,Liverpool,0.31,0,0.23,0.08
+1254,Bolton,Man City,0.27,0.27,0.36,0
+1255,Bolton,Newcastle,0.67,0.08,0,0.25
+1256,Bolton,Oldham,0,0,0,0
+1257,Bolton,Sheffield United,1,0,0,1
+1258,Bolton,Southampton,0,0.5,0.67,0.33
+1259,Bolton,West Ham,0.8,0.4,0.1,0.2
+1260,Bolton,Norwich,0.5,0,0,0
+1261,Bolton,Tottenham,0.54,0.15,0.31,0.15
+1262,Bolton,Everton,0.31,0.23,0.31,0.15
+1263,Bolton,Ipswich,1,1,0,0
+1264,Bolton,Leeds,0.2,0.6,0,0.2
+1265,Bolton,Wimbledon,1,0,0,0.5
+1266,Bolton,Blackburn,0.31,0.31,0.38,0.31
+1267,Bolton,Coventry,0,0.5,0,0.5
+1268,Bolton,Man United,0.08,0.15,0.31,0.08
+1269,Bolton,QPR,0.5,0.5,0,0
+1270,Bolton,Sheffield Weds,1,0,0,0
+1271,Bolton,Swindon,0,0,0,0
+1272,Bolton,Crystal Palace,1,0.5,0,0.5
+1273,Bolton,Leicester,0.33,0.33,0.67,0.67
+1274,Bolton,Nottingham Forest,0,0,1,0
+1275,Bolton,Bolton,0,0,0,0
+1276,Bolton,Middlesbrough,0.38,0.38,0.62,0.25
+1277,Bolton,Derby,0.33,0,0.33,0.33
+1278,Bolton,Sunderland,0.25,0.25,0.25,0.25
+1279,Bolton,Barnsley,0,0,1,0
+1280,Bolton,Charlton,0.33,0.67,0.5,0.17
+1281,Bolton,Watford,1,1,0,0
+1282,Bolton,Bradford,0,0,0,0
+1283,Bolton,Fulham,0.27,0,0.45,0.18
+1284,Bolton,Birmingham,0.57,0.29,0.29,0
+1285,Bolton,Middlesboro,1,0,0,0
+1286,Bolton,West Brom,0.33,0,0.67,0.67
+1287,Bolton,Portsmouth,0.57,0.29,0.14,0.29
+1288,Bolton,Wolves,0.5,0.75,0.5,0
+1289,Bolton,Wigan,0.29,0.29,0.29,0.43
+1290,Bolton,Reading,0.5,0.5,0,0
+1291,Bolton,Hull,0,0.5,1,0
+1292,Bolton,Stoke,0.75,0.25,0.25,0.25
+1293,Bolton,Burnley,1,0,0,1
+1294,Bolton,Blackpool,0,0,1,0
+1295,Bolton,Swansea,0,0,1,0
+1296,Bolton,Cardiff,0,0,0,0
+1297,Bolton,Bournemouth,0,0,0,0
+1298,Bolton,Brighton,0,0,0,0
+1299,Bolton,Huddersfield,0,0,0,0
+1300,Middlesbrough,Arsenal,0.23,0.08,0.15,0.38
+1301,Middlesbrough,Aston Villa,0.25,0.25,0.25,0.42
+1302,Middlesbrough,Chelsea,0.38,0,0.08,0.23
+1303,Middlesbrough,Liverpool,0.38,0,0.38,0.23
+1304,Middlesbrough,Man City,0.56,0.33,0.33,0.33
+1305,Middlesbrough,Newcastle,0.08,0.08,0.42,0.42
+1306,Middlesbrough,Oldham,0,0,0,0
+1307,Middlesbrough,Sheffield United,1,0,0,0
+1308,Middlesbrough,Southampton,0.33,0.22,0.11,0.44
+1309,Middlesbrough,West Ham,0.73,0.09,0.09,0.18
+1310,Middlesbrough,Norwich,1,0,0,1
+1311,Middlesbrough,Tottenham,0.31,0.15,0.38,0.31
+1312,Middlesbrough,Everton,0.38,0.15,0.23,0.31
+1313,Middlesbrough,Ipswich,0,0,0.5,0
+1314,Middlesbrough,Leeds,0,0.29,0.71,0.29
+1315,Middlesbrough,Wimbledon,0.25,0.25,0.5,0.75
+1316,Middlesbrough,Blackburn,0.4,0.2,0.1,0.5
+1317,Middlesbrough,Coventry,0.8,0.4,0.2,0.2
+1318,Middlesbrough,Man United,0.08,0.23,0.15,0.31
+1319,Middlesbrough,QPR,1,0,0,1
+1320,Middlesbrough,Sheffield Weds,1,0.25,0,0
+1321,Middlesbrough,Swindon,0,0,0,0
+1322,Middlesbrough,Crystal Palace,0.5,0.5,0,0
+1323,Middlesbrough,Leicester,0.14,0.57,0.43,0.29
+1324,Middlesbrough,Nottingham Forest,0,0.33,1,0.33
+1325,Middlesbrough,Bolton,0.38,0,0.25,0.62
+1326,Middlesbrough,Middlesbrough,0,0,0,0
+1327,Middlesbrough,Derby,0.67,0.5,0.17,0.17
+1328,Middlesbrough,Sunderland,0.25,0.38,0.5,0.25
+1329,Middlesbrough,Barnsley,0,0,0,0
+1330,Middlesbrough,Charlton,0.29,0.29,0.57,0.29
+1331,Middlesbrough,Watford,0.33,0.33,0.33,0.33
+1332,Middlesbrough,Bradford,0,0,0.5,1
+1333,Middlesbrough,Fulham,0.71,0.29,0.29,0
+1334,Middlesbrough,Birmingham,1,0.25,0,0
+1335,Middlesbrough,Middlesboro,0,0,0,0
+1336,Middlesbrough,West Brom,0.25,0.5,0.5,0.25
+1337,Middlesbrough,Portsmouth,0.17,0.17,0.67,0.17
+1338,Middlesbrough,Wolves,1,0,0,0
+1339,Middlesbrough,Wigan,0.25,0.5,0.5,0.25
+1340,Middlesbrough,Reading,0.5,0,0,0.5
+1341,Middlesbrough,Hull,1,0,0,0
+1342,Middlesbrough,Stoke,0.5,0,0.5,0
+1343,Middlesbrough,Burnley,0,0,1,0
+1344,Middlesbrough,Blackpool,0,0,0,0
+1345,Middlesbrough,Swansea,1,0,0,1
+1346,Middlesbrough,Cardiff,0,0,0,0
+1347,Middlesbrough,Bournemouth,1,0,0,0
+1348,Middlesbrough,Brighton,0,0,0,0
+1349,Middlesbrough,Huddersfield,0,0,0,0
+1350,Derby,Arsenal,0.14,0,0.14,0.29
+1351,Derby,Aston Villa,0.57,0,0,0
+1352,Derby,Chelsea,0.29,0,0.29,0
+1353,Derby,Liverpool,0.29,0.14,0,0.14
+1354,Derby,Man City,0,0,1,0.5
+1355,Derby,Newcastle,0.43,0,0.14,0.29
+1356,Derby,Oldham,0,0,0,0
+1357,Derby,Sheffield United,0,0,0,0
+1358,Derby,Southampton,0.5,0.33,0.5,0.17
+1359,Derby,West Ham,0.29,0,0.29,0.43
+1360,Derby,Norwich,0,0,0,0
+1361,Derby,Tottenham,0.57,0,0,0.43
+1362,Derby,Everton,0.57,0.14,0,0.29
+1363,Derby,Ipswich,0,0.5,0.5,0
+1364,Derby,Leeds,0,0,0.5,0.5
+1365,Derby,Wimbledon,0.25,0,0.5,0.75
+1366,Derby,Blackburn,0.6,0.4,0.2,0.2
+1367,Derby,Coventry,0.6,0.2,0.4,0.2
+1368,Derby,Man United,0,0.29,0.57,0
+1369,Derby,QPR,0,0,0,0
+1370,Derby,Sheffield Weds,0.5,0.75,0.5,0.25
+1371,Derby,Swindon,0,0,0,0
+1372,Derby,Crystal Palace,0,0,1,0
+1373,Derby,Leicester,0.67,0.67,0,0
+1374,Derby,Nottingham Forest,0.5,0,0.5,1
+1375,Derby,Bolton,0.67,0.33,0.33,0.33
+1376,Derby,Middlesbrough,0.33,0.17,0.17,0.17
+1377,Derby,Derby,0,0,0,0
+1378,Derby,Sunderland,0.4,0,0.2,0.4
+1379,Derby,Barnsley,1,0,0,0
+1380,Derby,Charlton,0,0.33,0.67,0
+1381,Derby,Watford,1,0,0,1
+1382,Derby,Bradford,0.5,0,0,0.5
+1383,Derby,Fulham,0,0,0.5,1
+1384,Derby,Birmingham,0,0,0,1
+1385,Derby,Middlesboro,0,0,0,0
+1386,Derby,West Brom,0,0,0,0
+1387,Derby,Portsmouth,0,0,1,0
+1388,Derby,Wolves,0,0,0,0
+1389,Derby,Wigan,0,0,0,0
+1390,Derby,Reading,0,0,0,0
+1391,Derby,Hull,0,0,0,0
+1392,Derby,Stoke,0,0,0,0
+1393,Derby,Burnley,0,0,0,0
+1394,Derby,Blackpool,0,0,0,0
+1395,Derby,Swansea,0,0,0,0
+1396,Derby,Cardiff,0,0,0,0
+1397,Derby,Bournemouth,0,0,0,0
+1398,Derby,Brighton,0,0,0,0
+1399,Derby,Huddersfield,0,0,0,0
+1400,Sunderland,Arsenal,0.19,0,0.31,0.31
+1401,Sunderland,Aston Villa,0.33,0.13,0.27,0.53
+1402,Sunderland,Chelsea,0.25,0.19,0.12,0
+1403,Sunderland,Liverpool,0.19,0,0.19,0.5
+1404,Sunderland,Man City,0.38,0,0.08,0.15
+1405,Sunderland,Newcastle,0.29,0.36,0.36,0.36
+1406,Sunderland,Oldham,0,0,0,0
+1407,Sunderland,Sheffield United,0,0,0,0
+1408,Sunderland,Southampton,0.2,0.3,0.4,0.3
+1409,Sunderland,West Ham,0.33,0.13,0.47,0.2
+1410,Sunderland,Norwich,0.25,0.25,0.5,0
+1411,Sunderland,Tottenham,0.25,0.06,0.31,0.06
+1412,Sunderland,Everton,0.38,0.19,0.25,0.12
+1413,Sunderland,Ipswich,1,0,0,0
+1414,Sunderland,Leeds,0.2,0.2,0,0
+1415,Sunderland,Wimbledon,0.5,0,0,0
+1416,Sunderland,Blackburn,0.44,0.22,0.33,0.33
+1417,Sunderland,Coventry,0.67,0,0.33,0.33
+1418,Sunderland,Man United,0.12,0.06,0.25,0.12
+1419,Sunderland,QPR,0.33,0.33,0.33,0
+1420,Sunderland,Sheffield Weds,0.5,0.5,0.5,0
+1421,Sunderland,Swindon,0,0,0,0
+1422,Sunderland,Crystal Palace,0,0.75,0.5,0
+1423,Sunderland,Leicester,0.43,0,0.43,0.29
+1424,Sunderland,Nottingham Forest,0,1,1,0
+1425,Sunderland,Bolton,0.5,0.5,0.25,0.25
+1426,Sunderland,Middlesbrough,0.38,0.25,0.25,0.5
+1427,Sunderland,Derby,0.6,0.4,0.4,0.2
+1428,Sunderland,Sunderland,0,0,0,0
+1429,Sunderland,Barnsley,0,0,0,0
+1430,Sunderland,Charlton,0.25,0.25,0.25,0.5
+1431,Sunderland,Watford,0.67,0.33,0,0.33
+1432,Sunderland,Bradford,0,1,0.5,0
+1433,Sunderland,Fulham,0.2,0.3,0.5,0.2
+1434,Sunderland,Birmingham,0.4,0,0.2,0.2
+1435,Sunderland,Middlesboro,0,0,0,0
+1436,Sunderland,West Brom,0.2,0.1,0.5,0.2
+1437,Sunderland,Portsmouth,0.25,0,0.25,0.25
+1438,Sunderland,Wolves,0.33,0,0.33,0
+1439,Sunderland,Wigan,0.43,0.29,0.14,0.29
+1440,Sunderland,Reading,1,0,0,0
+1441,Sunderland,Hull,0.6,0.6,0,0.2
+1442,Sunderland,Stoke,0.67,0.11,0.22,0.33
+1443,Sunderland,Burnley,0.67,0,0.33,0.33
+1444,Sunderland,Blackpool,0,1,0,0
+1445,Sunderland,Swansea,0.17,0.17,0.5,0.5
+1446,Sunderland,Cardiff,1,0,0,1
+1447,Sunderland,Bournemouth,0,0.5,0.5,0
+1448,Sunderland,Brighton,0,0,0,0
+1449,Sunderland,Huddersfield,0,0,0,0
+1450,Barnsley,Arsenal,0,0,0,0
+1451,Barnsley,Aston Villa,0,1,0,0
+1452,Barnsley,Chelsea,0,0,0,0
+1453,Barnsley,Liverpool,0,1,0,0
+1454,Barnsley,Man City,0,0,0,0
+1455,Barnsley,Newcastle,0,0,1,0
+1456,Barnsley,Oldham,0,0,0,0
+1457,Barnsley,Sheffield United,0,0,0,0
+1458,Barnsley,Southampton,1,0,0,0
+1459,Barnsley,West Ham,0,0,0,0
+1460,Barnsley,Norwich,0,0,0,0
+1461,Barnsley,Tottenham,0,0,1,0
+1462,Barnsley,Everton,0,0,1,0
+1463,Barnsley,Ipswich,0,0,0,0
+1464,Barnsley,Leeds,0,0,0,0
+1465,Barnsley,Wimbledon,1,0,0,0
+1466,Barnsley,Blackburn,0,0,1,0
+1467,Barnsley,Coventry,1,0,0,0
+1468,Barnsley,Man United,0,0,0,0
+1469,Barnsley,QPR,0,0,0,0
+1470,Barnsley,Sheffield Weds,1,0,0,0
+1471,Barnsley,Swindon,0,0,0,0
+1472,Barnsley,Crystal Palace,1,1,0,0
+1473,Barnsley,Leicester,0,0,0,0
+1474,Barnsley,Nottingham Forest,0,0,0,0
+1475,Barnsley,Bolton,1,0,0,1
+1476,Barnsley,Middlesbrough,0,0,0,0
+1477,Barnsley,Derby,1,0,0,0
+1478,Barnsley,Sunderland,0,0,0,0
+1479,Barnsley,Barnsley,0,0,0,0
+1480,Barnsley,Charlton,0,0,0,0
+1481,Barnsley,Watford,0,0,0,0
+1482,Barnsley,Bradford,0,0,0,0
+1483,Barnsley,Fulham,0,0,0,0
+1484,Barnsley,Birmingham,0,0,0,0
+1485,Barnsley,Middlesboro,0,0,0,0
+1486,Barnsley,West Brom,0,0,0,0
+1487,Barnsley,Portsmouth,0,0,0,0
+1488,Barnsley,Wolves,0,0,0,0
+1489,Barnsley,Wigan,0,0,0,0
+1490,Barnsley,Reading,0,0,0,0
+1491,Barnsley,Hull,0,0,0,0
+1492,Barnsley,Stoke,0,0,0,0
+1493,Barnsley,Burnley,0,0,0,0
+1494,Barnsley,Blackpool,0,0,0,0
+1495,Barnsley,Swansea,0,0,0,0
+1496,Barnsley,Cardiff,0,0,0,0
+1497,Barnsley,Bournemouth,0,0,0,0
+1498,Barnsley,Brighton,0,0,0,0
+1499,Barnsley,Huddersfield,0,0,0,0
+1500,Charlton,Arsenal,0.12,0.12,0.12,0.12
+1501,Charlton,Aston Villa,0.38,0.12,0.25,0.12
+1502,Charlton,Chelsea,0.38,0.25,0,0.12
+1503,Charlton,Liverpool,0.5,0.12,0,0.38
+1504,Charlton,Man City,0.33,0.33,0.33,0.33
+1505,Charlton,Newcastle,0.38,0.12,0.5,0.5
+1506,Charlton,Oldham,0,0,0,0
+1507,Charlton,Sheffield United,0,0,1,0
+1508,Charlton,Southampton,0.5,0,0.5,0.5
+1509,Charlton,West Ham,0.67,0.33,0.33,0.17
+1510,Charlton,Norwich,1,0,0,0
+1511,Charlton,Tottenham,0.38,0.38,0,0.38
+1512,Charlton,Everton,0.38,0.38,0.38,0
+1513,Charlton,Ipswich,1,0.5,0,0
+1514,Charlton,Leeds,0,0.2,0.2,0.4
+1515,Charlton,Wimbledon,1,0,0,0
+1516,Charlton,Blackburn,0.57,0.14,0.14,0
+1517,Charlton,Coventry,0,0,1,0.5
+1518,Charlton,Man United,0,0,0.12,0.12
+1519,Charlton,QPR,0,0,0,0
+1520,Charlton,Sheffield Weds,0,0,0,0
+1521,Charlton,Swindon,0,0,0,0
+1522,Charlton,Crystal Palace,0,1,1,0
+1523,Charlton,Leicester,0.5,0,0.5,0.75
+1524,Charlton,Nottingham Forest,0,1,1,0
+1525,Charlton,Bolton,0.17,0.17,0.17,0.5
+1526,Charlton,Middlesbrough,0.43,0.14,0.29,0.57
+1527,Charlton,Derby,0.67,0.33,0,0.67
+1528,Charlton,Sunderland,0.25,0.5,0.5,0.25
+1529,Charlton,Barnsley,0,0,0,0
+1530,Charlton,Charlton,0,0,0,0
+1531,Charlton,Watford,0,0,1,1
+1532,Charlton,Bradford,1,0,0,0
+1533,Charlton,Fulham,0.33,0,0.5,0.33
+1534,Charlton,Birmingham,0.5,0.5,0.25,0.5
+1535,Charlton,Middlesboro,1,0,0,1
+1536,Charlton,West Brom,0.33,1,0.33,0
+1537,Charlton,Portsmouth,0.5,0.75,0.25,0
+1538,Charlton,Wolves,1,1,0,0
+1539,Charlton,Wigan,1,0,0,0
+1540,Charlton,Reading,0,0,1,0
+1541,Charlton,Hull,0,0,0,0
+1542,Charlton,Stoke,0,0,0,0
+1543,Charlton,Burnley,0,0,0,0
+1544,Charlton,Blackpool,0,0,0,0
+1545,Charlton,Swansea,0,0,0,0
+1546,Charlton,Cardiff,0,0,0,0
+1547,Charlton,Bournemouth,0,0,0,0
+1548,Charlton,Brighton,0,0,0,0
+1549,Charlton,Huddersfield,0,0,0,0
+1550,Watford,Arsenal,0.2,0.2,0,0
+1551,Watford,Aston Villa,0.33,0.33,0.33,0
+1552,Watford,Chelsea,0.4,0,0.2,0.2
+1553,Watford,Liverpool,0.2,0.2,0.2,0
+1554,Watford,Man City,0,0,0.25,0.25
+1555,Watford,Newcastle,0.5,0.5,0.5,0
+1556,Watford,Oldham,0,0,0,0
+1557,Watford,Sheffield United,0,0,0,0
+1558,Watford,Southampton,0.25,0.25,0.5,0.25
+1559,Watford,West Ham,0.4,0.4,0.4,0
+1560,Watford,Norwich,1,0,0,0
+1561,Watford,Tottenham,0,0,0.6,0
+1562,Watford,Everton,0.4,0,0.2,0.2
+1563,Watford,Ipswich,0,0,0,0
+1564,Watford,Leeds,0,0,0,0
+1565,Watford,Wimbledon,0,0,0,0
+1566,Watford,Blackburn,1,0,0,0
+1567,Watford,Coventry,1,0,0,0
+1568,Watford,Man United,0.2,0,0,0
+1569,Watford,QPR,0,0,0,0
+1570,Watford,Sheffield Weds,1,0,0,1
+1571,Watford,Swindon,0,0,0,0
+1572,Watford,Crystal Palace,0,0.33,0.67,0
+1573,Watford,Leicester,0.5,0,0.25,0
+1574,Watford,Nottingham Forest,0,0,0,0
+1575,Watford,Bolton,0,0,0,0
+1576,Watford,Middlesbrough,0.33,0.33,0.33,0.33
+1577,Watford,Derby,0,0,1,0
+1578,Watford,Sunderland,0.33,0.33,0.33,0
+1579,Watford,Barnsley,0,0,0,0
+1580,Watford,Charlton,0,0,1,1
+1581,Watford,Watford,0,0,0,0
+1582,Watford,Bradford,1,0,0,0
+1583,Watford,Fulham,0,0,1,1
+1584,Watford,Birmingham,0,0,0,0
+1585,Watford,Middlesboro,0,0,0,0
+1586,Watford,West Brom,0.67,0.33,0.33,0.33
+1587,Watford,Portsmouth,1,0,0,0
+1588,Watford,Wolves,0,0,0,0
+1589,Watford,Wigan,0,0,1,1
+1590,Watford,Reading,0,1,1,0
+1591,Watford,Hull,1,0,0,0
+1592,Watford,Stoke,0,0.33,0,0.33
+1593,Watford,Burnley,0.5,0,0,0
+1594,Watford,Blackpool,0,0,0,0
+1595,Watford,Swansea,0.67,0.33,0,0.33
+1596,Watford,Cardiff,0,0,0,0
+1597,Watford,Bournemouth,0,0.33,1,0.67
+1598,Watford,Brighton,0,0,1,0
+1599,Watford,Huddersfield,0,0,0,0
+1600,Bradford,Arsenal,0.5,0,0.5,0
+1601,Bradford,Aston Villa,0,0,0.5,0
+1602,Bradford,Chelsea,0.5,0,0.5,0
+1603,Bradford,Liverpool,0.5,0,0,0
+1604,Bradford,Man City,0,0,1,0
+1605,Bradford,Newcastle,0.5,0,0.5,0
+1606,Bradford,Oldham,0,0,0,0
+1607,Bradford,Sheffield United,0,0,0,0
+1608,Bradford,Southampton,0,0,0,0
+1609,Bradford,West Ham,0,0,0,0.5
+1610,Bradford,Norwich,0,0,0,0
+1611,Bradford,Tottenham,0,0,1,0.5
+1612,Bradford,Everton,0,0,0.5,0
+1613,Bradford,Ipswich,0,0,0,0
+1614,Bradford,Leeds,0,0,0.5,0
+1615,Bradford,Wimbledon,1,0,0,0
+1616,Bradford,Blackburn,0,0,0,0
+1617,Bradford,Coventry,0.5,0,0.5,0.5
+1618,Bradford,Man United,0,0,0,0
+1619,Bradford,QPR,0,0,0,0
+1620,Bradford,Sheffield Weds,0,0,1,0
+1621,Bradford,Swindon,0,0,0,0
+1622,Bradford,Crystal Palace,0,0,0,0
+1623,Bradford,Leicester,0.5,0.5,0.5,0
+1624,Bradford,Nottingham Forest,0,0,0,0
+1625,Bradford,Bolton,0,0,0,0
+1626,Bradford,Middlesbrough,0,0.5,1,0.5
+1627,Bradford,Derby,0.5,0.5,0.5,0
+1628,Bradford,Sunderland,0,0.5,0,0.5
+1629,Bradford,Barnsley,0,0,0,0
+1630,Bradford,Charlton,1,0,0,0
+1631,Bradford,Watford,1,0,0,0
+1632,Bradford,Bradford,0,0,0,0
+1633,Bradford,Fulham,0,0,0,0
+1634,Bradford,Birmingham,0,0,0,0
+1635,Bradford,Middlesboro,0,0,0,0
+1636,Bradford,West Brom,0,0,0,0
+1637,Bradford,Portsmouth,0,0,0,0
+1638,Bradford,Wolves,0,0,0,0
+1639,Bradford,Wigan,0,0,0,0
+1640,Bradford,Reading,0,0,0,0
+1641,Bradford,Hull,0,0,0,0
+1642,Bradford,Stoke,0,0,0,0
+1643,Bradford,Burnley,0,0,0,0
+1644,Bradford,Blackpool,0,0,0,0
+1645,Bradford,Swansea,0,0,0,0
+1646,Bradford,Cardiff,0,0,0,0
+1647,Bradford,Bournemouth,0,0,0,0
+1648,Bradford,Brighton,0,0,0,0
+1649,Bradford,Huddersfield,0,0,0,0
+1650,Fulham,Arsenal,0.23,0,0.08,0.31
+1651,Fulham,Aston Villa,0.38,0.08,0.46,0.38
+1652,Fulham,Chelsea,0.08,0,0.38,0.38
+1653,Fulham,Liverpool,0.38,0.08,0,0.31
+1654,Fulham,Man City,0.08,0.25,0.42,0.33
+1655,Fulham,Newcastle,0.75,0.25,0,0.25
+1656,Fulham,Oldham,0,0,0,0
+1657,Fulham,Sheffield United,1,0,0,0
+1658,Fulham,Southampton,0.5,0,0.33,0.67
+1659,Fulham,West Ham,0.3,0.1,0.1,0.4
+1660,Fulham,Norwich,1,0.5,0,0.5
+1661,Fulham,Tottenham,0.38,0.15,0.23,0.23
+1662,Fulham,Everton,0.62,0,0.15,0
+1663,Fulham,Ipswich,0,0,1,0
+1664,Fulham,Leeds,0.67,0.33,0.33,0
+1665,Fulham,Wimbledon,0,0,0,0
+1666,Fulham,Blackburn,0.36,0.18,0.27,0.18
+1667,Fulham,Coventry,0,0,0,0
+1668,Fulham,Man United,0.15,0.08,0.31,0.08
+1669,Fulham,QPR,1,0.5,0,0
+1670,Fulham,Sheffield Weds,0,0,0,0
+1671,Fulham,Swindon,0,0,0,0
+1672,Fulham,Crystal Palace,0.5,0.5,0.5,0
+1673,Fulham,Leicester,0.5,0.5,0.5,0.5
+1674,Fulham,Nottingham Forest,0,0,0,0
+1675,Fulham,Bolton,0.82,0.27,0.18,0.45
+1676,Fulham,Middlesbrough,0.71,0,0,0.29
+1677,Fulham,Derby,0,0.5,1,0.5
+1678,Fulham,Sunderland,0.5,0.3,0.2,0.5
+1679,Fulham,Barnsley,0,0,0,0
+1680,Fulham,Charlton,0.67,0.17,0.33,0.5
+1681,Fulham,Watford,0,0,1,1
+1682,Fulham,Bradford,0,0,0,0
+1683,Fulham,Fulham,0,0,0,0
+1684,Fulham,Birmingham,0.29,0.29,0.43,0.43
+1685,Fulham,Middlesboro,1,0,0,1
+1686,Fulham,West Brom,0.75,0.12,0.25,0.5
+1687,Fulham,Portsmouth,0.57,0.29,0.14,0.43
+1688,Fulham,Wolves,0.5,0,0.5,0.25
+1689,Fulham,Wigan,0.62,0.25,0.25,0.62
+1690,Fulham,Reading,0.33,0.33,0,0.33
+1691,Fulham,Hull,0.33,0,0.33,0
+1692,Fulham,Stoke,0.83,0.17,0,0.17
+1693,Fulham,Burnley,1,0,0,1
+1694,Fulham,Blackpool,1,0,0,1
+1695,Fulham,Swansea,0,0.33,0,0
+1696,Fulham,Cardiff,0,0,0,0
+1697,Fulham,Bournemouth,0,0,0,0
+1698,Fulham,Brighton,0,0,0,0
+1699,Fulham,Huddersfield,0,0,0,0
+1700,Birmingham,Arsenal,0.14,0,0.29,0.29
+1701,Birmingham,Aston Villa,0.29,0.29,0.29,0.29
+1702,Birmingham,Chelsea,0.14,0,0.43,0.29
+1703,Birmingham,Liverpool,0.29,0.14,0.57,0.57
+1704,Birmingham,Man City,0.43,0,0.29,0.29
+1705,Birmingham,Newcastle,0,0.17,0.67,0
+1706,Birmingham,Oldham,0,0,0,0
+1707,Birmingham,Sheffield United,0,0,0,0
+1708,Birmingham,Southampton,1,0,0,0.67
+1709,Birmingham,West Ham,0.2,0.4,0.4,0.2
+1710,Birmingham,Norwich,0,0,1,0
+1711,Birmingham,Tottenham,0.29,0.14,0.57,0
+1712,Birmingham,Everton,0.14,0,0.43,0.71
+1713,Birmingham,Ipswich,0,0,0,0
+1714,Birmingham,Leeds,1,0.5,0,0
+1715,Birmingham,Wimbledon,0,0,0,0
+1716,Birmingham,Blackburn,0.71,0,0,0.57
+1717,Birmingham,Coventry,0,0,0,0
+1718,Birmingham,Man United,0,0,0.57,0
+1719,Birmingham,QPR,0,0,0,0
+1720,Birmingham,Sheffield Weds,0,0,0,0
+1721,Birmingham,Swindon,0,0,0,0
+1722,Birmingham,Crystal Palace,0,0,0,0
+1723,Birmingham,Leicester,0,1,0,0
+1724,Birmingham,Nottingham Forest,0,0,0,0
+1725,Birmingham,Bolton,0.71,0.14,0,0.29
+1726,Birmingham,Middlesbrough,0.75,0,0,0
+1727,Birmingham,Derby,0,1,1,0
+1728,Birmingham,Sunderland,0.8,0.4,0.2,0.2
+1729,Birmingham,Barnsley,0,0,0,0
+1730,Birmingham,Charlton,0,0.25,0.5,0.25
+1731,Birmingham,Watford,0,0,0,0
+1732,Birmingham,Bradford,0,0,0,0
+1733,Birmingham,Fulham,0.29,0.29,0.43,0.43
+1734,Birmingham,Birmingham,0,0,0,0
+1735,Birmingham,Middlesboro,1,0,0,0
+1736,Birmingham,West Brom,0.5,0.25,0.25,0.25
+1737,Birmingham,Portsmouth,0.6,0.2,0.2,0.4
+1738,Birmingham,Wolves,0.33,0.33,0.67,0.33
+1739,Birmingham,Wigan,0.75,0.25,0.25,0.25
+1740,Birmingham,Reading,0,0,1,0
+1741,Birmingham,Hull,0,1,1,0
+1742,Birmingham,Stoke,0.5,0.5,0.5,0
+1743,Birmingham,Burnley,1,0,0,0
+1744,Birmingham,Blackpool,1,1,0,0
+1745,Birmingham,Swansea,0,0,0,0
+1746,Birmingham,Cardiff,0,0,0,0
+1747,Birmingham,Bournemouth,0,0,0,0
+1748,Birmingham,Brighton,0,0,0,0
+1749,Birmingham,Huddersfield,0,0,0,0
+1750,Middlesboro,Arsenal,0,0,0,0
+1751,Middlesboro,Aston Villa,0,0,0,0
+1752,Middlesboro,Chelsea,0,0,1,0
+1753,Middlesboro,Liverpool,1,0,0,1
+1754,Middlesboro,Man City,1,0,0,1
+1755,Middlesboro,Newcastle,1,0,0,0
+1756,Middlesboro,Oldham,0,0,0,0
+1757,Middlesboro,Sheffield United,0,0,0,0
+1758,Middlesboro,Southampton,0,0,1,1
+1759,Middlesboro,West Ham,0,0,1,0
+1760,Middlesboro,Norwich,0,0,0,0
+1761,Middlesboro,Tottenham,1,1,0,0
+1762,Middlesboro,Everton,0,0,1,0
+1763,Middlesboro,Ipswich,0,0,0,0
+1764,Middlesboro,Leeds,0,1,1,0
+1765,Middlesboro,Wimbledon,0,0,0,0
+1766,Middlesboro,Blackburn,1,0,0,0
+1767,Middlesboro,Coventry,0,0,0,0
+1768,Middlesboro,Man United,1,0,0,0
+1769,Middlesboro,QPR,0,0,0,0
+1770,Middlesboro,Sheffield Weds,0,0,0,0
+1771,Middlesboro,Swindon,0,0,0,0
+1772,Middlesboro,Crystal Palace,0,0,0,0
+1773,Middlesboro,Leicester,0,0,0,0
+1774,Middlesboro,Nottingham Forest,0,0,0,0
+1775,Middlesboro,Bolton,1,0,0,0
+1776,Middlesboro,Middlesbrough,0,0,0,0
+1777,Middlesboro,Derby,0,0,0,0
+1778,Middlesboro,Sunderland,1,1,0,0
+1779,Middlesboro,Barnsley,0,0,0,0
+1780,Middlesboro,Charlton,0,0,1,0
+1781,Middlesboro,Watford,0,0,0,0
+1782,Middlesboro,Bradford,0,0,0,0
+1783,Middlesboro,Fulham,0,0,1,0
+1784,Middlesboro,Birmingham,1,0,0,0
+1785,Middlesboro,Middlesboro,0,0,0,0
+1786,Middlesboro,West Brom,1,0,0,0
+1787,Middlesboro,Portsmouth,0,0,0,0
+1788,Middlesboro,Wolves,0,0,0,0
+1789,Middlesboro,Wigan,0,0,0,0
+1790,Middlesboro,Reading,0,0,0,0
+1791,Middlesboro,Hull,0,0,0,0
+1792,Middlesboro,Stoke,0,0,0,0
+1793,Middlesboro,Burnley,0,0,0,0
+1794,Middlesboro,Blackpool,0,0,0,0
+1795,Middlesboro,Swansea,0,0,0,0
+1796,Middlesboro,Cardiff,0,0,0,0
+1797,Middlesboro,Bournemouth,0,0,0,0
+1798,Middlesboro,Brighton,0,0,0,0
+1799,Middlesboro,Huddersfield,0,0,0,0
+1800,West Brom,Arsenal,0.25,0.08,0.25,0.08
+1801,West Brom,Aston Villa,0.2,0.2,0.6,0.3
+1802,West Brom,Chelsea,0.25,0,0.08,0.17
+1803,West Brom,Liverpool,0.17,0.17,0.33,0.17
+1804,West Brom,Man City,0.25,0.08,0.08,0.17
+1805,West Brom,Newcastle,0.27,0.18,0.36,0.18
+1806,West Brom,Oldham,0,0,0,0
+1807,West Brom,Sheffield United,0,0,0,0
+1808,West Brom,Southampton,0.38,0.25,0.25,0.25
+1809,West Brom,West Ham,0.3,0.1,0.3,0.6
+1810,West Brom,Norwich,0.2,0.6,0.2,0
+1811,West Brom,Tottenham,0.25,0.08,0.42,0.5
+1812,West Brom,Everton,0.33,0.17,0.17,0.33
+1813,West Brom,Ipswich,0,0,0,0
+1814,West Brom,Leeds,0,0,0,1
+1815,West Brom,Wimbledon,0,0,0,0
+1816,West Brom,Blackburn,0.33,0.17,0.33,0.5
+1817,West Brom,Coventry,0,0,0,0
+1818,West Brom,Man United,0.08,0.25,0.17,0.25
+1819,West Brom,QPR,0.67,0.33,0,0.33
+1820,West Brom,Sheffield Weds,0,0,0,0
+1821,West Brom,Swindon,0,0,0,0
+1822,West Brom,Crystal Palace,0.33,0.33,0.5,0
+1823,West Brom,Leicester,0,0.5,0,0.5
+1824,West Brom,Nottingham Forest,0,0,0,0
+1825,West Brom,Bolton,0.33,0,0.67,0.67
+1826,West Brom,Middlesbrough,0.25,0.25,0.25,0.5
+1827,West Brom,Derby,0,0,0,0
+1828,West Brom,Sunderland,0.7,0.3,0.2,0.5
+1829,West Brom,Barnsley,0,0,0,0
+1830,West Brom,Charlton,0,0.33,0,0.33
+1831,West Brom,Watford,0.33,0,0.33,0.33
+1832,West Brom,Bradford,0,0,0,0
+1833,West Brom,Fulham,0.38,0,0.5,0.25
+1834,West Brom,Birmingham,0.5,0.25,0.25,0.25
+1835,West Brom,Middlesboro,1,0,0,0
+1836,West Brom,West Brom,0,0,0,0
+1837,West Brom,Portsmouth,0.67,0,0.33,0.33
+1838,West Brom,Wolves,0.5,0.5,0.5,0
+1839,West Brom,Wigan,0.2,0.4,0.2,0.2
+1840,West Brom,Reading,1,0,0,0
+1841,West Brom,Hull,0.5,0,0.25,0.75
+1842,West Brom,Stoke,0.33,0.22,0.11,0.44
+1843,West Brom,Burnley,0.67,0.33,0,0.67
+1844,West Brom,Blackpool,1,0,0,0
+1845,West Brom,Swansea,0.43,0.14,0.29,0
+1846,West Brom,Cardiff,0,0,1,0
+1847,West Brom,Bournemouth,0.67,0,0,0.33
+1848,West Brom,Brighton,1,0,0,0
+1849,West Brom,Huddersfield,0,0,0,0
+1850,Portsmouth,Arsenal,0,0,0.57,0.29
+1851,Portsmouth,Aston Villa,0.29,0.14,0.29,0.29
+1852,Portsmouth,Chelsea,0,0,0.14,0
+1853,Portsmouth,Liverpool,0.43,0,0.14,0.29
+1854,Portsmouth,Man City,0.57,0,0.14,0.29
+1855,Portsmouth,Newcastle,0.17,0.17,0.67,0.33
+1856,Portsmouth,Oldham,0,0,0,0
+1857,Portsmouth,Sheffield United,1,0,0,1
+1858,Portsmouth,Southampton,1,0,0,0
+1859,Portsmouth,West Ham,0.2,0.6,0.6,0.2
+1860,Portsmouth,Norwich,0,0,1,1
+1861,Portsmouth,Tottenham,0.43,0,0.14,0.14
+1862,Portsmouth,Everton,0.29,0.29,0.14,0
+1863,Portsmouth,Ipswich,0,0,0,0
+1864,Portsmouth,Leeds,1,1,0,0
+1865,Portsmouth,Wimbledon,0,0,0,0
+1866,Portsmouth,Blackburn,0.29,0.29,0.29,0
+1867,Portsmouth,Coventry,0,0,0,0
+1868,Portsmouth,Man United,0.43,0,0.14,0
+1869,Portsmouth,QPR,0,0,0,0
+1870,Portsmouth,Sheffield Weds,0,0,0,0
+1871,Portsmouth,Swindon,0,0,0,0
+1872,Portsmouth,Crystal Palace,1,1,0,0
+1873,Portsmouth,Leicester,0,0,0,0
+1874,Portsmouth,Nottingham Forest,0,0,0,0
+1875,Portsmouth,Bolton,0.43,0.29,0.29,0.14
+1876,Portsmouth,Middlesbrough,0.67,0.17,0.17,0.67
+1877,Portsmouth,Derby,1,0,0,1
+1878,Portsmouth,Sunderland,0.75,0.5,0.25,0.25
+1879,Portsmouth,Barnsley,0,0,0,0
+1880,Portsmouth,Charlton,0.25,0.25,0,0.25
+1881,Portsmouth,Watford,1,0,0,0
+1882,Portsmouth,Bradford,0,0,0,0
+1883,Portsmouth,Fulham,0.29,0.29,0.43,0.14
+1884,Portsmouth,Birmingham,0.4,0.2,0.4,0.2
+1885,Portsmouth,Middlesboro,0,0,0,0
+1886,Portsmouth,West Brom,0.67,0,0.33,0.33
+1887,Portsmouth,Portsmouth,0,0,0,0
+1888,Portsmouth,Wolves,0.5,0.5,0.5,0.5
+1889,Portsmouth,Wigan,0.6,0.4,0,0.2
+1890,Portsmouth,Reading,1,0.5,0,0.5
+1891,Portsmouth,Hull,0.5,0,0.5,1
+1892,Portsmouth,Stoke,0.5,0,0,0.5
+1893,Portsmouth,Burnley,1,1,0,0
+1894,Portsmouth,Blackpool,0,0,0,0
+1895,Portsmouth,Swansea,0,0,0,0
+1896,Portsmouth,Cardiff,0,0,0,0
+1897,Portsmouth,Bournemouth,0,0,0,0
+1898,Portsmouth,Brighton,0,0,0,0
+1899,Portsmouth,Huddersfield,0,0,0,0
+1900,Wolves,Arsenal,0,0,0,0.25
+1901,Wolves,Aston Villa,0,0.25,0.25,0.5
+1902,Wolves,Chelsea,0.25,0,0,0
+1903,Wolves,Liverpool,0,0.25,0.5,0
+1904,Wolves,Man City,0.5,0,0,0.25
+1905,Wolves,Newcastle,0,0,0.67,0.67
+1906,Wolves,Oldham,0,0,0,0
+1907,Wolves,Sheffield United,0,0,0,0
+1908,Wolves,Southampton,0,0,0,0
+1909,Wolves,West Ham,0,0.5,0.5,0
+1910,Wolves,Norwich,0,0,1,0
+1911,Wolves,Tottenham,0.25,0.25,0.25,0.25
+1912,Wolves,Everton,0.25,0,0.5,0.5
+1913,Wolves,Ipswich,0,0,0,0
+1914,Wolves,Leeds,1,0,0,0
+1915,Wolves,Wimbledon,0,0,0,0
+1916,Wolves,Blackburn,0,0.25,0.5,0
+1917,Wolves,Coventry,0,0,0,0
+1918,Wolves,Man United,0.5,0,0,0
+1919,Wolves,QPR,0,1,0,0
+1920,Wolves,Sheffield Weds,0,0,0,0
+1921,Wolves,Swindon,0,0,0,0
+1922,Wolves,Crystal Palace,0,0,0,0
+1923,Wolves,Leicester,1,0,0,1
+1924,Wolves,Nottingham Forest,0,0,0,0
+1925,Wolves,Bolton,0.25,0,0,0.5
+1926,Wolves,Middlesbrough,1,0,0,0
+1927,Wolves,Derby,0,0,0,0
+1928,Wolves,Sunderland,1,0.33,0,0.33
+1929,Wolves,Barnsley,0,0,0,0
+1930,Wolves,Charlton,0,0,0,0
+1931,Wolves,Watford,0,0,0,0
+1932,Wolves,Bradford,0,0,0,0
+1933,Wolves,Fulham,0.75,0,0.25,0.5
+1934,Wolves,Birmingham,0.33,0,0.33,0.67
+1935,Wolves,Middlesboro,0,0,0,0
+1936,Wolves,West Brom,0.5,0,0,0.5
+1937,Wolves,Portsmouth,0,0,0.5,0.5
+1938,Wolves,Wolves,0,0,0,0
+1939,Wolves,Wigan,0.33,0.33,0,0
+1940,Wolves,Reading,0,0,0,0
+1941,Wolves,Hull,0,0,1,1
+1942,Wolves,Stoke,0.33,0,0.33,0.33
+1943,Wolves,Burnley,1,1,0,0
+1944,Wolves,Blackpool,1,0,0,0
+1945,Wolves,Swansea,0,0,1,1
+1946,Wolves,Cardiff,0,0,0,0
+1947,Wolves,Bournemouth,0,0,0,0
+1948,Wolves,Brighton,0,0,0,0
+1949,Wolves,Huddersfield,0,0,0,0
+1950,Wigan,Arsenal,0.12,0.12,0.25,0
+1951,Wigan,Aston Villa,0.12,0.5,0.38,0.38
+1952,Wigan,Chelsea,0.12,0,0.12,0.12
+1953,Wigan,Liverpool,0.12,0.12,0.38,0.25
+1954,Wigan,Man City,0.38,0.25,0.25,0.12
+1955,Wigan,Newcastle,0.86,0,0,0.29
+1956,Wigan,Oldham,0,0,0,0
+1957,Wigan,Sheffield United,0,1,0,0
+1958,Wigan,Southampton,0,1,1,0
+1959,Wigan,West Ham,0.57,0.29,0,0.14
+1960,Wigan,Norwich,0.5,0,0.5,0.5
+1961,Wigan,Tottenham,0.12,0.25,0.5,0.25
+1962,Wigan,Everton,0.12,0.12,0.5,0.25
+1963,Wigan,Ipswich,0,0,0,0
+1964,Wigan,Leeds,0,0,0,0
+1965,Wigan,Wimbledon,0,0,0,0
+1966,Wigan,Blackburn,0.43,0.14,0.29,0.14
+1967,Wigan,Coventry,0,0,0,0
+1968,Wigan,Man United,0.12,0,0,0
+1969,Wigan,QPR,0.5,0,0.5,0.5
+1970,Wigan,Sheffield Weds,0,0,0,0
+1971,Wigan,Swindon,0,0,0,0
+1972,Wigan,Crystal Palace,0,0,0,0
+1973,Wigan,Leicester,0,0,0,0
+1974,Wigan,Nottingham Forest,0,0,0,0
+1975,Wigan,Bolton,0.29,0.43,0.43,0.29
+1976,Wigan,Middlesbrough,0.25,0.25,0.25,0.5
+1977,Wigan,Derby,1,1,0,0
+1978,Wigan,Sunderland,0.43,0.43,0.29,0.14
+1979,Wigan,Barnsley,0,0,0,0
+1980,Wigan,Charlton,1,0,0,0
+1981,Wigan,Watford,0,0,1,1
+1982,Wigan,Bradford,0,0,0,0
+1983,Wigan,Fulham,0.12,0.12,0.62,0.25
+1984,Wigan,Birmingham,0.5,0,0.25,0.25
+1985,Wigan,Middlesboro,0,0,0,0
+1986,Wigan,West Brom,0.4,0.6,0.2,0.2
+1987,Wigan,Portsmouth,0.4,0.4,0.2,0
+1988,Wigan,Wolves,0.67,0.67,0,0
+1989,Wigan,Wigan,0,0,0,0
+1990,Wigan,Reading,0.67,0.33,0.33,0
+1991,Wigan,Hull,0.5,0.5,0.5,0
+1992,Wigan,Stoke,0.2,0.2,0.8,0.6
+1993,Wigan,Burnley,1,1,0,0
+1994,Wigan,Blackpool,0,1,0,0
+1995,Wigan,Swansea,0,0,0,0.5
+1996,Wigan,Cardiff,0,0,0,0
+1997,Wigan,Bournemouth,0,0,0,0
+1998,Wigan,Brighton,0,0,0,0
+1999,Wigan,Huddersfield,0,0,0,0
+2000,Reading,Arsenal,0,0,0,0
+2001,Reading,Aston Villa,0.33,0,0,0
+2002,Reading,Chelsea,0,0,0.33,0.33
+2003,Reading,Liverpool,0.33,0,0.33,0
+2004,Reading,Man City,0.67,0.33,0,0
+2005,Reading,Newcastle,0.67,0.33,0.33,0
+2006,Reading,Oldham,0,0,0,0
+2007,Reading,Sheffield United,1,1,0,0
+2008,Reading,Southampton,0,0,0,0
+2009,Reading,West Ham,0.67,0.33,0,0.33
+2010,Reading,Norwich,0,0,1,0
+2011,Reading,Tottenham,0.33,0,0,0
+2012,Reading,Everton,0.67,0,0,0.33
+2013,Reading,Ipswich,0,0,0,0
+2014,Reading,Leeds,0,0,0,0
+2015,Reading,Wimbledon,0,0,0,0
+2016,Reading,Blackburn,0,0,0.5,0.5
+2017,Reading,Coventry,0,0,0,0
+2018,Reading,Man United,0,0,0.33,0.33
+2019,Reading,QPR,0,0,1,1
+2020,Reading,Sheffield Weds,0,0,0,0
+2021,Reading,Swindon,0,0,0,0
+2022,Reading,Crystal Palace,0,0,0,0
+2023,Reading,Leicester,0,0,0,0
+2024,Reading,Nottingham Forest,0,0,0,0
+2025,Reading,Bolton,0.5,0.5,0,0
+2026,Reading,Middlesbrough,0.5,0.5,0.5,0
+2027,Reading,Derby,1,1,0,0
+2028,Reading,Sunderland,1,0,0,0
+2029,Reading,Barnsley,0,0,0,0
+2030,Reading,Charlton,1,0,0,1
+2031,Reading,Watford,0,0,0,1
+2032,Reading,Bradford,0,0,0,0
+2033,Reading,Fulham,0.33,0.67,0.33,0
+2034,Reading,Birmingham,1,0,0,1
+2035,Reading,Middlesboro,0,0,0,0
+2036,Reading,West Brom,1,0,0,0
+2037,Reading,Portsmouth,0,0,0.5,0
+2038,Reading,Wolves,0,0,0,0
+2039,Reading,Wigan,0.67,0,0,0.33
+2040,Reading,Reading,0,0,0,0
+2041,Reading,Hull,0,0,0,0
+2042,Reading,Stoke,0,0,1,0
+2043,Reading,Burnley,0,0,0,0
+2044,Reading,Blackpool,0,0,0,0
+2045,Reading,Swansea,0,0,1,1
+2046,Reading,Cardiff,0,0,0,0
+2047,Reading,Bournemouth,0,0,0,0
+2048,Reading,Brighton,0,0,0,0
+2049,Reading,Huddersfield,0,0,0,0
+2050,Hull,Arsenal,0,0.2,0,0.2
+2051,Hull,Aston Villa,0.25,0,0.25,0
+2052,Hull,Chelsea,0,0,0.2,0.2
+2053,Hull,Liverpool,0.6,0,0.2,0.4
+2054,Hull,Man City,0.2,0,0.2,0.4
+2055,Hull,Newcastle,0,0.67,0.33,0.33
+2056,Hull,Oldham,0,0,0,0
+2057,Hull,Sheffield United,0,0,0,0
+2058,Hull,Southampton,0.33,0,0,0.33
+2059,Hull,West Ham,0.6,0,0.4,0
+2060,Hull,Norwich,1,0,0,0
+2061,Hull,Tottenham,0,0.2,0.2,0.2
+2062,Hull,Everton,0.4,0,0.4,0.2
+2063,Hull,Ipswich,0,0,0,0
+2064,Hull,Leeds,0,0,0,0
+2065,Hull,Wimbledon,0,0,0,0
+2066,Hull,Blackburn,0,0,0.5,0.5
+2067,Hull,Coventry,0,0,0,0
+2068,Hull,Man United,0,0,0.2,0.2
+2069,Hull,QPR,1,1,0,0
+2070,Hull,Sheffield Weds,0,0,0,0
+2071,Hull,Swindon,0,0,0,0
+2072,Hull,Crystal Palace,0.33,0.33,0.33,0
+2073,Hull,Leicester,0.5,0,0,0.5
+2074,Hull,Nottingham Forest,0,0,0,0
+2075,Hull,Bolton,0.5,0,0,1
+2076,Hull,Middlesbrough,1,0,0,0
+2077,Hull,Derby,0,0,0,0
+2078,Hull,Sunderland,0.2,0.4,0.2,0
+2079,Hull,Barnsley,0,0,0,0
+2080,Hull,Charlton,0,0,0,0
+2081,Hull,Watford,1,0,0,0
+2082,Hull,Bradford,0,0,0,0
+2083,Hull,Fulham,1,0.33,0,0.33
+2084,Hull,Birmingham,0,0,0,1
+2085,Hull,Middlesboro,0,0,0,0
+2086,Hull,West Brom,0.25,0.25,0.75,0.25
+2087,Hull,Portsmouth,0,0,1,0.5
+2088,Hull,Wolves,0,0,1,1
+2089,Hull,Wigan,0.5,0,0,0.5
+2090,Hull,Reading,0,0,0,0
+2091,Hull,Hull,0,0,0,0
+2092,Hull,Stoke,0.2,0,0.4,0.2
+2093,Hull,Burnley,0,0,0.33,0.33
+2094,Hull,Blackpool,0,0,0,0
+2095,Hull,Swansea,0.67,0.33,0,0.33
+2096,Hull,Cardiff,0,1,1,0
+2097,Hull,Bournemouth,1,0,0,0
+2098,Hull,Brighton,0,0,0,0
+2099,Hull,Huddersfield,0,0,0,0
+2100,Stoke,Arsenal,0.5,0,0.3,0
+2101,Stoke,Aston Villa,0.5,0.38,0.25,0.5
+2102,Stoke,Chelsea,0.2,0,0.2,0.1
+2103,Stoke,Liverpool,0.4,0,0.2,0.4
+2104,Stoke,Man City,0.2,0.1,0.5,0.1
+2105,Stoke,Newcastle,0.62,0.12,0.12,0.38
+2106,Stoke,Oldham,0,0,0,0
+2107,Stoke,Sheffield United,0,0,0,0
+2108,Stoke,Southampton,0.33,0.33,0.5,0.5
+2109,Stoke,West Ham,0.33,0.22,0.33,0.56
+2110,Stoke,Norwich,0.75,0,0,0.75
+2111,Stoke,Tottenham,0.3,0.2,0,0.3
+2112,Stoke,Everton,0.2,0.3,0.5,0.1
+2113,Stoke,Ipswich,0,0,0,0
+2114,Stoke,Leeds,0,0,0,0
+2115,Stoke,Wimbledon,0,0,0,0
+2116,Stoke,Blackburn,1,0.5,0,0.25
+2117,Stoke,Coventry,0,0,0,0
+2118,Stoke,Man United,0.2,0,0.4,0.1
+2119,Stoke,QPR,0.67,0.33,0,0.33
+2120,Stoke,Sheffield Weds,0,0,0,0
+2121,Stoke,Swindon,0,0,0,0
+2122,Stoke,Crystal Palace,0.4,0,0,0.2
+2123,Stoke,Leicester,0,0.25,0.75,0.25
+2124,Stoke,Nottingham Forest,0,0,0,0
+2125,Stoke,Bolton,0.5,0,0.25,0.25
+2126,Stoke,Middlesbrough,1,0,0,0.5
+2127,Stoke,Derby,0,0,0,0
+2128,Stoke,Sunderland,0.56,0.11,0.33,0.22
+2129,Stoke,Barnsley,0,0,0,0
+2130,Stoke,Charlton,0,0,0,0
+2131,Stoke,Watford,0.33,1,0.33,0
+2132,Stoke,Bradford,0,0,0,0
+2133,Stoke,Fulham,0.67,0.17,0.17,0
+2134,Stoke,Birmingham,0.5,0,0,0.5
+2135,Stoke,Middlesboro,0,0,0,0
+2136,Stoke,West Brom,0.33,0.56,0.44,0.11
+2137,Stoke,Portsmouth,0.5,0.5,0.5,0
+2138,Stoke,Wolves,0.67,0.33,0.33,0.33
+2139,Stoke,Wigan,0.2,0,0.6,0.8
+2140,Stoke,Reading,1,0,0,1
+2141,Stoke,Hull,0.8,0.4,0.2,0.4
+2142,Stoke,Stoke,0,0,0,0
+2143,Stoke,Burnley,0.5,0,0.25,0.5
+2144,Stoke,Blackpool,0,0,0,1
+2145,Stoke,Swansea,0.71,0.29,0.29,0.14
+2146,Stoke,Cardiff,0,0,1,1
+2147,Stoke,Bournemouth,0.33,0.33,0,0.33
+2148,Stoke,Brighton,0,0,1,1
+2149,Stoke,Huddersfield,1,0,0,1
+2150,Burnley,Arsenal,0,0,0.25,0
+2151,Burnley,Aston Villa,0,0.5,1,0
+2152,Burnley,Chelsea,0,0.25,0.25,0.25
+2153,Burnley,Liverpool,0.25,0,0,0.25
+2154,Burnley,Man City,0.25,0,0.25,0.5
+2155,Burnley,Newcastle,0.5,0,0.5,1
+2156,Burnley,Oldham,0,0,0,0
+2157,Burnley,Sheffield United,0,0,0,0
+2158,Burnley,Southampton,0.67,0.33,0.33,0
+2159,Burnley,West Ham,0.25,0.25,0.25,0
+2160,Burnley,Norwich,0,0,0,0
+2161,Burnley,Tottenham,0.25,0,0.25,0.25
+2162,Burnley,Everton,0.75,0.25,0,0
+2163,Burnley,Ipswich,0,0,0,0
+2164,Burnley,Leeds,0,0,0,0
+2165,Burnley,Wimbledon,0,0,0,0
+2166,Burnley,Blackburn,0,0,0,0
+2167,Burnley,Coventry,0,0,0,0
+2168,Burnley,Man United,0.25,0,0.25,0.5
+2169,Burnley,QPR,1,0,0,0
+2170,Burnley,Sheffield Weds,0,0,0,0
+2171,Burnley,Swindon,0,0,0,0
+2172,Burnley,Crystal Palace,0.67,0.33,0,0.33
+2173,Burnley,Leicester,0.67,0,0,0.33
+2174,Burnley,Nottingham Forest,0,0,0,0
+2175,Burnley,Bolton,0,0,1,0
+2176,Burnley,Middlesbrough,1,0,0,1
+2177,Burnley,Derby,0,0,0,0
+2178,Burnley,Sunderland,0.67,0,0.33,0.33
+2179,Burnley,Barnsley,0,0,0,0
+2180,Burnley,Charlton,0,0,0,0
+2181,Burnley,Watford,1,0.5,0,0
+2182,Burnley,Bradford,0,0,0,0
+2183,Burnley,Fulham,0,0,1,0
+2184,Burnley,Birmingham,1,0,0,0
+2185,Burnley,Middlesboro,0,0,0,0
+2186,Burnley,West Brom,0,0.33,0.67,0
+2187,Burnley,Portsmouth,0,0,0,0
+2188,Burnley,Wolves,0,0,0,0
+2189,Burnley,Wigan,0,0,0,0
+2190,Burnley,Reading,0,0,0,0
+2191,Burnley,Hull,0.67,0.67,0.33,0.33
+2192,Burnley,Stoke,0.5,0.25,0.5,0.25
+2193,Burnley,Burnley,0,0,0,0
+2194,Burnley,Blackpool,0,0,0,0
+2195,Burnley,Swansea,0.33,0,0,0
+2196,Burnley,Cardiff,0,0,0,0
+2197,Burnley,Bournemouth,0.5,0.5,0,0
+2198,Burnley,Brighton,0,0,1,1
+2199,Burnley,Huddersfield,0,0,1,1
+2200,Blackpool,Arsenal,0,0,0,0
+2201,Blackpool,Aston Villa,0,0,1,0
+2202,Blackpool,Chelsea,0,0,0,0
+2203,Blackpool,Liverpool,1,1,0,0
+2204,Blackpool,Man City,0,0,0,0
+2205,Blackpool,Newcastle,0,1,1,0
+2206,Blackpool,Oldham,0,0,0,0
+2207,Blackpool,Sheffield United,0,0,0,0
+2208,Blackpool,Southampton,0,0,0,0
+2209,Blackpool,West Ham,0,0,0,1
+2210,Blackpool,Norwich,0,0,0,0
+2211,Blackpool,Tottenham,1,0,0,1
+2212,Blackpool,Everton,0,0,1,0
+2213,Blackpool,Ipswich,0,0,0,0
+2214,Blackpool,Leeds,0,0,0,0
+2215,Blackpool,Wimbledon,0,0,0,0
+2216,Blackpool,Blackburn,0,0,0,1
+2217,Blackpool,Coventry,0,0,0,0
+2218,Blackpool,Man United,0,0,0,0
+2219,Blackpool,QPR,0,0,0,0
+2220,Blackpool,Sheffield Weds,0,0,0,0
+2221,Blackpool,Swindon,0,0,0,0
+2222,Blackpool,Crystal Palace,0,0,0,0
+2223,Blackpool,Leicester,0,0,0,0
+2224,Blackpool,Nottingham Forest,0,0,0,0
+2225,Blackpool,Bolton,1,0,0,1
+2226,Blackpool,Middlesbrough,0,0,0,0
+2227,Blackpool,Derby,0,0,0,0
+2228,Blackpool,Sunderland,0,1,0,0
+2229,Blackpool,Barnsley,0,0,0,0
+2230,Blackpool,Charlton,0,0,0,0
+2231,Blackpool,Watford,0,0,0,0
+2232,Blackpool,Bradford,0,0,0,0
+2233,Blackpool,Fulham,0,0,1,0
+2234,Blackpool,Birmingham,0,0,0,0
+2235,Blackpool,Middlesboro,0,0,0,0
+2236,Blackpool,West Brom,1,0,0,0
+2237,Blackpool,Portsmouth,0,0,0,0
+2238,Blackpool,Wolves,1,0,0,0
+2239,Blackpool,Wigan,0,1,0,0
+2240,Blackpool,Reading,0,0,0,0
+2241,Blackpool,Hull,0,0,0,0
+2242,Blackpool,Stoke,0,1,1,0
+2243,Blackpool,Burnley,0,0,0,0
+2244,Blackpool,Blackpool,0,0,0,0
+2245,Blackpool,Swansea,0,0,0,0
+2246,Blackpool,Cardiff,0,0,0,0
+2247,Blackpool,Bournemouth,0,0,0,0
+2248,Blackpool,Brighton,0,0,0,0
+2249,Blackpool,Huddersfield,0,0,0,0
+2250,Swansea,Arsenal,0.43,0.43,0,0.14
+2251,Swansea,Aston Villa,0.6,0.6,0.4,0.2
+2252,Swansea,Chelsea,0.14,0,0.43,0.14
+2253,Swansea,Liverpool,0.43,0.14,0.29,0.14
+2254,Swansea,Man City,0.14,0,0.29,0
+2255,Swansea,Newcastle,0.5,0.5,0.17,0.33
+2256,Swansea,Oldham,0,0,0,0
+2257,Swansea,Sheffield United,0,0,0,0
+2258,Swansea,Southampton,0.17,0.17,0.17,0.33
+2259,Swansea,West Ham,0.33,0.17,0.5,0
+2260,Swansea,Norwich,0.5,0,0,0.5
+2261,Swansea,Tottenham,0,0,0.29,0.14
+2262,Swansea,Everton,0.14,0.14,0.43,0.43
+2263,Swansea,Ipswich,0,0,0,0
+2264,Swansea,Leeds,0,0,0,0
+2265,Swansea,Wimbledon,0,0,0,0
+2266,Swansea,Blackburn,1,0,0,0
+2267,Swansea,Coventry,0,0,0,0
+2268,Swansea,Man United,0.29,0.14,0.14,0.14
+2269,Swansea,QPR,0.67,0.33,0.33,0.33
+2270,Swansea,Sheffield Weds,0,0,0,0
+2271,Swansea,Swindon,0,0,0,0
+2272,Swansea,Crystal Palace,0.2,0.6,0.8,0.2
+2273,Swansea,Leicester,0.5,0,0,0.25
+2274,Swansea,Nottingham Forest,0,0,0,0
+2275,Swansea,Bolton,1,0,0,1
+2276,Swansea,Middlesbrough,0,0,1,0
+2277,Swansea,Derby,0,0,0,0
+2278,Swansea,Sunderland,0.33,0.33,0.5,0.5
+2279,Swansea,Barnsley,0,0,0,0
+2280,Swansea,Charlton,0,0,0,0
+2281,Swansea,Watford,0.33,0.33,0.33,0
+2282,Swansea,Bradford,0,0,0,0
+2283,Swansea,Fulham,0.67,1,0,0
+2284,Swansea,Birmingham,0,0,0,0
+2285,Swansea,Middlesboro,0,0,0,0
+2286,Swansea,West Brom,0.86,0.29,0,0.29
+2287,Swansea,Portsmouth,0,0,0,0
+2288,Swansea,Wolves,0,0,1,1
+2289,Swansea,Wigan,0.5,1,0.5,0
+2290,Swansea,Reading,0,0,1,1
+2291,Swansea,Hull,0.33,0.33,0.33,0
+2292,Swansea,Stoke,0.57,0,0.14,0.29
+2293,Swansea,Burnley,1,0.67,0,0
+2294,Swansea,Blackpool,0,0,0,0
+2295,Swansea,Swansea,0,0,0,0
+2296,Swansea,Cardiff,1,0,0,0
+2297,Swansea,Bournemouth,0,0,0.67,0
+2298,Swansea,Brighton,0,0,0,0
+2299,Swansea,Huddersfield,1,0,0,1
+2300,Cardiff,Arsenal,0,0,0,0
+2301,Cardiff,Aston Villa,0,0,1,0
+2302,Cardiff,Chelsea,0,0,0,0
+2303,Cardiff,Liverpool,0,0,0,0
+2304,Cardiff,Man City,1,0,0,0
+2305,Cardiff,Newcastle,0,0,0,0
+2306,Cardiff,Oldham,0,0,0,0
+2307,Cardiff,Sheffield United,0,0,0,0
+2308,Cardiff,Southampton,0,1,0,0
+2309,Cardiff,West Ham,0,0,0,0
+2310,Cardiff,Norwich,1,0,0,1
+2311,Cardiff,Tottenham,0,0,0,0
+2312,Cardiff,Everton,0,0,1,0
+2313,Cardiff,Ipswich,0,0,0,0
+2314,Cardiff,Leeds,0,0,0,0
+2315,Cardiff,Wimbledon,0,0,0,0
+2316,Cardiff,Blackburn,0,0,0,0
+2317,Cardiff,Coventry,0,0,0,0
+2318,Cardiff,Man United,0,0,1,0
+2319,Cardiff,QPR,0,0,0,0
+2320,Cardiff,Sheffield Weds,0,0,0,0
+2321,Cardiff,Swindon,0,0,0,0
+2322,Cardiff,Crystal Palace,0,0,0,0
+2323,Cardiff,Leicester,0,0,0,0
+2324,Cardiff,Nottingham Forest,0,0,0,0
+2325,Cardiff,Bolton,0,0,0,0
+2326,Cardiff,Middlesbrough,0,0,0,0
+2327,Cardiff,Derby,0,0,0,0
+2328,Cardiff,Sunderland,0,0,1,0
+2329,Cardiff,Barnsley,0,0,0,0
+2330,Cardiff,Charlton,0,0,0,0
+2331,Cardiff,Watford,0,0,0,0
+2332,Cardiff,Bradford,0,0,0,0
+2333,Cardiff,Fulham,1,1,0,0
+2334,Cardiff,Birmingham,0,0,0,0
+2335,Cardiff,Middlesboro,0,0,0,0
+2336,Cardiff,West Brom,1,0,0,1
+2337,Cardiff,Portsmouth,0,0,0,0
+2338,Cardiff,Wolves,0,0,0,0
+2339,Cardiff,Wigan,0,0,0,0
+2340,Cardiff,Reading,0,0,0,0
+2341,Cardiff,Hull,0,0,0,1
+2342,Cardiff,Stoke,0,0,1,1
+2343,Cardiff,Burnley,0,0,0,0
+2344,Cardiff,Blackpool,0,0,0,0
+2345,Cardiff,Swansea,1,0,0,0
+2346,Cardiff,Cardiff,0,0,0,0
+2347,Cardiff,Bournemouth,0,0,0,0
+2348,Cardiff,Brighton,0,0,0,0
+2349,Cardiff,Huddersfield,0,0,0,0
+2350,Bournemouth,Arsenal,0.33,0,0.33,0
+2351,Bournemouth,Aston Villa,0,1,0,0
+2352,Bournemouth,Chelsea,0,0.67,0,0
+2353,Bournemouth,Liverpool,0.33,0,0,0.33
+2354,Bournemouth,Man City,0,0,0,0
+2355,Bournemouth,Newcastle,0,1,0.5,0
+2356,Bournemouth,Oldham,0,0,0,0
+2357,Bournemouth,Sheffield United,0,0,0,0
+2358,Bournemouth,Southampton,0.33,0,0.33,0.33
+2359,Bournemouth,West Ham,0.33,0.33,0.33,0.33
+2360,Bournemouth,Norwich,1,0,0,0
+2361,Bournemouth,Tottenham,0,0,0.33,0
+2362,Bournemouth,Everton,0.67,0,0.33,0
+2363,Bournemouth,Ipswich,0,0,0,0
+2364,Bournemouth,Leeds,0,0,0,0
+2365,Bournemouth,Wimbledon,0,0,0,0
+2366,Bournemouth,Blackburn,0,0,0,0
+2367,Bournemouth,Coventry,0,0,0,0
+2368,Bournemouth,Man United,0.33,0,0,0.33
+2369,Bournemouth,QPR,0,0,0,0
+2370,Bournemouth,Sheffield Weds,0,0,0,0
+2371,Bournemouth,Swindon,0,0,0,0
+2372,Bournemouth,Crystal Palace,0,0.33,0.67,0.67
+2373,Bournemouth,Leicester,0.33,0,0.67,1
+2374,Bournemouth,Nottingham Forest,0,0,0,0
+2375,Bournemouth,Bolton,0,0,0,0
+2376,Bournemouth,Middlesbrough,1,0,0,0
+2377,Bournemouth,Derby,0,0,0,0
+2378,Bournemouth,Sunderland,0.5,0.5,0,0.5
+2379,Bournemouth,Barnsley,0,0,0,0
+2380,Bournemouth,Charlton,0,0,0,0
+2381,Bournemouth,Watford,0,0,0.67,1
+2382,Bournemouth,Bradford,0,0,0,0
+2383,Bournemouth,Fulham,0,0,0,0
+2384,Bournemouth,Birmingham,0,0,0,0
+2385,Bournemouth,Middlesboro,0,0,0,0
+2386,Bournemouth,West Brom,0.67,0.33,0.33,0
+2387,Bournemouth,Portsmouth,0,0,0,0
+2388,Bournemouth,Wolves,0,0,0,0
+2389,Bournemouth,Wigan,0,0,0,0
+2390,Bournemouth,Reading,0,0,0,0
+2391,Bournemouth,Hull,1,0,0,0
+2392,Bournemouth,Stoke,0.33,0.67,0.33,0
+2393,Bournemouth,Burnley,0.5,0.5,0,0
+2394,Bournemouth,Blackpool,0,0,0,0
+2395,Bournemouth,Swansea,1,0.33,0,0.67
+2396,Bournemouth,Cardiff,0,0,0,0
+2397,Bournemouth,Bournemouth,0,0,0,0
+2398,Bournemouth,Brighton,1,0,0,1
+2399,Bournemouth,Huddersfield,1,0,0,0
+2400,Brighton,Arsenal,1,0,0,0
+2401,Brighton,Aston Villa,0,0,0,0
+2402,Brighton,Chelsea,0,0,0,0
+2403,Brighton,Liverpool,0,0,0,0
+2404,Brighton,Man City,0,0,0,0
+2405,Brighton,Newcastle,1,0,0,1
+2406,Brighton,Oldham,0,0,0,0
+2407,Brighton,Sheffield United,0,0,0,0
+2408,Brighton,Southampton,0,0,1,1
+2409,Brighton,West Ham,1,1,0,0
+2410,Brighton,Norwich,0,0,0,0
+2411,Brighton,Tottenham,0,0,1,0
+2412,Brighton,Everton,0,0,1,0
+2413,Brighton,Ipswich,0,0,0,0
+2414,Brighton,Leeds,0,0,0,0
+2415,Brighton,Wimbledon,0,0,0,0
+2416,Brighton,Blackburn,0,0,0,0
+2417,Brighton,Coventry,0,0,0,0
+2418,Brighton,Man United,1,0,0,0
+2419,Brighton,QPR,0,0,0,0
+2420,Brighton,Sheffield Weds,0,0,0,0
+2421,Brighton,Swindon,0,0,0,0
+2422,Brighton,Crystal Palace,0,0,1,0
+2423,Brighton,Leicester,0,0,0,0
+2424,Brighton,Nottingham Forest,0,0,0,0
+2425,Brighton,Bolton,0,0,0,0
+2426,Brighton,Middlesbrough,0,0,0,0
+2427,Brighton,Derby,0,0,0,0
+2428,Brighton,Sunderland,0,0,0,0
+2429,Brighton,Barnsley,0,0,0,0
+2430,Brighton,Charlton,0,0,0,0
+2431,Brighton,Watford,1,0,0,1
+2432,Brighton,Bradford,0,0,0,0
+2433,Brighton,Fulham,0,0,0,0
+2434,Brighton,Birmingham,0,0,0,0
+2435,Brighton,Middlesboro,0,0,0,0
+2436,Brighton,West Brom,1,0,0,0
+2437,Brighton,Portsmouth,0,0,0,0
+2438,Brighton,Wolves,0,0,0,0
+2439,Brighton,Wigan,0,0,0,0
+2440,Brighton,Reading,0,0,0,0
+2441,Brighton,Hull,0,0,0,0
+2442,Brighton,Stoke,0,0,1,1
+2443,Brighton,Burnley,0,0,1,1
+2444,Brighton,Blackpool,0,0,0,0
+2445,Brighton,Swansea,1,1,0,0
+2446,Brighton,Cardiff,0,0,0,0
+2447,Brighton,Bournemouth,0,0,1,0
+2448,Brighton,Brighton,0,0,0,0
+2449,Brighton,Huddersfield,0,0,1,0
+2450,Huddersfield,Arsenal,0,0,0,0
+2451,Huddersfield,Aston Villa,0,0,0,0
+2452,Huddersfield,Chelsea,0,0,0,1
+2453,Huddersfield,Liverpool,0,0,0,0
+2454,Huddersfield,Man City,0,0,0,1
+2455,Huddersfield,Newcastle,1,0,0,0
+2456,Huddersfield,Oldham,0,0,0,0
+2457,Huddersfield,Sheffield United,0,0,0,0
+2458,Huddersfield,Southampton,0,0,1,1
+2459,Huddersfield,West Ham,0,0,0,0
+2460,Huddersfield,Norwich,0,0,0,0
+2461,Huddersfield,Tottenham,0,0,0,0
+2462,Huddersfield,Everton,0,0,0,0
+2463,Huddersfield,Ipswich,0,0,0,0
+2464,Huddersfield,Leeds,0,0,0,0
+2465,Huddersfield,Wimbledon,0,0,0,0
+2466,Huddersfield,Blackburn,0,0,0,0
+2467,Huddersfield,Coventry,0,0,0,0
+2468,Huddersfield,Man United,1,0,0,0
+2469,Huddersfield,QPR,0,0,0,0
+2470,Huddersfield,Sheffield Weds,0,0,0,0
+2471,Huddersfield,Swindon,0,0,0,0
+2472,Huddersfield,Crystal Palace,0,1,0,0
+2473,Huddersfield,Leicester,0,0,1,0
+2474,Huddersfield,Nottingham Forest,0,0,0,0
+2475,Huddersfield,Bolton,0,0,0,0
+2476,Huddersfield,Middlesbrough,0,0,0,0
+2477,Huddersfield,Derby,0,0,0,0
+2478,Huddersfield,Sunderland,0,0,0,0
+2479,Huddersfield,Barnsley,0,0,0,0
+2480,Huddersfield,Charlton,0,0,0,0
+2481,Huddersfield,Watford,1,1,0,0
+2482,Huddersfield,Bradford,0,0,0,0
+2483,Huddersfield,Fulham,0,0,0,0
+2484,Huddersfield,Birmingham,0,0,0,0
+2485,Huddersfield,Middlesboro,0,0,0,0
+2486,Huddersfield,West Brom,1,1,0,0
+2487,Huddersfield,Portsmouth,0,0,0,0
+2488,Huddersfield,Wolves,0,0,0,0
+2489,Huddersfield,Wigan,0,0,0,0
+2490,Huddersfield,Reading,0,0,0,0
+2491,Huddersfield,Hull,0,0,0,0
+2492,Huddersfield,Stoke,0,0,1,0
+2493,Huddersfield,Burnley,0,0,1,1
+2494,Huddersfield,Blackpool,0,0,0,0
+2495,Huddersfield,Swansea,0,0,1,0
+2496,Huddersfield,Cardiff,0,0,0,0
+2497,Huddersfield,Bournemouth,1,0,0,0
+2498,Huddersfield,Brighton,1,0,0,1
+2499,Huddersfield,Huddersfield,0,0,0,0

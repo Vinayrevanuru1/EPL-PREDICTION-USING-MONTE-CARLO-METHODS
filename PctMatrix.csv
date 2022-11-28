@@ -1,0 +1,2502 @@
+"","team1","team2","homeWinPct","awayWinPct","homeDrawPct"
+"1","0","0",0,0,0
+"2","Arsenal","Arsenal",NA,NA,NA
+"3","Arsenal","Aston Villa",0.608695652173913,0.521739130434783,0.217391304347826
+"4","Arsenal","Chelsea",0.44,0.28,0.36
+"5","Arsenal","Liverpool",0.36,0.2,0.4
+"6","Arsenal","Man City",0.55,0.5,0.35
+"7","Arsenal","Newcastle",0.739130434782609,0.391304347826087,0.0869565217391304
+"8","Arsenal","Oldham",0,0,1
+"9","Arsenal","Sheffield United",1,0,0
+"10","Arsenal","Southampton",0.722222222222222,0.388888888888889,0.277777777777778
+"11","Arsenal","West Ham",0.727272727272727,0.545454545454545,0.0454545454545455
+"12","Arsenal","Norwich",0.714285714285714,0.428571428571429,0.285714285714286
+"13","Arsenal","Tottenham",0.56,0.2,0.4
+"14","Arsenal","Everton",0.76,0.48,0.2
+"15","Arsenal","Ipswich",1,0.75,0
+"16","Arsenal","Leeds",0.727272727272727,0.363636363636364,0
+"17","Arsenal","Wimbledon",0.285714285714286,0.714285714285714,0.428571428571429
+"18","Arsenal","Blackburn",0.588235294117647,0.529411764705882,0.294117647058824
+"19","Arsenal","Coventry",0.625,0.375,0.25
+"20","Arsenal","Man United",0.4,0.12,0.32
+"21","Arsenal","QPR",0.666666666666667,0.333333333333333,0.166666666666667
+"22","Arsenal","Sheffield Weds",0.714285714285714,0.142857142857143,0.285714285714286
+"23","Arsenal","Swindon",0,1,1
+"24","Arsenal","Crystal Palace",0.75,0.625,0.125
+"25","Arsenal","Leicester",0.916666666666667,0.333333333333333,0.0833333333333333
+"26","Arsenal","Nottingham Forest",0.75,0.5,0.25
+"27","Arsenal","Bolton",0.769230769230769,0.384615384615385,0.230769230769231
+"28","Arsenal","Middlesbrough",0.538461538461538,0.615384615384615,0.384615384615385
+"29","Arsenal","Derby",0.714285714285714,0.714285714285714,0.285714285714286
+"30","Arsenal","Sunderland",0.6875,0.5,0.3125
+"31","Arsenal","Barnsley",1,1,0
+"32","Arsenal","Charlton",0.75,0.75,0.125
+"33","Arsenal","Watford",0.8,0.8,0
+"34","Arsenal","Brentford",1,0,0
+"35","Arsenal","Fulham",0.692307692307692,0.692307692307692,0.307692307692308
+"36","Arsenal","Birmingham",0.714285714285714,0.571428571428571,0.285714285714286
+"37","Arsenal","Middlesboro",1,1,0
+"38","Arsenal","West Brom",0.833333333333333,0.5,0.0833333333333333
+"39","Arsenal","Portsmouth",0.714285714285714,0.428571428571429,0.285714285714286
+"40","Arsenal","Wolves",0.75,1,0.25
+"41","Arsenal","Wigan",0.875,0.625,0
+"42","Arsenal","Reading",1,1,0
+"43","Arsenal","Hull",0.6,1,0.2
+"44","Arsenal","Spurs",1,0.2,0
+"45","Arsenal","Burnley",1,0.75,0
+"46","Arsenal","Blackpool",1,1,0
+"47","Arsenal","Swansea",0.428571428571429,0.571428571428571,0.142857142857143
+"48","Arsenal","Cardiff",1,1,0
+"49","Arsenal","Bournemouth",1,0.333333333333333,0
+"50","Arsenal","Brighton",1,0,0
+"51","Arsenal","Huddersfield",1,1,0
+"52","Aston Villa","Arsenal",0.0869565217391304,0.173913043478261,0.391304347826087
+"53","Aston Villa","Aston Villa",NA,NA,NA
+"54","Aston Villa","Chelsea",0.304347826086957,0.173913043478261,0.304347826086957
+"55","Aston Villa","Liverpool",0.217391304347826,0.217391304347826,0.217391304347826
+"56","Aston Villa","Man City",0.222222222222222,0.111111111111111,0.388888888888889
+"57","Aston Villa","Newcastle",0.272727272727273,0.0909090909090909,0.363636363636364
+"58","Aston Villa","Oldham",0,0,0
+"59","Aston Villa","Sheffield United",1,0.5,0
+"60","Aston Villa","Southampton",0.375,0.4375,0.3125
+"61","Aston Villa","West Ham",0.45,0.2,0.4
+"62","Aston Villa","Norwich",0.571428571428571,0.428571428571429,0.428571428571429
+"63","Aston Villa","Tottenham",0.391304347826087,0.217391304347826,0.304347826086957
+"64","Aston Villa","Everton",0.478260869565217,0.260869565217391,0.347826086956522
+"65","Aston Villa","Ipswich",0.75,0.75,0
+"66","Aston Villa","Leeds",0.545454545454545,0.181818181818182,0.181818181818182
+"67","Aston Villa","Wimbledon",0.571428571428571,0.142857142857143,0.142857142857143
+"68","Aston Villa","Blackburn",0.588235294117647,0.294117647058824,0.0588235294117647
+"69","Aston Villa","Coventry",0.625,0.75,0.25
+"70","Aston Villa","Man United",0.0434782608695652,0.0434782608695652,0.304347826086957
+"71","Aston Villa","QPR",0.666666666666667,0,0.333333333333333
+"72","Aston Villa","Sheffield Weds",0.428571428571429,0.571428571428571,0.428571428571429
+"73","Aston Villa","Swindon",1,1,0
+"74","Aston Villa","Crystal Palace",0.333333333333333,0.166666666666667,0.5
+"75","Aston Villa","Leicester",0.3,0.1,0.5
+"76","Aston Villa","Nottingham Forest",0.5,0.25,0.25
+"77","Aston Villa","Bolton",0.461538461538462,0.384615384615385,0.307692307692308
+"78","Aston Villa","Middlesbrough",0.333333333333333,0.5,0.416666666666667
+"79","Aston Villa","Derby",1,0.428571428571429,0
+"80","Aston Villa","Sunderland",0.333333333333333,0.4,0.533333333333333
+"81","Aston Villa","Barnsley",0,1,0
+"82","Aston Villa","Charlton",0.75,0.375,0.125
+"83","Aston Villa","Watford",0.666666666666667,0.333333333333333,0
+"84","Aston Villa","Brentford",1,0.5,0
+"85","Aston Villa","Fulham",0.538461538461538,0.153846153846154,0.384615384615385
+"86","Aston Villa","Birmingham",0.428571428571429,0.428571428571429,0.285714285714286
+"87","Aston Villa","Middlesboro",1,1,0
+"88","Aston Villa","West Brom",0.5,0.2,0.3
+"89","Aston Villa","Portsmouth",0.571428571428571,0.428571428571429,0.285714285714286
+"90","Aston Villa","Wolves",0.25,0.75,0.5
+"91","Aston Villa","Wigan",0.125,0.5,0.375
+"92","Aston Villa","Reading",1,0.666666666666667,0
+"93","Aston Villa","Hull",1,0.5,0
+"94","Aston Villa","Spurs",0.125,0.25,0.5
+"95","Aston Villa","Burnley",0.5,0,0
+"96","Aston Villa","Blackpool",1,0,0
+"97","Aston Villa","Swansea",0.2,0,0.2
+"98","Aston Villa","Cardiff",1,0,0
+"99","Aston Villa","Bournemouth",0,1,0
+"100","Aston Villa","Brighton",NA,NA,NA
+"101","Aston Villa","Huddersfield",NA,NA,NA
+"102","Chelsea","Arsenal",0.44,0.2,0.28
+"103","Chelsea","Aston Villa",0.608695652173913,0.391304347826087,0.217391304347826
+"104","Chelsea","Chelsea",NA,NA,NA
+"105","Chelsea","Liverpool",0.56,0.24,0.2
+"106","Chelsea","Man City",0.6,0.55,0.25
+"107","Chelsea","Newcastle",0.695652173913043,0.260869565217391,0.260869565217391
+"108","Chelsea","Oldham",0,0,0
+"109","Chelsea","Sheffield United",1,0.5,0
+"110","Chelsea","Southampton",0.611111111111111,0.611111111111111,0.222222222222222
+"111","Chelsea","West Ham",0.590909090909091,0.5,0.227272727272727
+"112","Chelsea","Norwich",0.714285714285714,0.571428571428571,0.142857142857143
+"113","Chelsea","Tottenham",0.64,0.4,0.32
+"114","Chelsea","Everton",0.56,0.36,0.4
+"115","Chelsea","Ipswich",0.75,0,0.25
+"116","Chelsea","Leeds",0.454545454545455,0.181818181818182,0.363636363636364
+"117","Chelsea","Wimbledon",0.428571428571429,0.571428571428571,0.285714285714286
+"118","Chelsea","Blackburn",0.411764705882353,0.529411764705882,0.294117647058824
+"119","Chelsea","Coventry",0.625,0,0.25
+"120","Chelsea","Man United",0.48,0.24,0.32
+"121","Chelsea","QPR",0.666666666666667,0.333333333333333,0.166666666666667
+"122","Chelsea","Sheffield Weds",0.285714285714286,0.285714285714286,0.714285714285714
+"123","Chelsea","Swindon",1,1,0
+"124","Chelsea","Crystal Palace",0.625,0.75,0.125
+"125","Chelsea","Leicester",0.583333333333333,0.583333333333333,0.333333333333333
+"126","Chelsea","Nottingham Forest",0.5,0.5,0.25
+"127","Chelsea","Bolton",0.692307692307692,0.692307692307692,0.230769230769231
+"128","Chelsea","Middlesbrough",0.769230769230769,0.538461538461538,0.230769230769231
+"129","Chelsea","Derby",1,0.428571428571429,0
+"130","Chelsea","Sunderland",0.8125,0.625,0
+"131","Chelsea","Barnsley",1,1,0
+"132","Chelsea","Charlton",0.625,0.625,0.125
+"133","Chelsea","Watford",0.8,0.4,0.2
+"134","Chelsea","Brentford",1,0,0
+"135","Chelsea","Fulham",0.615384615384615,0.538461538461538,0.384615384615385
+"136","Chelsea","Birmingham",0.714285714285714,0.428571428571429,0.285714285714286
+"137","Chelsea","Middlesboro",1,0,0
+"138","Chelsea","West Brom",0.833333333333333,0.666666666666667,0.166666666666667
+"139","Chelsea","Portsmouth",1,0.857142857142857,0
+"140","Chelsea","Wolves",1,0.75,0
+"141","Chelsea","Wigan",0.875,0.75,0.125
+"142","Chelsea","Reading",0.666666666666667,0.666666666666667,0.333333333333333
+"143","Chelsea","Hull",0.8,0.8,0.2
+"144","Chelsea","Spurs",0.9,0.6,0.1
+"145","Chelsea","Burnley",0.5,0.75,0.25
+"146","Chelsea","Blackpool",1,1,0
+"147","Chelsea","Swansea",0.857142857142857,0.428571428571429,0.142857142857143
+"148","Chelsea","Cardiff",1,1,0
+"149","Chelsea","Bournemouth",0.333333333333333,1,0
+"150","Chelsea","Brighton",1,1,0
+"151","Chelsea","Huddersfield",0,1,1
+"152","Liverpool","Arsenal",0.48,0.24,0.32
+"153","Liverpool","Aston Villa",0.565217391304348,0.565217391304348,0.217391304347826
+"154","Liverpool","Chelsea",0.48,0.24,0.28
+"155","Liverpool","Liverpool",NA,NA,NA
+"156","Liverpool","Man City",0.75,0.2,0.2
+"157","Liverpool","Newcastle",0.782608695652174,0.304347826086957,0.173913043478261
+"158","Liverpool","Oldham",1,1,0
+"159","Liverpool","Sheffield United",0.5,0,0
+"160","Liverpool","Southampton",0.555555555555556,0.444444444444444,0.277777777777778
+"161","Liverpool","West Ham",0.681818181818182,0.5,0.272727272727273
+"162","Liverpool","Norwich",0.571428571428571,0.857142857142857,0.285714285714286
+"163","Liverpool","Tottenham",0.6,0.28,0.32
+"164","Liverpool","Everton",0.44,0.4,0.48
+"165","Liverpool","Ipswich",0.5,0.75,0
+"166","Liverpool","Leeds",0.636363636363636,0.545454545454545,0.0909090909090909
+"167","Liverpool","Wimbledon",0.571428571428571,0.142857142857143,0.428571428571429
+"168","Liverpool","Blackburn",0.588235294117647,0.352941176470588,0.352941176470588
+"169","Liverpool","Coventry",0.625,0.375,0.125
+"170","Liverpool","Man United",0.32,0.2,0.24
+"171","Liverpool","QPR",0.833333333333333,0.666666666666667,0.166666666666667
+"172","Liverpool","Sheffield Weds",0.857142857142857,0.285714285714286,0
+"173","Liverpool","Swindon",0,1,1
+"174","Liverpool","Crystal Palace",0.5,0.625,0.125
+"175","Liverpool","Leicester",0.583333333333333,0.416666666666667,0.166666666666667
+"176","Liverpool","Nottingham Forest",1,0,0
+"177","Liverpool","Bolton",0.923076923076923,0.461538461538462,0.0769230769230769
+"178","Liverpool","Middlesbrough",0.769230769230769,0.230769230769231,0.230769230769231
+"179","Liverpool","Derby",0.714285714285714,0.714285714285714,0.142857142857143
+"180","Liverpool","Sunderland",0.5,0.625,0.5
+"181","Liverpool","Barnsley",0,1,0
+"182","Liverpool","Charlton",0.5,0.5,0.375
+"183","Liverpool","Watford",0.8,0.6,0
+"184","Liverpool","Brentford",1,0.5,0
+"185","Liverpool","Fulham",0.615384615384615,0.615384615384615,0.307692307692308
+"186","Liverpool","Birmingham",0.285714285714286,0.142857142857143,0.571428571428571
+"187","Liverpool","Middlesboro",0,0,1
+"188","Liverpool","West Brom",0.666666666666667,0.5,0.166666666666667
+"189","Liverpool","Portsmouth",0.714285714285714,0.428571428571429,0.285714285714286
+"190","Liverpool","Wolves",0.75,0.5,0
+"191","Liverpool","Wigan",0.625,0.5,0.25
+"192","Liverpool","Reading",1,0.333333333333333,0
+"193","Liverpool","Hull",0.6,0.2,0.4
+"194","Liverpool","Spurs",0.6,0.4,0.4
+"195","Liverpool","Burnley",0.75,0.75,0.25
+"196","Liverpool","Blackpool",0,0,0
+"197","Liverpool","Swansea",0.714285714285714,0.285714285714286,0.142857142857143
+"198","Liverpool","Cardiff",1,1,0
+"199","Liverpool","Bournemouth",0.666666666666667,0.666666666666667,0.333333333333333
+"200","Liverpool","Brighton",1,1,0
+"201","Liverpool","Huddersfield",1,1,0
+"202","Man City","Arsenal",0.35,0.1,0.15
+"203","Man City","Aston Villa",0.833333333333333,0.388888888888889,0.0555555555555556
+"204","Man City","Chelsea",0.35,0.15,0.1
+"205","Man City","Liverpool",0.35,0.05,0.45
+"206","Man City","Man City",NA,NA,NA
+"207","Man City","Newcastle",0.722222222222222,0.5,0.222222222222222
+"208","Man City","Oldham",0,0,1
+"209","Man City","Sheffield United",0,1,1
+"210","Man City","Southampton",0.538461538461538,0.461538461538462,0.230769230769231
+"211","Man City","West Ham",0.764705882352941,0.352941176470588,0.117647058823529
+"212","Man City","Norwich",0.571428571428571,0.428571428571429,0.285714285714286
+"213","Man City","Tottenham",0.4,0.25,0.15
+"214","Man City","Everton",0.5,0.2,0.2
+"215","Man City","Ipswich",0.666666666666667,0.333333333333333,0
+"216","Man City","Leeds",0.166666666666667,0.333333333333333,0.666666666666667
+"217","Man City","Wimbledon",0.666666666666667,0,0
+"218","Man City","Blackburn",0.230769230769231,0.384615384615385,0.538461538461538
+"219","Man City","Coventry",0,0,0.75
+"220","Man City","Man United",0.35,0.3,0.1
+"221","Man City","QPR",0.833333333333333,0.333333333333333,0
+"222","Man City","Sheffield Weds",0.666666666666667,0,0
+"223","Man City","Swindon",1,1,0
+"224","Man City","Crystal Palace",0.857142857142857,0.571428571428571,0.142857142857143
+"225","Man City","Leicester",0.428571428571429,0.571428571428571,0
+"226","Man City","Nottingham Forest",0,0,1
+"227","Man City","Bolton",0.727272727272727,0.363636363636364,0
+"228","Man City","Middlesbrough",0.333333333333333,0.111111111111111,0.333333333333333
+"229","Man City","Derby",0.5,0,0.5
+"230","Man City","Sunderland",0.846153846153846,0.538461538461538,0.153846153846154
+"231","Man City","Barnsley",NA,NA,NA
+"232","Man City","Charlton",0.333333333333333,0.333333333333333,0.333333333333333
+"233","Man City","Watford",0.75,0.75,0.25
+"234","Man City","Brentford",1,0,0
+"235","Man City","Fulham",0.416666666666667,0.5,0.333333333333333
+"236","Man City","Birmingham",0.714285714285714,0.285714285714286,0.285714285714286
+"237","Man City","Middlesboro",0,0,1
+"238","Man City","West Brom",0.75,0.666666666666667,0.166666666666667
+"239","Man City","Portsmouth",0.714285714285714,0.285714285714286,0.285714285714286
+"240","Man City","Wolves",0.75,0.5,0.25
+"241","Man City","Wigan",0.625,0.375,0.125
+"242","Man City","Reading",0.666666666666667,0.333333333333333,0
+"243","Man City","Hull",0.6,0.6,0.4
+"244","Man City","Spurs",0.8,0.3,0.1
+"245","Man City","Burnley",0.5,0.5,0.5
+"246","Man City","Blackpool",1,1,0
+"247","Man City","Swansea",1,0.571428571428571,0
+"248","Man City","Cardiff",1,0,0
+"249","Man City","Bournemouth",1,1,0
+"250","Man City","Brighton",1,1,0
+"251","Man City","Huddersfield",0,1,1
+"252","Newcastle","Arsenal",0.260869565217391,0.173913043478261,0.347826086956522
+"253","Newcastle","Aston Villa",0.636363636363636,0.363636363636364,0.272727272727273
+"254","Newcastle","Chelsea",0.478260869565217,0.0434782608695652,0.260869565217391
+"255","Newcastle","Liverpool",0.434782608695652,0.0434782608695652,0.260869565217391
+"256","Newcastle","Man City",0.333333333333333,0.0555555555555556,0.166666666666667
+"257","Newcastle","Newcastle",NA,NA,NA
+"258","Newcastle","Oldham",1,1,0
+"259","Newcastle","Sheffield United",0.5,0.5,0
+"260","Newcastle","Southampton",0.647058823529412,0.0588235294117647,0.176470588235294
+"261","Newcastle","West Ham",0.55,0.4,0.3
+"262","Newcastle","Norwich",0.857142857142857,0.142857142857143,0.142857142857143
+"263","Newcastle","Tottenham",0.521739130434783,0.391304347826087,0.217391304347826
+"264","Newcastle","Everton",0.521739130434783,0.217391304347826,0.173913043478261
+"265","Newcastle","Ipswich",0.5,0.5,0.5
+"266","Newcastle","Leeds",0.454545454545455,0.545454545454545,0.272727272727273
+"267","Newcastle","Wimbledon",0.714285714285714,0,0.142857142857143
+"268","Newcastle","Blackburn",0.375,0.1875,0.25
+"269","Newcastle","Coventry",0.875,0.375,0.125
+"270","Newcastle","Man United",0.217391304347826,0.0434782608695652,0.260869565217391
+"271","Newcastle","QPR",0.833333333333333,0.5,0
+"272","Newcastle","Sheffield Weds",0.714285714285714,0.428571428571429,0.142857142857143
+"273","Newcastle","Swindon",1,0,0
+"274","Newcastle","Crystal Palace",0.571428571428571,0.571428571428571,0.285714285714286
+"275","Newcastle","Leicester",0.636363636363636,0.272727272727273,0.0909090909090909
+"276","Newcastle","Nottingham Forest",1,0.25,0
+"277","Newcastle","Bolton",0.666666666666667,0.333333333333333,0.25
+"278","Newcastle","Middlesbrough",0.5,0.5,0.416666666666667
+"279","Newcastle","Derby",0.714285714285714,0.428571428571429,0.285714285714286
+"280","Newcastle","Sunderland",0.285714285714286,0.357142857142857,0.357142857142857
+"281","Newcastle","Barnsley",1,0,0
+"282","Newcastle","Charlton",0.375,0.125,0.5
+"283","Newcastle","Watford",0.5,0,0
+"284","Newcastle","Brentford",1,0,0
+"285","Newcastle","Fulham",0.5,0.25,0.25
+"286","Newcastle","Birmingham",0.833333333333333,0.333333333333333,0
+"287","Newcastle","Middlesboro",1,0,0
+"288","Newcastle","West Brom",0.636363636363636,0.363636363636364,0.181818181818182
+"289","Newcastle","Portsmouth",0.5,0.166666666666667,0.333333333333333
+"290","Newcastle","Wolves",0.333333333333333,0.333333333333333,0.666666666666667
+"291","Newcastle","Wigan",0.714285714285714,0.142857142857143,0.285714285714286
+"292","Newcastle","Reading",0.666666666666667,0,0
+"293","Newcastle","Hull",0,0.666666666666667,0.333333333333333
+"294","Newcastle","Spurs",0.5,0.25,0.375
+"295","Newcastle","Burnley",0,0,1
+"296","Newcastle","Blackpool",0,0,0
+"297","Newcastle","Swansea",0.166666666666667,0.333333333333333,0.333333333333333
+"298","Newcastle","Cardiff",1,1,0
+"299","Newcastle","Bournemouth",0,0.5,0
+"300","Newcastle","Brighton",0,0,1
+"301","Newcastle","Huddersfield",1,0,0
+"302","Oldham","Arsenal",0,0,1
+"303","Oldham","Aston Villa",0,1,1
+"304","Oldham","Chelsea",1,1,0
+"305","Oldham","Liverpool",0,0,0
+"306","Oldham","Man City",0,0,1
+"307","Oldham","Newcastle",0,0,0
+"308","Oldham","Oldham",NA,NA,NA
+"309","Oldham","Sheffield United",0,0,1
+"310","Oldham","Southampton",1,1,0
+"311","Oldham","West Ham",0,0,0
+"312","Oldham","Norwich",1,0,0
+"313","Oldham","Tottenham",0,0,0
+"314","Oldham","Everton",0,0,0
+"315","Oldham","Ipswich",0,0,0
+"316","Oldham","Leeds",0,0,1
+"317","Oldham","Wimbledon",0,0,1
+"318","Oldham","Blackburn",0,0,0
+"319","Oldham","Coventry",0,0,1
+"320","Oldham","Man United",0,0,0
+"321","Oldham","QPR",1,0,0
+"322","Oldham","Sheffield Weds",0,0,1
+"323","Oldham","Swindon",1,1,0
+"324","Oldham","Crystal Palace",NA,NA,NA
+"325","Oldham","Leicester",NA,NA,NA
+"326","Oldham","Nottingham Forest",NA,NA,NA
+"327","Oldham","Bolton",NA,NA,NA
+"328","Oldham","Middlesbrough",NA,NA,NA
+"329","Oldham","Derby",NA,NA,NA
+"330","Oldham","Sunderland",NA,NA,NA
+"331","Oldham","Barnsley",NA,NA,NA
+"332","Oldham","Charlton",NA,NA,NA
+"333","Oldham","Watford",NA,NA,NA
+"334","Oldham","Brentford",NA,NA,NA
+"335","Oldham","Fulham",NA,NA,NA
+"336","Oldham","Birmingham",NA,NA,NA
+"337","Oldham","Middlesboro",NA,NA,NA
+"338","Oldham","West Brom",NA,NA,NA
+"339","Oldham","Portsmouth",NA,NA,NA
+"340","Oldham","Wolves",NA,NA,NA
+"341","Oldham","Wigan",NA,NA,NA
+"342","Oldham","Reading",NA,NA,NA
+"343","Oldham","Hull",NA,NA,NA
+"344","Oldham","Spurs",NA,NA,NA
+"345","Oldham","Burnley",NA,NA,NA
+"346","Oldham","Blackpool",NA,NA,NA
+"347","Oldham","Swansea",NA,NA,NA
+"348","Oldham","Cardiff",NA,NA,NA
+"349","Oldham","Bournemouth",NA,NA,NA
+"350","Oldham","Brighton",NA,NA,NA
+"351","Oldham","Huddersfield",NA,NA,NA
+"352","Sheffield United","Arsenal",0.5,0,0.5
+"353","Sheffield United","Aston Villa",0,0,0.5
+"354","Sheffield United","Chelsea",0.5,0,0
+"355","Sheffield United","Liverpool",0,0.5,1
+"356","Sheffield United","Man City",0,0,0
+"357","Sheffield United","Newcastle",0.5,0.5,0
+"358","Sheffield United","Oldham",1,0,0
+"359","Sheffield United","Sheffield United",NA,NA,NA
+"360","Sheffield United","Southampton",0,0,1
+"361","Sheffield United","West Ham",1,0,0
+"362","Sheffield United","Norwich",0,1,0
+"363","Sheffield United","Tottenham",0.5,0,0.5
+"364","Sheffield United","Everton",0,0,1
+"365","Sheffield United","Ipswich",0,0,1
+"366","Sheffield United","Leeds",0,0,1
+"367","Sheffield United","Wimbledon",1,0,0
+"368","Sheffield United","Blackburn",0,0,0.5
+"369","Sheffield United","Coventry",0,0,1
+"370","Sheffield United","Man United",0,0,0
+"371","Sheffield United","QPR",0,0,1
+"372","Sheffield United","Sheffield Weds",0,0,1
+"373","Sheffield United","Swindon",1,0,0
+"374","Sheffield United","Crystal Palace",NA,NA,NA
+"375","Sheffield United","Leicester",NA,NA,NA
+"376","Sheffield United","Nottingham Forest",NA,NA,NA
+"377","Sheffield United","Bolton",0,0,1
+"378","Sheffield United","Middlesbrough",1,0,0
+"379","Sheffield United","Derby",NA,NA,NA
+"380","Sheffield United","Sunderland",NA,NA,NA
+"381","Sheffield United","Barnsley",NA,NA,NA
+"382","Sheffield United","Charlton",1,0,0
+"383","Sheffield United","Watford",1,1,0
+"384","Sheffield United","Brentford",NA,NA,NA
+"385","Sheffield United","Fulham",1,0,0
+"386","Sheffield United","Birmingham",NA,NA,NA
+"387","Sheffield United","Middlesboro",NA,NA,NA
+"388","Sheffield United","West Brom",NA,NA,NA
+"389","Sheffield United","Portsmouth",0,0,1
+"390","Sheffield United","Wolves",NA,NA,NA
+"391","Sheffield United","Wigan",0,1,0
+"392","Sheffield United","Reading",0,0,0
+"393","Sheffield United","Hull",NA,NA,NA
+"394","Sheffield United","Spurs",NA,NA,NA
+"395","Sheffield United","Burnley",NA,NA,NA
+"396","Sheffield United","Blackpool",NA,NA,NA
+"397","Sheffield United","Swansea",NA,NA,NA
+"398","Sheffield United","Cardiff",NA,NA,NA
+"399","Sheffield United","Bournemouth",NA,NA,NA
+"400","Sheffield United","Brighton",NA,NA,NA
+"401","Sheffield United","Huddersfield",NA,NA,NA
+"402","Southampton","Arsenal",0.277777777777778,0,0.333333333333333
+"403","Southampton","Aston Villa",0.375,0.3125,0.1875
+"404","Southampton","Chelsea",0.222222222222222,0.166666666666667,0.166666666666667
+"405","Southampton","Liverpool",0.333333333333333,0.166666666666667,0.222222222222222
+"406","Southampton","Man City",0.230769230769231,0.230769230769231,0.307692307692308
+"407","Southampton","Newcastle",0.705882352941177,0.176470588235294,0.235294117647059
+"408","Southampton","Oldham",0,0,0
+"409","Southampton","Sheffield United",0,0,1
+"410","Southampton","Southampton",NA,NA,NA
+"411","Southampton","West Ham",0.4375,0.25,0.375
+"412","Southampton","Norwich",0.5,0.166666666666667,0.333333333333333
+"413","Southampton","Tottenham",0.444444444444444,0.166666666666667,0.222222222222222
+"414","Southampton","Everton",0.555555555555556,0.0555555555555556,0.277777777777778
+"415","Southampton","Ipswich",0.25,0.25,0.25
+"416","Southampton","Leeds",0.363636363636364,0.0909090909090909,0.0909090909090909
+"417","Southampton","Wimbledon",0.428571428571429,0.428571428571429,0.285714285714286
+"418","Southampton","Blackburn",0.6,0.1,0.3
+"419","Southampton","Coventry",0.375,0.25,0.375
+"420","Southampton","Man United",0.277777777777778,0.111111111111111,0.166666666666667
+"421","Southampton","QPR",0.6,0.4,0
+"422","Southampton","Sheffield Weds",0.285714285714286,0.142857142857143,0.285714285714286
+"423","Southampton","Swindon",1,0,0
+"424","Southampton","Crystal Palace",0.75,0.375,0.125
+"425","Southampton","Leicester",0.416666666666667,0.0833333333333333,0.416666666666667
+"426","Southampton","Nottingham Forest",0,0.25,0.5
+"427","Southampton","Bolton",0.166666666666667,0.333333333333333,0.333333333333333
+"428","Southampton","Middlesbrough",0.333333333333333,0.555555555555556,0.444444444444444
+"429","Southampton","Derby",0.5,0,0.166666666666667
+"430","Southampton","Sunderland",0.4,0.4,0.3
+"431","Southampton","Barnsley",1,0,0
+"432","Southampton","Charlton",0.5,0,0.5
+"433","Southampton","Watford",0.5,0.25,0.25
+"434","Southampton","Brentford",1,1,0
+"435","Southampton","Fulham",0.333333333333333,0.166666666666667,0.666666666666667
+"436","Southampton","Birmingham",0.333333333333333,0,0.666666666666667
+"437","Southampton","Middlesboro",0,0,1
+"438","Southampton","West Brom",0.5,0.375,0.25
+"439","Southampton","Portsmouth",1,0,0
+"440","Southampton","Wolves",1,1,0
+"441","Southampton","Wigan",0,0,0
+"442","Southampton","Reading",1,1,0
+"443","Southampton","Hull",0.666666666666667,0.666666666666667,0.333333333333333
+"444","Southampton","Spurs",0.166666666666667,0.166666666666667,0.5
+"445","Southampton","Burnley",0.666666666666667,0,0
+"446","Southampton","Blackpool",NA,NA,NA
+"447","Southampton","Swansea",0.5,0.666666666666667,0.333333333333333
+"448","Southampton","Cardiff",0,1,0
+"449","Southampton","Bournemouth",0.666666666666667,0.333333333333333,0.333333333333333
+"450","Southampton","Brighton",0,0,1
+"451","Southampton","Huddersfield",0,0,1
+"452","West Ham","Arsenal",0.0909090909090909,0.227272727272727,0.363636363636364
+"453","West Ham","Aston Villa",0.3,0.15,0.5
+"454","West Ham","Chelsea",0.363636363636364,0.181818181818182,0.136363636363636
+"455","West Ham","Liverpool",0.363636363636364,0.0454545454545455,0.136363636363636
+"456","West Ham","Man City",0.411764705882353,0.117647058823529,0.235294117647059
+"457","West Ham","Newcastle",0.4,0.15,0.2
+"458","West Ham","Oldham",1,1,0
+"459","West Ham","Sheffield United",0.5,0,0.5
+"460","West Ham","Southampton",0.6875,0.1875,0.0625
+"461","West Ham","West Ham",NA,NA,NA
+"462","West Ham","Norwich",0.4,0,0.6
+"463","West Ham","Tottenham",0.454545454545455,0.181818181818182,0.136363636363636
+"464","West Ham","Everton",0.227272727272727,0.136363636363636,0.318181818181818
+"465","West Ham","Ipswich",0.5,0.25,0.25
+"466","West Ham","Leeds",0.1,0.1,0.3
+"467","West Ham","Wimbledon",0.428571428571429,0.428571428571429,0.142857142857143
+"468","West Ham","Blackburn",0.714285714285714,0.214285714285714,0.214285714285714
+"469","West Ham","Coventry",0.625,0.25,0.25
+"470","West Ham","Man United",0.136363636363636,0.0909090909090909,0.454545454545455
+"471","West Ham","QPR",0.4,0.2,0.4
+"472","West Ham","Sheffield Weds",0.571428571428571,0.285714285714286,0.142857142857143
+"473","West Ham","Swindon",0,0,1
+"474","West Ham","Crystal Palace",0.428571428571429,0.428571428571429,0.285714285714286
+"475","West Ham","Leicester",0.636363636363636,0.363636363636364,0.0909090909090909
+"476","West Ham","Nottingham Forest",0.75,0.25,0
+"477","West Ham","Bolton",0.4,0.1,0.2
+"478","West Ham","Middlesbrough",0.727272727272727,0.181818181818182,0.181818181818182
+"479","West Ham","Derby",0.571428571428571,0.428571428571429,0.428571428571429
+"480","West Ham","Sunderland",0.666666666666667,0.2,0.2
+"481","West Ham","Barnsley",1,1,0
+"482","West Ham","Charlton",0.5,0,0.166666666666667
+"483","West Ham","Watford",0.6,0.2,0
+"484","West Ham","Brentford",0.5,1,0.5
+"485","West Ham","Fulham",0.5,0.6,0.4
+"486","West Ham","Birmingham",0.4,0.4,0.2
+"487","West Ham","Middlesboro",1,0,0
+"488","West Ham","West Brom",0.3,0.4,0.6
+"489","West Ham","Portsmouth",0.2,0.2,0.2
+"490","West Ham","Wolves",0.5,0.5,0
+"491","West Ham","Wigan",0.571428571428571,0.428571428571429,0.142857142857143
+"492","West Ham","Reading",0.333333333333333,0.333333333333333,0.333333333333333
+"493","West Ham","Hull",1,0,0
+"494","West Ham","Spurs",0.222222222222222,0.333333333333333,0.555555555555556
+"495","West Ham","Burnley",0.75,0.5,0
+"496","West Ham","Blackpool",0,1,1
+"497","West Ham","Swansea",0.833333333333333,0.166666666666667,0
+"498","West Ham","Cardiff",1,1,0
+"499","West Ham","Bournemouth",0.333333333333333,0.333333333333333,0.333333333333333
+"500","West Ham","Brighton",0,0,0
+"501","West Ham","Huddersfield",1,1,0
+"502","Norwich","Arsenal",0.142857142857143,0,0.428571428571429
+"503","Norwich","Aston Villa",0.285714285714286,0,0.285714285714286
+"504","Norwich","Chelsea",0.142857142857143,0.142857142857143,0.285714285714286
+"505","Norwich","Liverpool",0,0.142857142857143,0.142857142857143
+"506","Norwich","Man City",0,0.142857142857143,0.571428571428571
+"507","Norwich","Newcastle",0.571428571428571,0,0.285714285714286
+"508","Norwich","Oldham",0,0,1
+"509","Norwich","Sheffield United",0,1,0
+"510","Norwich","Southampton",0.5,0.166666666666667,0.333333333333333
+"511","Norwich","West Ham",0.4,0,0.6
+"512","Norwich","Norwich",NA,NA,NA
+"513","Norwich","Tottenham",0.142857142857143,0.285714285714286,0.142857142857143
+"514","Norwich","Everton",0.285714285714286,0.142857142857143,0.571428571428571
+"515","Norwich","Ipswich",1,0.5,0
+"516","Norwich","Leeds",1,0.5,0
+"517","Norwich","Wimbledon",0,0,0
+"518","Norwich","Blackburn",0.25,0.25,0.75
+"519","Norwich","Coventry",0.5,0,0.5
+"520","Norwich","Man United",0.285714285714286,0.142857142857143,0
+"521","Norwich","QPR",0.5,0.25,0.25
+"522","Norwich","Sheffield Weds",0,0,1
+"523","Norwich","Swindon",0,0,1
+"524","Norwich","Crystal Palace",0.25,0.25,0.5
+"525","Norwich","Leicester",0.5,0,0
+"526","Norwich","Nottingham Forest",0,0,0
+"527","Norwich","Bolton",1,0.5,0
+"528","Norwich","Middlesbrough",0,0,1
+"529","Norwich","Derby",NA,NA,NA
+"530","Norwich","Sunderland",0.75,0.25,0
+"531","Norwich","Barnsley",NA,NA,NA
+"532","Norwich","Charlton",1,0,0
+"533","Norwich","Watford",1,0,0
+"534","Norwich","Brentford",NA,NA,NA
+"535","Norwich","Fulham",0,0,0.5
+"536","Norwich","Birmingham",1,0,0
+"537","Norwich","Middlesboro",NA,NA,NA
+"538","Norwich","West Brom",0.4,0.6,0
+"539","Norwich","Portsmouth",0,0,1
+"540","Norwich","Wolves",1,0,0
+"541","Norwich","Wigan",0.5,0,0.5
+"542","Norwich","Reading",1,0,0
+"543","Norwich","Hull",1,0,0
+"544","Norwich","Spurs",0.25,0.25,0.75
+"545","Norwich","Burnley",NA,NA,NA
+"546","Norwich","Blackpool",NA,NA,NA
+"547","Norwich","Swansea",0.5,0.5,0.5
+"548","Norwich","Cardiff",0,0,1
+"549","Norwich","Bournemouth",1,0,0
+"550","Norwich","Brighton",NA,NA,NA
+"551","Norwich","Huddersfield",NA,NA,NA
+"552","Tottenham","Arsenal",0.36,0.04,0.44
+"553","Tottenham","Aston Villa",0.521739130434783,0.304347826086957,0.260869565217391
+"554","Tottenham","Chelsea",0.2,0.04,0.4
+"555","Tottenham","Liverpool",0.44,0.08,0.28
+"556","Tottenham","Man City",0.6,0.45,0.15
+"557","Tottenham","Newcastle",0.565217391304348,0.260869565217391,0.0434782608695652
+"558","Tottenham","Oldham",1,1,0
+"559","Tottenham","Sheffield United",0.5,0,0.5
+"560","Tottenham","Southampton",0.722222222222222,0.333333333333333,0.111111111111111
+"561","Tottenham","West Ham",0.545454545454545,0.409090909090909,0.272727272727273
+"562","Tottenham","Norwich",0.428571428571429,0.714285714285714,0.285714285714286
+"563","Tottenham","Tottenham",NA,NA,NA
+"564","Tottenham","Everton",0.6,0.32,0.28
+"565","Tottenham","Ipswich",0.5,0.25,0.25
+"566","Tottenham","Leeds",0.454545454545455,0.181818181818182,0.272727272727273
+"567","Tottenham","Wimbledon",0.428571428571429,0.428571428571429,0.428571428571429
+"568","Tottenham","Blackburn",0.588235294117647,0.411764705882353,0.176470588235294
+"569","Tottenham","Coventry",0.375,0.5,0.25
+"570","Tottenham","Man United",0.24,0.08,0.28
+"571","Tottenham","QPR",0.666666666666667,0.333333333333333,0.166666666666667
+"572","Tottenham","Sheffield Weds",0.428571428571429,0.428571428571429,0.142857142857143
+"573","Tottenham","Swindon",0,0,1
+"574","Tottenham","Crystal Palace",0.5,0.625,0.375
+"575","Tottenham","Leicester",0.416666666666667,0.333333333333333,0.25
+"576","Tottenham","Nottingham Forest",0.25,0.25,0
+"577","Tottenham","Bolton",0.692307692307692,0.153846153846154,0.153846153846154
+"578","Tottenham","Middlesbrough",0.538461538461538,0.307692307692308,0.307692307692308
+"579","Tottenham","Derby",0.571428571428571,0.428571428571429,0.428571428571429
+"580","Tottenham","Sunderland",0.875,0.4375,0.0625
+"581","Tottenham","Barnsley",1,0,0
+"582","Tottenham","Charlton",0.25,0.625,0.375
+"583","Tottenham","Watford",1,0.4,0
+"584","Tottenham","Brentford",0.5,0,0.5
+"585","Tottenham","Fulham",0.615384615384615,0.384615384615385,0.230769230769231
+"586","Tottenham","Birmingham",0.857142857142857,0.142857142857143,0
+"587","Tottenham","Middlesboro",0,0,0
+"588","Tottenham","West Brom",0.416666666666667,0.333333333333333,0.5
+"589","Tottenham","Portsmouth",0.857142857142857,0.428571428571429,0.142857142857143
+"590","Tottenham","Wolves",0.5,0.5,0.25
+"591","Tottenham","Wigan",0.5,0.375,0.25
+"592","Tottenham","Reading",1,0.666666666666667,0
+"593","Tottenham","Hull",0.6,0.8,0.2
+"594","Tottenham","Spurs",0.5,0.7,0.3
+"595","Tottenham","Burnley",0.75,0.5,0.25
+"596","Tottenham","Blackpool",0,0,1
+"597","Tottenham","Swansea",0.857142857142857,0.714285714285714,0.142857142857143
+"598","Tottenham","Cardiff",1,1,0
+"599","Tottenham","Bournemouth",1,0.666666666666667,0
+"600","Tottenham","Brighton",1,0,0
+"601","Tottenham","Huddersfield",1,1,0
+"602","Everton","Arsenal",0.24,0.04,0.28
+"603","Everton","Aston Villa",0.347826086956522,0.173913043478261,0.391304347826087
+"604","Everton","Chelsea",0.32,0.04,0.32
+"605","Everton","Liverpool",0.24,0.08,0.36
+"606","Everton","Man City",0.55,0.3,0.25
+"607","Everton","Newcastle",0.565217391304348,0.304347826086957,0.217391304347826
+"608","Everton","Oldham",1,1,0
+"609","Everton","Sheffield United",1,0,0
+"610","Everton","Southampton",0.666666666666667,0.166666666666667,0.277777777777778
+"611","Everton","West Ham",0.636363636363636,0.454545454545455,0.227272727272727
+"612","Everton","Norwich",0.571428571428571,0.142857142857143,0.285714285714286
+"613","Everton","Tottenham",0.2,0.12,0.48
+"614","Everton","Everton",NA,NA,NA
+"615","Everton","Ipswich",0.25,0.5,0.25
+"616","Everton","Leeds",0.454545454545455,0.0909090909090909,0.545454545454545
+"617","Everton","Wimbledon",0.285714285714286,0.428571428571429,0.428571428571429
+"618","Everton","Blackburn",0.411764705882353,0.352941176470588,0.176470588235294
+"619","Everton","Coventry",0.125,0.125,0.625
+"620","Everton","Man United",0.24,0.04,0.16
+"621","Everton","QPR",0.5,0.333333333333333,0.166666666666667
+"622","Everton","Sheffield Weds",0.142857142857143,0.285714285714286,0.285714285714286
+"623","Everton","Swindon",1,0,0
+"624","Everton","Crystal Palace",0.375,0.5,0.25
+"625","Everton","Leicester",0.333333333333333,0.25,0.583333333333333
+"626","Everton","Nottingham Forest",0.5,0.5,0
+"627","Everton","Bolton",0.615384615384615,0.384615384615385,0.153846153846154
+"628","Everton","Middlesbrough",0.538461538461538,0.384615384615385,0.307692307692308
+"629","Everton","Derby",0.571428571428571,0.428571428571429,0.285714285714286
+"630","Everton","Sunderland",0.6875,0.375,0.125
+"631","Everton","Barnsley",1,0,0
+"632","Everton","Charlton",0.625,0.25,0
+"633","Everton","Watford",0.8,0.4,0.2
+"634","Everton","Brentford",1,0.5,0
+"635","Everton","Fulham",1,0.230769230769231,0
+"636","Everton","Birmingham",0.285714285714286,0.428571428571429,0.714285714285714
+"637","Everton","Middlesboro",1,0,0
+"638","Everton","West Brom",0.5,0.5,0.333333333333333
+"639","Everton","Portsmouth",0.714285714285714,0.571428571428571,0
+"640","Everton","Wolves",0.5,0.25,0.5
+"641","Everton","Wigan",0.625,0.375,0.25
+"642","Everton","Reading",0.666666666666667,0.333333333333333,0.333333333333333
+"643","Everton","Hull",0.8,0.2,0.2
+"644","Everton","Spurs",0.6,0.3,0.1
+"645","Everton","Burnley",0.75,0.25,0
+"646","Everton","Blackpool",1,0,0
+"647","Everton","Swansea",0.428571428571429,0.428571428571429,0.428571428571429
+"648","Everton","Cardiff",1,0,0
+"649","Everton","Bournemouth",1,0,0
+"650","Everton","Brighton",1,0,0
+"651","Everton","Huddersfield",1,1,0
+"652","Ipswich","Arsenal",0,0,0.25
+"653","Ipswich","Aston Villa",0,0.25,0.25
+"654","Ipswich","Chelsea",0.25,0,0.75
+"655","Ipswich","Liverpool",0,0.5,0.25
+"656","Ipswich","Man City",0.333333333333333,0.333333333333333,0.333333333333333
+"657","Ipswich","Newcastle",0.25,0,0.25
+"658","Ipswich","Oldham",0,1,1
+"659","Ipswich","Sheffield United",1,0,0
+"660","Ipswich","Southampton",0.75,0.5,0
+"661","Ipswich","West Ham",0,0.25,0.75
+"662","Ipswich","Norwich",0.5,0,0
+"663","Ipswich","Tottenham",0.5,0.25,0.25
+"664","Ipswich","Everton",0.25,0.5,0.25
+"665","Ipswich","Ipswich",NA,NA,NA
+"666","Ipswich","Leeds",0.25,0.25,0.25
+"667","Ipswich","Wimbledon",0,0.5,1
+"668","Ipswich","Blackburn",0.333333333333333,0,0.333333333333333
+"669","Ipswich","Coventry",0.666666666666667,0.333333333333333,0
+"670","Ipswich","Man United",0.25,0,0.25
+"671","Ipswich","QPR",0,0.5,0
+"672","Ipswich","Sheffield Weds",0,0,0
+"673","Ipswich","Swindon",0,0,1
+"674","Ipswich","Crystal Palace",0,0,0
+"675","Ipswich","Leicester",1,0,0
+"676","Ipswich","Nottingham Forest",0,0,0
+"677","Ipswich","Bolton",0,0,0
+"678","Ipswich","Middlesbrough",1,0.5,0
+"679","Ipswich","Derby",0.5,0.5,0
+"680","Ipswich","Sunderland",1,0,0
+"681","Ipswich","Barnsley",NA,NA,NA
+"682","Ipswich","Charlton",0.5,0,0
+"683","Ipswich","Watford",NA,NA,NA
+"684","Ipswich","Brentford",1,1,0
+"685","Ipswich","Fulham",1,0,0
+"686","Ipswich","Birmingham",NA,NA,NA
+"687","Ipswich","Middlesboro",NA,NA,NA
+"688","Ipswich","West Brom",NA,NA,NA
+"689","Ipswich","Portsmouth",NA,NA,NA
+"690","Ipswich","Wolves",NA,NA,NA
+"691","Ipswich","Wigan",NA,NA,NA
+"692","Ipswich","Reading",NA,NA,NA
+"693","Ipswich","Hull",NA,NA,NA
+"694","Ipswich","Spurs",NA,NA,NA
+"695","Ipswich","Burnley",NA,NA,NA
+"696","Ipswich","Blackpool",NA,NA,NA
+"697","Ipswich","Swansea",NA,NA,NA
+"698","Ipswich","Cardiff",NA,NA,NA
+"699","Ipswich","Bournemouth",NA,NA,NA
+"700","Ipswich","Brighton",NA,NA,NA
+"701","Ipswich","Huddersfield",NA,NA,NA
+"702","Leeds","Arsenal",0.363636363636364,0.272727272727273,0.272727272727273
+"703","Leeds","Aston Villa",0.363636363636364,0.272727272727273,0.454545454545455
+"704","Leeds","Chelsea",0.545454545454545,0.181818181818182,0.272727272727273
+"705","Leeds","Liverpool",0.272727272727273,0.272727272727273,0.181818181818182
+"706","Leeds","Man City",0.666666666666667,0.166666666666667,0
+"707","Leeds","Newcastle",0.181818181818182,0.272727272727273,0.272727272727273
+"708","Leeds","Oldham",1,0,0
+"709","Leeds","Sheffield United",1,0,0
+"710","Leeds","Southampton",0.454545454545455,0.545454545454545,0.454545454545455
+"711","Leeds","West Ham",0.8,0.6,0.1
+"712","Leeds","Norwich",0.5,0,0
+"713","Leeds","Tottenham",0.545454545454545,0.272727272727273,0.272727272727273
+"714","Leeds","Everton",0.545454545454545,0,0.363636363636364
+"715","Leeds","Ipswich",0.5,0.5,0.25
+"716","Leeds","Leeds",NA,NA,NA
+"717","Leeds","Wimbledon",0.571428571428571,0.142857142857143,0.428571428571429
+"718","Leeds","Blackburn",0.444444444444444,0.444444444444444,0.444444444444444
+"719","Leeds","Coventry",0.75,0.25,0.125
+"720","Leeds","Man United",0.363636363636364,0,0.181818181818182
+"721","Leeds","QPR",0.333333333333333,0.666666666666667,0.333333333333333
+"722","Leeds","Sheffield Weds",0.428571428571429,0.428571428571429,0.142857142857143
+"723","Leeds","Swindon",1,1,0
+"724","Leeds","Crystal Palace",0.5,1,0
+"725","Leeds","Leicester",0.625,0.375,0.125
+"726","Leeds","Nottingham Forest",0.75,0,0
+"727","Leeds","Bolton",0.2,0.8,0.2
+"728","Leeds","Middlesbrough",0.428571428571429,0.285714285714286,0.285714285714286
+"729","Leeds","Derby",0.5,0.5,0.5
+"730","Leeds","Sunderland",0.8,0.8,0
+"731","Leeds","Barnsley",1,1,0
+"732","Leeds","Charlton",0.4,0.8,0.4
+"733","Leeds","Watford",1,1,0
+"734","Leeds","Brentford",1,0.5,0
+"735","Leeds","Fulham",0.666666666666667,0,0
+"736","Leeds","Birmingham",0.5,0,0
+"737","Leeds","Middlesboro",0,0,0
+"738","Leeds","West Brom",0,1,1
+"739","Leeds","Portsmouth",0,0,0
+"740","Leeds","Wolves",1,0,0
+"741","Leeds","Wigan",NA,NA,NA
+"742","Leeds","Reading",NA,NA,NA
+"743","Leeds","Hull",NA,NA,NA
+"744","Leeds","Spurs",NA,NA,NA
+"745","Leeds","Burnley",NA,NA,NA
+"746","Leeds","Blackpool",NA,NA,NA
+"747","Leeds","Swansea",NA,NA,NA
+"748","Leeds","Cardiff",NA,NA,NA
+"749","Leeds","Bournemouth",NA,NA,NA
+"750","Leeds","Brighton",NA,NA,NA
+"751","Leeds","Huddersfield",NA,NA,NA
+"752","Wimbledon","Arsenal",0.142857142857143,0.285714285714286,0.142857142857143
+"753","Wimbledon","Aston Villa",0.285714285714286,0.285714285714286,0.571428571428571
+"754","Wimbledon","Chelsea",0,0.285714285714286,0.428571428571429
+"755","Wimbledon","Liverpool",0.428571428571429,0,0.428571428571429
+"756","Wimbledon","Man City",1,0.333333333333333,0
+"757","Wimbledon","Newcastle",0.428571428571429,0.142857142857143,0.571428571428571
+"758","Wimbledon","Oldham",1,0,0
+"759","Wimbledon","Sheffield United",1,0,0
+"760","Wimbledon","Southampton",0.428571428571429,0.285714285714286,0.142857142857143
+"761","Wimbledon","West Ham",0.142857142857143,0.428571428571429,0.428571428571429
+"762","Wimbledon","Norwich",1,1,0
+"763","Wimbledon","Tottenham",0.428571428571429,0.142857142857143,0.142857142857143
+"764","Wimbledon","Everton",0.285714285714286,0.285714285714286,0.285714285714286
+"765","Wimbledon","Ipswich",0,0,0.5
+"766","Wimbledon","Leeds",0.571428571428571,0,0.285714285714286
+"767","Wimbledon","Wimbledon",NA,NA,NA
+"768","Wimbledon","Blackburn",0.333333333333333,0,0.333333333333333
+"769","Wimbledon","Coventry",0.285714285714286,0.142857142857143,0.285714285714286
+"770","Wimbledon","Man United",0.142857142857143,0,0.285714285714286
+"771","Wimbledon","QPR",0.333333333333333,0.666666666666667,0.333333333333333
+"772","Wimbledon","Sheffield Weds",0.428571428571429,0.285714285714286,0.285714285714286
+"773","Wimbledon","Swindon",1,1,0
+"774","Wimbledon","Crystal Palace",0.5,0.5,0
+"775","Wimbledon","Leicester",0.6,0.4,0
+"776","Wimbledon","Nottingham Forest",0.5,0.25,0.25
+"777","Wimbledon","Bolton",0.5,0,0.5
+"778","Wimbledon","Middlesbrough",0,0.25,0.75
+"779","Wimbledon","Derby",0.25,0.25,0.75
+"780","Wimbledon","Sunderland",1,0.5,0
+"781","Wimbledon","Barnsley",1,0,0
+"782","Wimbledon","Charlton",1,0,0
+"783","Wimbledon","Watford",1,1,0
+"784","Wimbledon","Brentford",1,0,0
+"785","Wimbledon","Fulham",NA,NA,NA
+"786","Wimbledon","Birmingham",NA,NA,NA
+"787","Wimbledon","Middlesboro",NA,NA,NA
+"788","Wimbledon","West Brom",NA,NA,NA
+"789","Wimbledon","Portsmouth",NA,NA,NA
+"790","Wimbledon","Wolves",NA,NA,NA
+"791","Wimbledon","Wigan",NA,NA,NA
+"792","Wimbledon","Reading",NA,NA,NA
+"793","Wimbledon","Hull",NA,NA,NA
+"794","Wimbledon","Spurs",NA,NA,NA
+"795","Wimbledon","Burnley",NA,NA,NA
+"796","Wimbledon","Blackpool",NA,NA,NA
+"797","Wimbledon","Swansea",NA,NA,NA
+"798","Wimbledon","Cardiff",NA,NA,NA
+"799","Wimbledon","Bournemouth",NA,NA,NA
+"800","Wimbledon","Brighton",NA,NA,NA
+"801","Wimbledon","Huddersfield",NA,NA,NA
+"802","Blackburn","Arsenal",0.294117647058824,0.117647058823529,0.176470588235294
+"803","Blackburn","Aston Villa",0.470588235294118,0.352941176470588,0.235294117647059
+"804","Blackburn","Chelsea",0.294117647058824,0.294117647058824,0.176470588235294
+"805","Blackburn","Liverpool",0.294117647058824,0.0588235294117647,0.352941176470588
+"806","Blackburn","Man City",0.461538461538462,0.230769230769231,0.153846153846154
+"807","Blackburn","Newcastle",0.5,0.375,0.3125
+"808","Blackburn","Oldham",1,1,0
+"809","Blackburn","Sheffield United",0.5,0.5,0.5
+"810","Blackburn","Southampton",0.8,0.1,0.1
+"811","Blackburn","West Ham",0.5,0.0714285714285714,0.285714285714286
+"812","Blackburn","Norwich",0.5,0,0.25
+"813","Blackburn","Tottenham",0.352941176470588,0.235294117647059,0.235294117647059
+"814","Blackburn","Everton",0.352941176470588,0.411764705882353,0.294117647058824
+"815","Blackburn","Ipswich",0.666666666666667,0.333333333333333,0.333333333333333
+"816","Blackburn","Leeds",0.444444444444444,0.111111111111111,0.111111111111111
+"817","Blackburn","Wimbledon",0.833333333333333,0.333333333333333,0.166666666666667
+"818","Blackburn","Blackburn",NA,NA,NA
+"819","Blackburn","Coventry",0.666666666666667,0,0.166666666666667
+"820","Blackburn","Man United",0.235294117647059,0.117647058823529,0.352941176470588
+"821","Blackburn","QPR",0.75,0.5,0.25
+"822","Blackburn","Sheffield Weds",0.666666666666667,0.333333333333333,0.166666666666667
+"823","Blackburn","Swindon",1,1,0
+"824","Blackburn","Crystal Palace",0.666666666666667,0.666666666666667,0.333333333333333
+"825","Blackburn","Leicester",0.666666666666667,0,0.166666666666667
+"826","Blackburn","Nottingham Forest",0.5,0.5,0.25
+"827","Blackburn","Bolton",0.384615384615385,0.307692307692308,0.307692307692308
+"828","Blackburn","Middlesbrough",0.3,0.5,0.5
+"829","Blackburn","Derby",0.4,0.2,0.2
+"830","Blackburn","Sunderland",0.444444444444444,0.222222222222222,0.333333333333333
+"831","Blackburn","Barnsley",1,0,0
+"832","Blackburn","Charlton",0.857142857142857,0.285714285714286,0
+"833","Blackburn","Watford",1,0,0
+"834","Blackburn","Brentford",NA,NA,NA
+"835","Blackburn","Fulham",0.636363636363636,0.363636363636364,0.181818181818182
+"836","Blackburn","Birmingham",0.428571428571429,0.285714285714286,0.571428571428571
+"837","Blackburn","Middlesboro",1,0,0
+"838","Blackburn","West Brom",0.333333333333333,0.333333333333333,0.5
+"839","Blackburn","Portsmouth",0.714285714285714,0.428571428571429,0
+"840","Blackburn","Wolves",0.75,0.5,0
+"841","Blackburn","Wigan",0.714285714285714,0.285714285714286,0.142857142857143
+"842","Blackburn","Reading",0.5,0.5,0.5
+"843","Blackburn","Hull",0.5,0.5,0.5
+"844","Blackburn","Spurs",0.25,0,0.25
+"845","Blackburn","Burnley",1,1,0
+"846","Blackburn","Blackpool",0,1,1
+"847","Blackburn","Swansea",1,0,0
+"848","Blackburn","Cardiff",NA,NA,NA
+"849","Blackburn","Bournemouth",NA,NA,NA
+"850","Blackburn","Brighton",NA,NA,NA
+"851","Blackburn","Huddersfield",NA,NA,NA
+"852","Coventry","Arsenal",0.25,0.125,0.375
+"853","Coventry","Aston Villa",0.125,0.125,0.125
+"854","Coventry","Chelsea",0.5,0.125,0.5
+"855","Coventry","Liverpool",0.375,0.25,0.25
+"856","Coventry","Man City",0.75,0.25,0.25
+"857","Coventry","Newcastle",0.375,0,0.25
+"858","Coventry","Oldham",0,0,1
+"859","Coventry","Sheffield United",0,0,1
+"860","Coventry","Southampton",0.25,0.25,0.5
+"861","Coventry","West Ham",0.25,0.125,0.5
+"862","Coventry","Norwich",1,0,0
+"863","Coventry","Tottenham",0.375,0.375,0.125
+"864","Coventry","Everton",0.5,0.25,0.375
+"865","Coventry","Ipswich",0.666666666666667,0.333333333333333,0
+"866","Coventry","Leeds",0.25,0.125,0.5
+"867","Coventry","Wimbledon",0.285714285714286,0.428571428571429,0.571428571428571
+"868","Coventry","Blackburn",0.5,0.166666666666667,0.5
+"869","Coventry","Coventry",NA,NA,NA
+"870","Coventry","Man United",0.125,0,0
+"871","Coventry","QPR",0.333333333333333,0,0
+"872","Coventry","Sheffield Weds",0.571428571428571,0.142857142857143,0.285714285714286
+"873","Coventry","Swindon",0,0,1
+"874","Coventry","Crystal Palace",0,1,0.5
+"875","Coventry","Leicester",0.333333333333333,0.333333333333333,0.333333333333333
+"876","Coventry","Nottingham Forest",0.25,0.25,0.5
+"877","Coventry","Bolton",0,1,0.5
+"878","Coventry","Middlesbrough",0.4,0,0.2
+"879","Coventry","Derby",0.6,0,0.2
+"880","Coventry","Sunderland",0.666666666666667,0,0.333333333333333
+"881","Coventry","Barnsley",1,0,0
+"882","Coventry","Charlton",0.5,0,0.5
+"883","Coventry","Watford",1,0,0
+"884","Coventry","Brentford",0.5,0,0.5
+"885","Coventry","Fulham",NA,NA,NA
+"886","Coventry","Birmingham",NA,NA,NA
+"887","Coventry","Middlesboro",NA,NA,NA
+"888","Coventry","West Brom",NA,NA,NA
+"889","Coventry","Portsmouth",NA,NA,NA
+"890","Coventry","Wolves",NA,NA,NA
+"891","Coventry","Wigan",NA,NA,NA
+"892","Coventry","Reading",NA,NA,NA
+"893","Coventry","Hull",NA,NA,NA
+"894","Coventry","Spurs",NA,NA,NA
+"895","Coventry","Burnley",NA,NA,NA
+"896","Coventry","Blackpool",NA,NA,NA
+"897","Coventry","Swansea",NA,NA,NA
+"898","Coventry","Cardiff",NA,NA,NA
+"899","Coventry","Bournemouth",NA,NA,NA
+"900","Coventry","Brighton",NA,NA,NA
+"901","Coventry","Huddersfield",NA,NA,NA
+"902","Man United","Arsenal",0.64,0.28,0.24
+"903","Man United","Aston Villa",0.826086956521739,0.652173913043478,0.130434782608696
+"904","Man United","Chelsea",0.36,0.2,0.4
+"905","Man United","Liverpool",0.64,0.44,0.16
+"906","Man United","Man City",0.45,0.55,0.25
+"907","Man United","Newcastle",0.608695652173913,0.521739130434783,0.347826086956522
+"908","Man United","Oldham",1,1,0
+"909","Man United","Sheffield United",1,1,0
+"910","Man United","Southampton",0.722222222222222,0.555555555555556,0.166666666666667
+"911","Man United","West Ham",0.818181818181818,0.409090909090909,0.0909090909090909
+"912","Man United","Norwich",0.714285714285714,0.714285714285714,0.142857142857143
+"913","Man United","Tottenham",0.8,0.48,0.12
+"914","Man United","Everton",0.76,0.6,0.2
+"915","Man United","Ipswich",0.75,0.5,0.25
+"916","Man United","Leeds",0.636363636363636,0.454545454545455,0.363636363636364
+"917","Man United","Wimbledon",0.857142857142857,0.571428571428571,0.142857142857143
+"918","Man United","Blackburn",0.705882352941177,0.411764705882353,0.176470588235294
+"919","Man United","Coventry",0.875,0.875,0.125
+"920","Man United","Man United",NA,NA,NA
+"921","Man United","QPR",1,0.833333333333333,0
+"922","Man United","Sheffield Weds",0.857142857142857,0.285714285714286,0.142857142857143
+"923","Man United","Swindon",1,0,0
+"924","Man United","Crystal Palace",1,0.625,0
+"925","Man United","Leicester",0.666666666666667,0.583333333333333,0.25
+"926","Man United","Nottingham Forest",0.75,0.5,0
+"927","Man United","Bolton",0.769230769230769,0.615384615384615,0.0769230769230769
+"928","Man United","Middlesbrough",0.461538461538462,0.769230769230769,0.307692307692308
+"929","Man United","Derby",0.714285714285714,0.428571428571429,0
+"930","Man United","Sunderland",0.8125,0.625,0.125
+"931","Man United","Barnsley",1,1,0
+"932","Man United","Charlton",0.875,0.875,0.125
+"933","Man United","Watford",1,0.8,0
+"934","Man United","Brentford",1,1,0
+"935","Man United","Fulham",0.846153846153846,0.538461538461538,0.0769230769230769
+"936","Man United","Birmingham",1,0.428571428571429,0
+"937","Man United","Middlesboro",1,0,0
+"938","Man United","West Brom",0.5,0.75,0.25
+"939","Man United","Portsmouth",1,0.428571428571429,0
+"940","Man United","Wolves",1,0.5,0
+"941","Man United","Wigan",1,0.875,0
+"942","Man United","Reading",0.666666666666667,0.666666666666667,0.333333333333333
+"943","Man United","Hull",0.8,0.8,0.2
+"944","Man United","Spurs",0.9,0.4,0.1
+"945","Man United","Burnley",0.5,0.5,0.5
+"946","Man United","Blackpool",1,1,0
+"947","Man United","Swansea",0.714285714285714,0.571428571428571,0.142857142857143
+"948","Man United","Cardiff",1,0,0
+"949","Man United","Bournemouth",0.666666666666667,0.666666666666667,0.333333333333333
+"950","Man United","Brighton",1,0,0
+"951","Man United","Huddersfield",1,0,0
+"952","QPR","Arsenal",0.333333333333333,0.166666666666667,0.333333333333333
+"953","QPR","Aston Villa",0.5,0,0.5
+"954","QPR","Chelsea",0.333333333333333,0.166666666666667,0.333333333333333
+"955","QPR","Liverpool",0.333333333333333,0,0
+"956","QPR","Man City",0.166666666666667,0.166666666666667,0.5
+"957","QPR","Newcastle",0.333333333333333,0.166666666666667,0.166666666666667
+"958","QPR","Oldham",1,0,0
+"959","QPR","Sheffield United",1,0,0
+"960","QPR","Southampton",0.4,0.4,0.2
+"961","QPR","West Ham",0.4,0.2,0.4
+"962","QPR","Norwich",0.25,0.25,0.5
+"963","QPR","Tottenham",0.333333333333333,0.166666666666667,0.333333333333333
+"964","QPR","Everton",0.333333333333333,0.333333333333333,0.333333333333333
+"965","QPR","Ipswich",0.5,1,0
+"966","QPR","Leeds",0.333333333333333,0.333333333333333,0
+"967","QPR","Wimbledon",0.333333333333333,0.333333333333333,0
+"968","QPR","Blackburn",0.25,0,0.25
+"969","QPR","Coventry",0.333333333333333,0.666666666666667,0.666666666666667
+"970","QPR","Man United",0,0,0.166666666666667
+"971","QPR","QPR",NA,NA,NA
+"972","QPR","Sheffield Weds",0.333333333333333,0.666666666666667,0
+"973","QPR","Swindon",0,0,0
+"974","QPR","Crystal Palace",0,0,0.5
+"975","QPR","Leicester",1,0,0
+"976","QPR","Nottingham Forest",0,0,1
+"977","QPR","Bolton",0.5,0.5,0
+"978","QPR","Middlesbrough",0,0,1
+"979","QPR","Derby",NA,NA,NA
+"980","QPR","Sunderland",0.666666666666667,0.333333333333333,0
+"981","QPR","Barnsley",NA,NA,NA
+"982","QPR","Charlton",NA,NA,NA
+"983","QPR","Watford",NA,NA,NA
+"984","QPR","Brentford",NA,NA,NA
+"985","QPR","Fulham",0.5,0,0
+"986","QPR","Birmingham",NA,NA,NA
+"987","QPR","Middlesboro",NA,NA,NA
+"988","QPR","West Brom",0.333333333333333,0.333333333333333,0.333333333333333
+"989","QPR","Portsmouth",NA,NA,NA
+"990","QPR","Wolves",0,1,0
+"991","QPR","Wigan",0.5,0,0.5
+"992","QPR","Reading",0,0,1
+"993","QPR","Hull",0,0,0
+"994","QPR","Spurs",0.333333333333333,0.333333333333333,0.333333333333333
+"995","QPR","Burnley",1,0,0
+"996","QPR","Blackpool",NA,NA,NA
+"997","QPR","Swansea",0.333333333333333,0,0.333333333333333
+"998","QPR","Cardiff",NA,NA,NA
+"999","QPR","Bournemouth",NA,NA,NA
+"1000","QPR","Brighton",NA,NA,NA
+"1001","QPR","Huddersfield",NA,NA,NA
+"1002","Sheffield Weds","Arsenal",0.571428571428571,0,0.285714285714286
+"1003","Sheffield Weds","Aston Villa",0.285714285714286,0.142857142857143,0.142857142857143
+"1004","Sheffield Weds","Chelsea",0.285714285714286,0,0.428571428571429
+"1005","Sheffield Weds","Liverpool",0.285714285714286,0.142857142857143,0.428571428571429
+"1006","Sheffield Weds","Man City",0,0.333333333333333,1
+"1007","Sheffield Weds","Newcastle",0.142857142857143,0.142857142857143,0.428571428571429
+"1008","Sheffield Weds","Oldham",1,0,0
+"1009","Sheffield Weds","Sheffield United",1,0,0
+"1010","Sheffield Weds","Southampton",0.285714285714286,0.428571428571429,0.571428571428571
+"1011","Sheffield Weds","West Ham",0.428571428571429,0.285714285714286,0.285714285714286
+"1012","Sheffield Weds","Norwich",0,0,1
+"1013","Sheffield Weds","Tottenham",0.428571428571429,0.428571428571429,0.142857142857143
+"1014","Sheffield Weds","Everton",0.428571428571429,0.571428571428571,0.285714285714286
+"1015","Sheffield Weds","Ipswich",1,1,0
+"1016","Sheffield Weds","Leeds",0.142857142857143,0.428571428571429,0.428571428571429
+"1017","Sheffield Weds","Wimbledon",0.428571428571429,0.285714285714286,0.285714285714286
+"1018","Sheffield Weds","Blackburn",0.333333333333333,0.166666666666667,0.333333333333333
+"1019","Sheffield Weds","Coventry",0.285714285714286,0.142857142857143,0.571428571428571
+"1020","Sheffield Weds","Man United",0.428571428571429,0,0.285714285714286
+"1021","Sheffield Weds","QPR",0.333333333333333,0.666666666666667,0
+"1022","Sheffield Weds","Sheffield Weds",NA,NA,NA
+"1023","Sheffield Weds","Swindon",0,1,1
+"1024","Sheffield Weds","Crystal Palace",0.5,0,0
+"1025","Sheffield Weds","Leicester",0.8,0.4,0
+"1026","Sheffield Weds","Nottingham Forest",0.5,0.25,0
+"1027","Sheffield Weds","Bolton",1,0,0
+"1028","Sheffield Weds","Middlesbrough",0.75,0,0
+"1029","Sheffield Weds","Derby",0,0,0.25
+"1030","Sheffield Weds","Sunderland",0.5,0,0
+"1031","Sheffield Weds","Barnsley",1,0,0
+"1032","Sheffield Weds","Charlton",1,1,0
+"1033","Sheffield Weds","Watford",0,0,1
+"1034","Sheffield Weds","Brentford",1,0,0
+"1035","Sheffield Weds","Fulham",NA,NA,NA
+"1036","Sheffield Weds","Birmingham",NA,NA,NA
+"1037","Sheffield Weds","Middlesboro",NA,NA,NA
+"1038","Sheffield Weds","West Brom",NA,NA,NA
+"1039","Sheffield Weds","Portsmouth",NA,NA,NA
+"1040","Sheffield Weds","Wolves",NA,NA,NA
+"1041","Sheffield Weds","Wigan",NA,NA,NA
+"1042","Sheffield Weds","Reading",NA,NA,NA
+"1043","Sheffield Weds","Hull",NA,NA,NA
+"1044","Sheffield Weds","Spurs",NA,NA,NA
+"1045","Sheffield Weds","Burnley",NA,NA,NA
+"1046","Sheffield Weds","Blackpool",NA,NA,NA
+"1047","Sheffield Weds","Swansea",NA,NA,NA
+"1048","Sheffield Weds","Cardiff",NA,NA,NA
+"1049","Sheffield Weds","Bournemouth",NA,NA,NA
+"1050","Sheffield Weds","Brighton",NA,NA,NA
+"1051","Sheffield Weds","Huddersfield",NA,NA,NA
+"1052","Swindon","Arsenal",0,0,0
+"1053","Swindon","Aston Villa",0,0,0
+"1054","Swindon","Chelsea",0,0,0
+"1055","Swindon","Liverpool",0,0,0
+"1056","Swindon","Man City",0,0,0
+"1057","Swindon","Newcastle",0,0,1
+"1058","Swindon","Oldham",0,0,0
+"1059","Swindon","Sheffield United",0,0,1
+"1060","Swindon","Southampton",1,0,0
+"1061","Swindon","West Ham",0,0,1
+"1062","Swindon","Norwich",0,0,1
+"1063","Swindon","Tottenham",1,0,0
+"1064","Swindon","Everton",0,0,1
+"1065","Swindon","Ipswich",0,0,1
+"1066","Swindon","Leeds",0,0,0
+"1067","Swindon","Wimbledon",0,0,0
+"1068","Swindon","Blackburn",0,0,0
+"1069","Swindon","Coventry",1,0,0
+"1070","Swindon","Man United",0,0,1
+"1071","Swindon","QPR",1,1,0
+"1072","Swindon","Sheffield Weds",0,0,0
+"1073","Swindon","Swindon",NA,NA,NA
+"1074","Swindon","Crystal Palace",NA,NA,NA
+"1075","Swindon","Leicester",NA,NA,NA
+"1076","Swindon","Nottingham Forest",NA,NA,NA
+"1077","Swindon","Bolton",NA,NA,NA
+"1078","Swindon","Middlesbrough",NA,NA,NA
+"1079","Swindon","Derby",NA,NA,NA
+"1080","Swindon","Sunderland",NA,NA,NA
+"1081","Swindon","Barnsley",NA,NA,NA
+"1082","Swindon","Charlton",NA,NA,NA
+"1083","Swindon","Watford",NA,NA,NA
+"1084","Swindon","Brentford",NA,NA,NA
+"1085","Swindon","Fulham",NA,NA,NA
+"1086","Swindon","Birmingham",NA,NA,NA
+"1087","Swindon","Middlesboro",NA,NA,NA
+"1088","Swindon","West Brom",NA,NA,NA
+"1089","Swindon","Portsmouth",NA,NA,NA
+"1090","Swindon","Wolves",NA,NA,NA
+"1091","Swindon","Wigan",NA,NA,NA
+"1092","Swindon","Reading",NA,NA,NA
+"1093","Swindon","Hull",NA,NA,NA
+"1094","Swindon","Spurs",NA,NA,NA
+"1095","Swindon","Burnley",NA,NA,NA
+"1096","Swindon","Blackpool",NA,NA,NA
+"1097","Swindon","Swansea",NA,NA,NA
+"1098","Swindon","Cardiff",NA,NA,NA
+"1099","Swindon","Bournemouth",NA,NA,NA
+"1100","Swindon","Brighton",NA,NA,NA
+"1101","Swindon","Huddersfield",NA,NA,NA
+"1102","Crystal Palace","Arsenal",0.125,0.125,0.25
+"1103","Crystal Palace","Aston Villa",0.5,0.166666666666667,0.333333333333333
+"1104","Crystal Palace","Chelsea",0.25,0.25,0
+"1105","Crystal Palace","Liverpool",0.25,0.375,0.125
+"1106","Crystal Palace","Man City",0.285714285714286,0,0.142857142857143
+"1107","Crystal Palace","Newcastle",0.142857142857143,0.142857142857143,0.285714285714286
+"1108","Crystal Palace","Oldham",NA,NA,NA
+"1109","Crystal Palace","Sheffield United",NA,NA,NA
+"1110","Crystal Palace","Southampton",0.25,0.125,0.375
+"1111","Crystal Palace","West Ham",0.285714285714286,0.285714285714286,0.285714285714286
+"1112","Crystal Palace","Norwich",0.25,0.25,0.5
+"1113","Crystal Palace","Tottenham",0.25,0.125,0.125
+"1114","Crystal Palace","Everton",0.125,0.375,0.375
+"1115","Crystal Palace","Ipswich",1,1,0
+"1116","Crystal Palace","Leeds",0,0.5,0
+"1117","Crystal Palace","Wimbledon",0,0.5,0.5
+"1118","Crystal Palace","Blackburn",0,0,0.333333333333333
+"1119","Crystal Palace","Coventry",0,0.5,0
+"1120","Crystal Palace","Man United",0,0,0.375
+"1121","Crystal Palace","QPR",0.5,0.5,0.5
+"1122","Crystal Palace","Sheffield Weds",1,0.5,0
+"1123","Crystal Palace","Swindon",NA,NA,NA
+"1124","Crystal Palace","Crystal Palace",NA,NA,NA
+"1125","Crystal Palace","Leicester",0.5,0.5,0.166666666666667
+"1126","Crystal Palace","Nottingham Forest",0,0,0
+"1127","Crystal Palace","Bolton",0,0,0.5
+"1128","Crystal Palace","Middlesbrough",0.5,0.5,0
+"1129","Crystal Palace","Derby",1,0,0
+"1130","Crystal Palace","Sunderland",0.25,0.5,0
+"1131","Crystal Palace","Barnsley",0,0,0
+"1132","Crystal Palace","Charlton",0,0,0
+"1133","Crystal Palace","Watford",0.666666666666667,0.333333333333333,0
+"1134","Crystal Palace","Brentford",NA,NA,NA
+"1135","Crystal Palace","Fulham",0.5,0,0
+"1136","Crystal Palace","Birmingham",1,1,0
+"1137","Crystal Palace","Middlesboro",NA,NA,NA
+"1138","Crystal Palace","West Brom",0.666666666666667,0.166666666666667,0
+"1139","Crystal Palace","Portsmouth",0,0,0
+"1140","Crystal Palace","Wolves",NA,NA,NA
+"1141","Crystal Palace","Wigan",NA,NA,NA
+"1142","Crystal Palace","Reading",NA,NA,NA
+"1143","Crystal Palace","Hull",0.666666666666667,0.333333333333333,0
+"1144","Crystal Palace","Spurs",0.8,0.6,0.2
+"1145","Crystal Palace","Burnley",0.333333333333333,0.333333333333333,0.333333333333333
+"1146","Crystal Palace","Blackpool",NA,NA,NA
+"1147","Crystal Palace","Swansea",0.2,0,0.2
+"1148","Crystal Palace","Cardiff",1,1,0
+"1149","Crystal Palace","Bournemouth",0,0.333333333333333,0.666666666666667
+"1150","Crystal Palace","Brighton",1,0,0
+"1151","Crystal Palace","Huddersfield",0,1,0
+"1152","Leicester","Arsenal",0.166666666666667,0,0.5
+"1153","Leicester","Aston Villa",0.5,0.2,0.4
+"1154","Leicester","Chelsea",0.25,0.0833333333333333,0.166666666666667
+"1155","Leicester","Liverpool",0.333333333333333,0.25,0.25
+"1156","Leicester","Man City",0.142857142857143,0.571428571428571,0.285714285714286
+"1157","Leicester","Newcastle",0.363636363636364,0.272727272727273,0.363636363636364
+"1158","Leicester","Oldham",NA,NA,NA
+"1159","Leicester","Sheffield United",NA,NA,NA
+"1160","Leicester","Southampton",0.583333333333333,0.166666666666667,0.333333333333333
+"1161","Leicester","West Ham",0.363636363636364,0.272727272727273,0.272727272727273
+"1162","Leicester","Norwich",1,0.5,0
+"1163","Leicester","Tottenham",0.5,0.333333333333333,0.166666666666667
+"1164","Leicester","Everton",0.25,0.0833333333333333,0.5
+"1165","Leicester","Ipswich",0.666666666666667,0,0.333333333333333
+"1166","Leicester","Leeds",0.625,0.25,0
+"1167","Leicester","Wimbledon",0.4,0.4,0.2
+"1168","Leicester","Blackburn",0.333333333333333,0.166666666666667,0.666666666666667
+"1169","Leicester","Coventry",0.333333333333333,0.333333333333333,0.333333333333333
+"1170","Leicester","Man United",0.0833333333333333,0.0833333333333333,0.333333333333333
+"1171","Leicester","QPR",0.5,0,0.5
+"1172","Leicester","Sheffield Weds",0.4,0.2,0.2
+"1173","Leicester","Swindon",NA,NA,NA
+"1174","Leicester","Crystal Palace",0.333333333333333,0.333333333333333,0.166666666666667
+"1175","Leicester","Leicester",NA,NA,NA
+"1176","Leicester","Nottingham Forest",0.333333333333333,0,0.333333333333333
+"1177","Leicester","Bolton",0,0,0.666666666666667
+"1178","Leicester","Middlesbrough",0.142857142857143,0.428571428571429,0.285714285714286
+"1179","Leicester","Derby",0.333333333333333,0.333333333333333,0
+"1180","Leicester","Sunderland",0.714285714285714,0.142857142857143,0.285714285714286
+"1181","Leicester","Barnsley",1,1,0
+"1182","Leicester","Charlton",0.25,0,0.75
+"1183","Leicester","Watford",1,0.25,0
+"1184","Leicester","Brentford",0.5,0,0
+"1185","Leicester","Fulham",0,0,0.5
+"1186","Leicester","Birmingham",0,1,0
+"1187","Leicester","Middlesboro",NA,NA,NA
+"1188","Leicester","West Brom",0,1,0.5
+"1189","Leicester","Portsmouth",1,1,0
+"1190","Leicester","Wolves",0,0,1
+"1191","Leicester","Wigan",NA,NA,NA
+"1192","Leicester","Reading",NA,NA,NA
+"1193","Leicester","Hull",0.5,0.5,0.5
+"1194","Leicester","Spurs",0.5,0.25,0.25
+"1195","Leicester","Burnley",0.666666666666667,0.333333333333333,0.333333333333333
+"1196","Leicester","Blackpool",NA,NA,NA
+"1197","Leicester","Swansea",0.75,0.5,0.25
+"1198","Leicester","Cardiff",NA,NA,NA
+"1199","Leicester","Bournemouth",0,0,1
+"1200","Leicester","Brighton",1,1,0
+"1201","Leicester","Huddersfield",1,0,0
+"1202","Nottingham Forest","Arsenal",0.25,0,0.25
+"1203","Nottingham Forest","Aston Villa",0,0.25,0.75
+"1204","Nottingham Forest","Chelsea",0.25,0.25,0.25
+"1205","Nottingham Forest","Liverpool",0.25,0,0.75
+"1206","Nottingham Forest","Man City",1,0,0
+"1207","Nottingham Forest","Newcastle",0,0,0.75
+"1208","Nottingham Forest","Oldham",NA,NA,NA
+"1209","Nottingham Forest","Sheffield United",NA,NA,NA
+"1210","Nottingham Forest","Southampton",0.5,0.5,0.25
+"1211","Nottingham Forest","West Ham",0,0.25,0.75
+"1212","Nottingham Forest","Norwich",1,1,0
+"1213","Nottingham Forest","Tottenham",0.5,0.75,0.25
+"1214","Nottingham Forest","Everton",0.5,0.5,0
+"1215","Nottingham Forest","Ipswich",1,1,0
+"1216","Nottingham Forest","Leeds",0.5,0.25,0.5
+"1217","Nottingham Forest","Wimbledon",0.5,0.25,0.25
+"1218","Nottingham Forest","Blackburn",0,0.25,0.5
+"1219","Nottingham Forest","Coventry",0.5,0.25,0.25
+"1220","Nottingham Forest","Man United",0,0.25,0.5
+"1221","Nottingham Forest","QPR",1,0,0
+"1222","Nottingham Forest","Sheffield Weds",0.75,0.5,0
+"1223","Nottingham Forest","Swindon",NA,NA,NA
+"1224","Nottingham Forest","Crystal Palace",1,1,0
+"1225","Nottingham Forest","Leicester",0.666666666666667,0.333333333333333,0.333333333333333
+"1226","Nottingham Forest","Nottingham Forest",NA,NA,NA
+"1227","Nottingham Forest","Bolton",1,0,0
+"1228","Nottingham Forest","Middlesbrough",0.333333333333333,0,0.333333333333333
+"1229","Nottingham Forest","Derby",0,0,1
+"1230","Nottingham Forest","Sunderland",0,0,0
+"1231","Nottingham Forest","Barnsley",NA,NA,NA
+"1232","Nottingham Forest","Charlton",0,0,0
+"1233","Nottingham Forest","Watford",NA,NA,NA
+"1234","Nottingham Forest","Brentford",NA,NA,NA
+"1235","Nottingham Forest","Fulham",NA,NA,NA
+"1236","Nottingham Forest","Birmingham",NA,NA,NA
+"1237","Nottingham Forest","Middlesboro",NA,NA,NA
+"1238","Nottingham Forest","West Brom",NA,NA,NA
+"1239","Nottingham Forest","Portsmouth",NA,NA,NA
+"1240","Nottingham Forest","Wolves",NA,NA,NA
+"1241","Nottingham Forest","Wigan",NA,NA,NA
+"1242","Nottingham Forest","Reading",NA,NA,NA
+"1243","Nottingham Forest","Hull",NA,NA,NA
+"1244","Nottingham Forest","Spurs",NA,NA,NA
+"1245","Nottingham Forest","Burnley",NA,NA,NA
+"1246","Nottingham Forest","Blackpool",NA,NA,NA
+"1247","Nottingham Forest","Swansea",NA,NA,NA
+"1248","Nottingham Forest","Cardiff",NA,NA,NA
+"1249","Nottingham Forest","Bournemouth",NA,NA,NA
+"1250","Nottingham Forest","Brighton",NA,NA,NA
+"1251","Nottingham Forest","Huddersfield",NA,NA,NA
+"1252","Bolton","Arsenal",0.384615384615385,0,0.230769230769231
+"1253","Bolton","Aston Villa",0.230769230769231,0.230769230769231,0.384615384615385
+"1254","Bolton","Chelsea",0.153846153846154,0.0769230769230769,0.153846153846154
+"1255","Bolton","Liverpool",0.307692307692308,0,0.230769230769231
+"1256","Bolton","Man City",0.272727272727273,0.272727272727273,0.363636363636364
+"1257","Bolton","Newcastle",0.666666666666667,0.0833333333333333,0
+"1258","Bolton","Oldham",NA,NA,NA
+"1259","Bolton","Sheffield United",1,0,0
+"1260","Bolton","Southampton",0,0.5,0.666666666666667
+"1261","Bolton","West Ham",0.8,0.4,0.1
+"1262","Bolton","Norwich",0.5,0,0
+"1263","Bolton","Tottenham",0.538461538461538,0.153846153846154,0.307692307692308
+"1264","Bolton","Everton",0.307692307692308,0.230769230769231,0.307692307692308
+"1265","Bolton","Ipswich",1,1,0
+"1266","Bolton","Leeds",0.2,0.6,0
+"1267","Bolton","Wimbledon",1,0,0
+"1268","Bolton","Blackburn",0.307692307692308,0.307692307692308,0.384615384615385
+"1269","Bolton","Coventry",0,0.5,0
+"1270","Bolton","Man United",0.0769230769230769,0.153846153846154,0.307692307692308
+"1271","Bolton","QPR",0.5,0.5,0
+"1272","Bolton","Sheffield Weds",1,0,0
+"1273","Bolton","Swindon",NA,NA,NA
+"1274","Bolton","Crystal Palace",1,0.5,0
+"1275","Bolton","Leicester",0.333333333333333,0.333333333333333,0.666666666666667
+"1276","Bolton","Nottingham Forest",0,0,1
+"1277","Bolton","Bolton",NA,NA,NA
+"1278","Bolton","Middlesbrough",0.375,0.375,0.625
+"1279","Bolton","Derby",0.333333333333333,0,0.333333333333333
+"1280","Bolton","Sunderland",0.25,0.25,0.25
+"1281","Bolton","Barnsley",0,0,1
+"1282","Bolton","Charlton",0.333333333333333,0.666666666666667,0.5
+"1283","Bolton","Watford",1,1,0
+"1284","Bolton","Brentford",NA,NA,NA
+"1285","Bolton","Fulham",0.272727272727273,0,0.454545454545455
+"1286","Bolton","Birmingham",0.571428571428571,0.285714285714286,0.285714285714286
+"1287","Bolton","Middlesboro",1,0,0
+"1288","Bolton","West Brom",0.333333333333333,0,0.666666666666667
+"1289","Bolton","Portsmouth",0.571428571428571,0.285714285714286,0.142857142857143
+"1290","Bolton","Wolves",0.5,0.75,0.5
+"1291","Bolton","Wigan",0.285714285714286,0.285714285714286,0.285714285714286
+"1292","Bolton","Reading",0.5,0.5,0
+"1293","Bolton","Hull",0,0.5,1
+"1294","Bolton","Spurs",0.75,0.25,0.25
+"1295","Bolton","Burnley",1,0,0
+"1296","Bolton","Blackpool",0,0,1
+"1297","Bolton","Swansea",0,0,1
+"1298","Bolton","Cardiff",NA,NA,NA
+"1299","Bolton","Bournemouth",NA,NA,NA
+"1300","Bolton","Brighton",NA,NA,NA
+"1301","Bolton","Huddersfield",NA,NA,NA
+"1302","Middlesbrough","Arsenal",0.230769230769231,0.0769230769230769,0.153846153846154
+"1303","Middlesbrough","Aston Villa",0.25,0.25,0.25
+"1304","Middlesbrough","Chelsea",0.384615384615385,0,0.0769230769230769
+"1305","Middlesbrough","Liverpool",0.384615384615385,0,0.384615384615385
+"1306","Middlesbrough","Man City",0.555555555555556,0.333333333333333,0.333333333333333
+"1307","Middlesbrough","Newcastle",0.0833333333333333,0.0833333333333333,0.416666666666667
+"1308","Middlesbrough","Oldham",NA,NA,NA
+"1309","Middlesbrough","Sheffield United",1,0,0
+"1310","Middlesbrough","Southampton",0.333333333333333,0.222222222222222,0.111111111111111
+"1311","Middlesbrough","West Ham",0.727272727272727,0.0909090909090909,0.0909090909090909
+"1312","Middlesbrough","Norwich",1,0,0
+"1313","Middlesbrough","Tottenham",0.307692307692308,0.153846153846154,0.384615384615385
+"1314","Middlesbrough","Everton",0.384615384615385,0.153846153846154,0.230769230769231
+"1315","Middlesbrough","Ipswich",0,0,0.5
+"1316","Middlesbrough","Leeds",0,0.285714285714286,0.714285714285714
+"1317","Middlesbrough","Wimbledon",0.25,0.25,0.5
+"1318","Middlesbrough","Blackburn",0.4,0.2,0.1
+"1319","Middlesbrough","Coventry",0.8,0.4,0.2
+"1320","Middlesbrough","Man United",0.0769230769230769,0.230769230769231,0.153846153846154
+"1321","Middlesbrough","QPR",1,0,0
+"1322","Middlesbrough","Sheffield Weds",1,0.25,0
+"1323","Middlesbrough","Swindon",NA,NA,NA
+"1324","Middlesbrough","Crystal Palace",0.5,0.5,0
+"1325","Middlesbrough","Leicester",0.142857142857143,0.571428571428571,0.428571428571429
+"1326","Middlesbrough","Nottingham Forest",0,0.333333333333333,1
+"1327","Middlesbrough","Bolton",0.375,0,0.25
+"1328","Middlesbrough","Middlesbrough",NA,NA,NA
+"1329","Middlesbrough","Derby",0.666666666666667,0.5,0.166666666666667
+"1330","Middlesbrough","Sunderland",0.25,0.375,0.5
+"1331","Middlesbrough","Barnsley",NA,NA,NA
+"1332","Middlesbrough","Charlton",0.285714285714286,0.285714285714286,0.571428571428571
+"1333","Middlesbrough","Watford",0.333333333333333,0.333333333333333,0.333333333333333
+"1334","Middlesbrough","Brentford",0,0,0.5
+"1335","Middlesbrough","Fulham",0.714285714285714,0.285714285714286,0.285714285714286
+"1336","Middlesbrough","Birmingham",1,0.25,0
+"1337","Middlesbrough","Middlesboro",NA,NA,NA
+"1338","Middlesbrough","West Brom",0.25,0.5,0.5
+"1339","Middlesbrough","Portsmouth",0.166666666666667,0.166666666666667,0.666666666666667
+"1340","Middlesbrough","Wolves",1,0,0
+"1341","Middlesbrough","Wigan",0.25,0.5,0.5
+"1342","Middlesbrough","Reading",0.5,0,0
+"1343","Middlesbrough","Hull",1,0,0
+"1344","Middlesbrough","Spurs",0.5,0,0.5
+"1345","Middlesbrough","Burnley",0,0,1
+"1346","Middlesbrough","Blackpool",NA,NA,NA
+"1347","Middlesbrough","Swansea",1,0,0
+"1348","Middlesbrough","Cardiff",NA,NA,NA
+"1349","Middlesbrough","Bournemouth",1,0,0
+"1350","Middlesbrough","Brighton",NA,NA,NA
+"1351","Middlesbrough","Huddersfield",NA,NA,NA
+"1352","Derby","Arsenal",0.142857142857143,0,0.142857142857143
+"1353","Derby","Aston Villa",0.571428571428571,0,0
+"1354","Derby","Chelsea",0.285714285714286,0,0.285714285714286
+"1355","Derby","Liverpool",0.285714285714286,0.142857142857143,0
+"1356","Derby","Man City",0,0,1
+"1357","Derby","Newcastle",0.428571428571429,0,0.142857142857143
+"1358","Derby","Oldham",NA,NA,NA
+"1359","Derby","Sheffield United",NA,NA,NA
+"1360","Derby","Southampton",0.5,0.333333333333333,0.5
+"1361","Derby","West Ham",0.285714285714286,0,0.285714285714286
+"1362","Derby","Norwich",NA,NA,NA
+"1363","Derby","Tottenham",0.571428571428571,0,0
+"1364","Derby","Everton",0.571428571428571,0.142857142857143,0
+"1365","Derby","Ipswich",0,0.5,0.5
+"1366","Derby","Leeds",0,0,0.5
+"1367","Derby","Wimbledon",0.25,0,0.5
+"1368","Derby","Blackburn",0.6,0.4,0.2
+"1369","Derby","Coventry",0.6,0.2,0.4
+"1370","Derby","Man United",0,0.285714285714286,0.571428571428571
+"1371","Derby","QPR",NA,NA,NA
+"1372","Derby","Sheffield Weds",0.5,0.75,0.5
+"1373","Derby","Swindon",NA,NA,NA
+"1374","Derby","Crystal Palace",0,0,1
+"1375","Derby","Leicester",0.666666666666667,0.666666666666667,0
+"1376","Derby","Nottingham Forest",0.5,0,0.5
+"1377","Derby","Bolton",0.666666666666667,0.333333333333333,0.333333333333333
+"1378","Derby","Middlesbrough",0.333333333333333,0.166666666666667,0.166666666666667
+"1379","Derby","Derby",NA,NA,NA
+"1380","Derby","Sunderland",0.4,0,0.2
+"1381","Derby","Barnsley",1,0,0
+"1382","Derby","Charlton",0,0.333333333333333,0.666666666666667
+"1383","Derby","Watford",1,0,0
+"1384","Derby","Brentford",0.5,0,0
+"1385","Derby","Fulham",0,0,0.5
+"1386","Derby","Birmingham",0,0,0
+"1387","Derby","Middlesboro",NA,NA,NA
+"1388","Derby","West Brom",NA,NA,NA
+"1389","Derby","Portsmouth",0,0,1
+"1390","Derby","Wolves",NA,NA,NA
+"1391","Derby","Wigan",0,0,0
+"1392","Derby","Reading",0,0,0
+"1393","Derby","Hull",NA,NA,NA
+"1394","Derby","Spurs",NA,NA,NA
+"1395","Derby","Burnley",NA,NA,NA
+"1396","Derby","Blackpool",NA,NA,NA
+"1397","Derby","Swansea",NA,NA,NA
+"1398","Derby","Cardiff",NA,NA,NA
+"1399","Derby","Bournemouth",NA,NA,NA
+"1400","Derby","Brighton",NA,NA,NA
+"1401","Derby","Huddersfield",NA,NA,NA
+"1402","Sunderland","Arsenal",0.1875,0,0.3125
+"1403","Sunderland","Aston Villa",0.333333333333333,0.133333333333333,0.266666666666667
+"1404","Sunderland","Chelsea",0.25,0.1875,0.125
+"1405","Sunderland","Liverpool",0.1875,0,0.1875
+"1406","Sunderland","Man City",0.384615384615385,0,0.0769230769230769
+"1407","Sunderland","Newcastle",0.285714285714286,0.357142857142857,0.357142857142857
+"1408","Sunderland","Oldham",NA,NA,NA
+"1409","Sunderland","Sheffield United",NA,NA,NA
+"1410","Sunderland","Southampton",0.2,0.3,0.4
+"1411","Sunderland","West Ham",0.333333333333333,0.133333333333333,0.466666666666667
+"1412","Sunderland","Norwich",0.25,0.25,0.5
+"1413","Sunderland","Tottenham",0.25,0.0625,0.3125
+"1414","Sunderland","Everton",0.375,0.1875,0.25
+"1415","Sunderland","Ipswich",1,0,0
+"1416","Sunderland","Leeds",0.2,0.2,0
+"1417","Sunderland","Wimbledon",0.5,0,0
+"1418","Sunderland","Blackburn",0.444444444444444,0.222222222222222,0.333333333333333
+"1419","Sunderland","Coventry",0.666666666666667,0,0.333333333333333
+"1420","Sunderland","Man United",0.125,0.0625,0.25
+"1421","Sunderland","QPR",0.333333333333333,0.333333333333333,0.333333333333333
+"1422","Sunderland","Sheffield Weds",0.5,0.5,0.5
+"1423","Sunderland","Swindon",NA,NA,NA
+"1424","Sunderland","Crystal Palace",0,0.75,0.5
+"1425","Sunderland","Leicester",0.428571428571429,0,0.428571428571429
+"1426","Sunderland","Nottingham Forest",0,1,1
+"1427","Sunderland","Bolton",0.5,0.5,0.25
+"1428","Sunderland","Middlesbrough",0.375,0.25,0.25
+"1429","Sunderland","Derby",0.6,0.4,0.4
+"1430","Sunderland","Sunderland",NA,NA,NA
+"1431","Sunderland","Barnsley",NA,NA,NA
+"1432","Sunderland","Charlton",0.25,0.25,0.25
+"1433","Sunderland","Watford",0.666666666666667,0.333333333333333,0
+"1434","Sunderland","Brentford",0,1,0.5
+"1435","Sunderland","Fulham",0.2,0.3,0.5
+"1436","Sunderland","Birmingham",0.4,0,0.2
+"1437","Sunderland","Middlesboro",0,0,0
+"1438","Sunderland","West Brom",0.2,0.1,0.5
+"1439","Sunderland","Portsmouth",0.25,0,0.25
+"1440","Sunderland","Wolves",0.333333333333333,0,0.333333333333333
+"1441","Sunderland","Wigan",0.428571428571429,0.285714285714286,0.142857142857143
+"1442","Sunderland","Reading",1,0,0
+"1443","Sunderland","Hull",0.6,0.6,0
+"1444","Sunderland","Spurs",0.666666666666667,0.111111111111111,0.222222222222222
+"1445","Sunderland","Burnley",0.666666666666667,0,0.333333333333333
+"1446","Sunderland","Blackpool",0,1,0
+"1447","Sunderland","Swansea",0.166666666666667,0.166666666666667,0.5
+"1448","Sunderland","Cardiff",1,0,0
+"1449","Sunderland","Bournemouth",0,0.5,0.5
+"1450","Sunderland","Brighton",NA,NA,NA
+"1451","Sunderland","Huddersfield",NA,NA,NA
+"1452","Barnsley","Arsenal",0,0,0
+"1453","Barnsley","Aston Villa",0,1,0
+"1454","Barnsley","Chelsea",0,0,0
+"1455","Barnsley","Liverpool",0,1,0
+"1456","Barnsley","Man City",NA,NA,NA
+"1457","Barnsley","Newcastle",0,0,1
+"1458","Barnsley","Oldham",NA,NA,NA
+"1459","Barnsley","Sheffield United",NA,NA,NA
+"1460","Barnsley","Southampton",1,0,0
+"1461","Barnsley","West Ham",0,0,0
+"1462","Barnsley","Norwich",NA,NA,NA
+"1463","Barnsley","Tottenham",0,0,1
+"1464","Barnsley","Everton",0,0,1
+"1465","Barnsley","Ipswich",NA,NA,NA
+"1466","Barnsley","Leeds",0,0,0
+"1467","Barnsley","Wimbledon",1,0,0
+"1468","Barnsley","Blackburn",0,0,1
+"1469","Barnsley","Coventry",1,0,0
+"1470","Barnsley","Man United",0,0,0
+"1471","Barnsley","QPR",NA,NA,NA
+"1472","Barnsley","Sheffield Weds",1,0,0
+"1473","Barnsley","Swindon",NA,NA,NA
+"1474","Barnsley","Crystal Palace",1,1,0
+"1475","Barnsley","Leicester",0,0,0
+"1476","Barnsley","Nottingham Forest",NA,NA,NA
+"1477","Barnsley","Bolton",1,0,0
+"1478","Barnsley","Middlesbrough",NA,NA,NA
+"1479","Barnsley","Derby",1,0,0
+"1480","Barnsley","Sunderland",NA,NA,NA
+"1481","Barnsley","Barnsley",NA,NA,NA
+"1482","Barnsley","Charlton",NA,NA,NA
+"1483","Barnsley","Watford",NA,NA,NA
+"1484","Barnsley","Brentford",NA,NA,NA
+"1485","Barnsley","Fulham",NA,NA,NA
+"1486","Barnsley","Birmingham",NA,NA,NA
+"1487","Barnsley","Middlesboro",NA,NA,NA
+"1488","Barnsley","West Brom",NA,NA,NA
+"1489","Barnsley","Portsmouth",NA,NA,NA
+"1490","Barnsley","Wolves",NA,NA,NA
+"1491","Barnsley","Wigan",NA,NA,NA
+"1492","Barnsley","Reading",NA,NA,NA
+"1493","Barnsley","Hull",NA,NA,NA
+"1494","Barnsley","Spurs",NA,NA,NA
+"1495","Barnsley","Burnley",NA,NA,NA
+"1496","Barnsley","Blackpool",NA,NA,NA
+"1497","Barnsley","Swansea",NA,NA,NA
+"1498","Barnsley","Cardiff",NA,NA,NA
+"1499","Barnsley","Bournemouth",NA,NA,NA
+"1500","Barnsley","Brighton",NA,NA,NA
+"1501","Barnsley","Huddersfield",NA,NA,NA
+"1502","Charlton","Arsenal",0.125,0.125,0.125
+"1503","Charlton","Aston Villa",0.375,0.125,0.25
+"1504","Charlton","Chelsea",0.375,0.25,0
+"1505","Charlton","Liverpool",0.5,0.125,0
+"1506","Charlton","Man City",0.333333333333333,0.333333333333333,0.333333333333333
+"1507","Charlton","Newcastle",0.375,0.125,0.5
+"1508","Charlton","Oldham",NA,NA,NA
+"1509","Charlton","Sheffield United",0,0,1
+"1510","Charlton","Southampton",0.5,0,0.5
+"1511","Charlton","West Ham",0.666666666666667,0.333333333333333,0.333333333333333
+"1512","Charlton","Norwich",1,0,0
+"1513","Charlton","Tottenham",0.375,0.375,0
+"1514","Charlton","Everton",0.375,0.375,0.375
+"1515","Charlton","Ipswich",1,0.5,0
+"1516","Charlton","Leeds",0,0.2,0.2
+"1517","Charlton","Wimbledon",1,0,0
+"1518","Charlton","Blackburn",0.571428571428571,0.142857142857143,0.142857142857143
+"1519","Charlton","Coventry",0,0,1
+"1520","Charlton","Man United",0,0,0.125
+"1521","Charlton","QPR",NA,NA,NA
+"1522","Charlton","Sheffield Weds",0,0,0
+"1523","Charlton","Swindon",NA,NA,NA
+"1524","Charlton","Crystal Palace",0,1,1
+"1525","Charlton","Leicester",0.5,0,0.5
+"1526","Charlton","Nottingham Forest",0,1,1
+"1527","Charlton","Bolton",0.166666666666667,0.166666666666667,0.166666666666667
+"1528","Charlton","Middlesbrough",0.428571428571429,0.142857142857143,0.285714285714286
+"1529","Charlton","Derby",0.666666666666667,0.333333333333333,0
+"1530","Charlton","Sunderland",0.25,0.5,0.5
+"1531","Charlton","Barnsley",NA,NA,NA
+"1532","Charlton","Charlton",NA,NA,NA
+"1533","Charlton","Watford",0,0,1
+"1534","Charlton","Brentford",1,0,0
+"1535","Charlton","Fulham",0.333333333333333,0,0.5
+"1536","Charlton","Birmingham",0.5,0.5,0.25
+"1537","Charlton","Middlesboro",1,0,0
+"1538","Charlton","West Brom",0.333333333333333,1,0.333333333333333
+"1539","Charlton","Portsmouth",0.5,0.75,0.25
+"1540","Charlton","Wolves",1,1,0
+"1541","Charlton","Wigan",1,0,0
+"1542","Charlton","Reading",0,0,1
+"1543","Charlton","Hull",NA,NA,NA
+"1544","Charlton","Spurs",NA,NA,NA
+"1545","Charlton","Burnley",NA,NA,NA
+"1546","Charlton","Blackpool",NA,NA,NA
+"1547","Charlton","Swansea",NA,NA,NA
+"1548","Charlton","Cardiff",NA,NA,NA
+"1549","Charlton","Bournemouth",NA,NA,NA
+"1550","Charlton","Brighton",NA,NA,NA
+"1551","Charlton","Huddersfield",NA,NA,NA
+"1552","Watford","Arsenal",0.2,0.2,0
+"1553","Watford","Aston Villa",0.333333333333333,0.333333333333333,0.333333333333333
+"1554","Watford","Chelsea",0.4,0,0.2
+"1555","Watford","Liverpool",0.2,0.2,0.2
+"1556","Watford","Man City",0,0,0.25
+"1557","Watford","Newcastle",0.5,0.5,0.5
+"1558","Watford","Oldham",NA,NA,NA
+"1559","Watford","Sheffield United",0,0,0
+"1560","Watford","Southampton",0.25,0.25,0.5
+"1561","Watford","West Ham",0.4,0.4,0.4
+"1562","Watford","Norwich",1,0,0
+"1563","Watford","Tottenham",0,0,0.6
+"1564","Watford","Everton",0.4,0,0.2
+"1565","Watford","Ipswich",NA,NA,NA
+"1566","Watford","Leeds",0,0,0
+"1567","Watford","Wimbledon",0,0,0
+"1568","Watford","Blackburn",1,0,0
+"1569","Watford","Coventry",1,0,0
+"1570","Watford","Man United",0.2,0,0
+"1571","Watford","QPR",NA,NA,NA
+"1572","Watford","Sheffield Weds",1,0,0
+"1573","Watford","Swindon",NA,NA,NA
+"1574","Watford","Crystal Palace",0,0.333333333333333,0.666666666666667
+"1575","Watford","Leicester",0.5,0,0.25
+"1576","Watford","Nottingham Forest",NA,NA,NA
+"1577","Watford","Bolton",0,0,0
+"1578","Watford","Middlesbrough",0.333333333333333,0.333333333333333,0.333333333333333
+"1579","Watford","Derby",0,0,1
+"1580","Watford","Sunderland",0.333333333333333,0.333333333333333,0.333333333333333
+"1581","Watford","Barnsley",NA,NA,NA
+"1582","Watford","Charlton",0,0,1
+"1583","Watford","Watford",NA,NA,NA
+"1584","Watford","Brentford",1,0,0
+"1585","Watford","Fulham",0,0,1
+"1586","Watford","Birmingham",NA,NA,NA
+"1587","Watford","Middlesboro",NA,NA,NA
+"1588","Watford","West Brom",0.666666666666667,0.333333333333333,0.333333333333333
+"1589","Watford","Portsmouth",1,0,0
+"1590","Watford","Wolves",NA,NA,NA
+"1591","Watford","Wigan",0,0,1
+"1592","Watford","Reading",0,1,1
+"1593","Watford","Hull",1,0,0
+"1594","Watford","Spurs",0,0.333333333333333,0
+"1595","Watford","Burnley",0.5,0,0
+"1596","Watford","Blackpool",NA,NA,NA
+"1597","Watford","Swansea",0.666666666666667,0.333333333333333,0
+"1598","Watford","Cardiff",NA,NA,NA
+"1599","Watford","Bournemouth",0,0.333333333333333,1
+"1600","Watford","Brighton",0,0,1
+"1601","Watford","Huddersfield",0,0,0
+"1602","Brentford","Arsenal",0.5,0,0.5
+"1603","Brentford","Aston Villa",0,0,0.5
+"1604","Brentford","Chelsea",0.5,0,0.5
+"1605","Brentford","Liverpool",0.5,0,0
+"1606","Brentford","Man City",0,0,1
+"1607","Brentford","Newcastle",0.5,0,0.5
+"1608","Brentford","Oldham",NA,NA,NA
+"1609","Brentford","Sheffield United",NA,NA,NA
+"1610","Brentford","Southampton",0,0,0
+"1611","Brentford","West Ham",0,0,0
+"1612","Brentford","Norwich",NA,NA,NA
+"1613","Brentford","Tottenham",0,0,1
+"1614","Brentford","Everton",0,0,0.5
+"1615","Brentford","Ipswich",0,0,0
+"1616","Brentford","Leeds",0,0,0.5
+"1617","Brentford","Wimbledon",1,0,0
+"1618","Brentford","Blackburn",NA,NA,NA
+"1619","Brentford","Coventry",0.5,0,0.5
+"1620","Brentford","Man United",0,0,0
+"1621","Brentford","QPR",NA,NA,NA
+"1622","Brentford","Sheffield Weds",0,0,1
+"1623","Brentford","Swindon",NA,NA,NA
+"1624","Brentford","Crystal Palace",NA,NA,NA
+"1625","Brentford","Leicester",0.5,0.5,0.5
+"1626","Brentford","Nottingham Forest",NA,NA,NA
+"1627","Brentford","Bolton",NA,NA,NA
+"1628","Brentford","Middlesbrough",0,0.5,1
+"1629","Brentford","Derby",0.5,0.5,0.5
+"1630","Brentford","Sunderland",0,0.5,0
+"1631","Brentford","Barnsley",NA,NA,NA
+"1632","Brentford","Charlton",1,0,0
+"1633","Brentford","Watford",1,0,0
+"1634","Brentford","Brentford",NA,NA,NA
+"1635","Brentford","Fulham",NA,NA,NA
+"1636","Brentford","Birmingham",NA,NA,NA
+"1637","Brentford","Middlesboro",NA,NA,NA
+"1638","Brentford","West Brom",NA,NA,NA
+"1639","Brentford","Portsmouth",NA,NA,NA
+"1640","Brentford","Wolves",NA,NA,NA
+"1641","Brentford","Wigan",NA,NA,NA
+"1642","Brentford","Reading",NA,NA,NA
+"1643","Brentford","Hull",NA,NA,NA
+"1644","Brentford","Spurs",NA,NA,NA
+"1645","Brentford","Burnley",NA,NA,NA
+"1646","Brentford","Blackpool",NA,NA,NA
+"1647","Brentford","Swansea",NA,NA,NA
+"1648","Brentford","Cardiff",NA,NA,NA
+"1649","Brentford","Bournemouth",NA,NA,NA
+"1650","Brentford","Brighton",NA,NA,NA
+"1651","Brentford","Huddersfield",NA,NA,NA
+"1652","Fulham","Arsenal",0.230769230769231,0,0.0769230769230769
+"1653","Fulham","Aston Villa",0.384615384615385,0.0769230769230769,0.461538461538462
+"1654","Fulham","Chelsea",0.0769230769230769,0,0.384615384615385
+"1655","Fulham","Liverpool",0.384615384615385,0.0769230769230769,0
+"1656","Fulham","Man City",0.0833333333333333,0.25,0.416666666666667
+"1657","Fulham","Newcastle",0.75,0.25,0
+"1658","Fulham","Oldham",NA,NA,NA
+"1659","Fulham","Sheffield United",1,0,0
+"1660","Fulham","Southampton",0.5,0,0.333333333333333
+"1661","Fulham","West Ham",0.3,0.1,0.1
+"1662","Fulham","Norwich",1,0.5,0
+"1663","Fulham","Tottenham",0.384615384615385,0.153846153846154,0.230769230769231
+"1664","Fulham","Everton",0.615384615384615,0,0.153846153846154
+"1665","Fulham","Ipswich",0,0,1
+"1666","Fulham","Leeds",0.666666666666667,0.333333333333333,0.333333333333333
+"1667","Fulham","Wimbledon",NA,NA,NA
+"1668","Fulham","Blackburn",0.363636363636364,0.181818181818182,0.272727272727273
+"1669","Fulham","Coventry",NA,NA,NA
+"1670","Fulham","Man United",0.153846153846154,0.0769230769230769,0.307692307692308
+"1671","Fulham","QPR",1,0.5,0
+"1672","Fulham","Sheffield Weds",NA,NA,NA
+"1673","Fulham","Swindon",NA,NA,NA
+"1674","Fulham","Crystal Palace",0.5,0.5,0.5
+"1675","Fulham","Leicester",0.5,0.5,0.5
+"1676","Fulham","Nottingham Forest",NA,NA,NA
+"1677","Fulham","Bolton",0.818181818181818,0.272727272727273,0.181818181818182
+"1678","Fulham","Middlesbrough",0.714285714285714,0,0
+"1679","Fulham","Derby",0,0.5,1
+"1680","Fulham","Sunderland",0.5,0.3,0.2
+"1681","Fulham","Barnsley",NA,NA,NA
+"1682","Fulham","Charlton",0.666666666666667,0.166666666666667,0.333333333333333
+"1683","Fulham","Watford",0,0,1
+"1684","Fulham","Brentford",NA,NA,NA
+"1685","Fulham","Fulham",NA,NA,NA
+"1686","Fulham","Birmingham",0.285714285714286,0.285714285714286,0.428571428571429
+"1687","Fulham","Middlesboro",1,0,0
+"1688","Fulham","West Brom",0.75,0.125,0.25
+"1689","Fulham","Portsmouth",0.571428571428571,0.285714285714286,0.142857142857143
+"1690","Fulham","Wolves",0.5,0,0.5
+"1691","Fulham","Wigan",0.625,0.25,0.25
+"1692","Fulham","Reading",0.333333333333333,0.333333333333333,0
+"1693","Fulham","Hull",0.333333333333333,0,0.333333333333333
+"1694","Fulham","Spurs",0.833333333333333,0.166666666666667,0
+"1695","Fulham","Burnley",1,0,0
+"1696","Fulham","Blackpool",1,0,0
+"1697","Fulham","Swansea",0,0.333333333333333,0
+"1698","Fulham","Cardiff",0,0,0
+"1699","Fulham","Bournemouth",NA,NA,NA
+"1700","Fulham","Brighton",NA,NA,NA
+"1701","Fulham","Huddersfield",NA,NA,NA
+"1702","Birmingham","Arsenal",0.142857142857143,0,0.285714285714286
+"1703","Birmingham","Aston Villa",0.285714285714286,0.285714285714286,0.285714285714286
+"1704","Birmingham","Chelsea",0.142857142857143,0,0.428571428571429
+"1705","Birmingham","Liverpool",0.285714285714286,0.142857142857143,0.571428571428571
+"1706","Birmingham","Man City",0.428571428571429,0,0.285714285714286
+"1707","Birmingham","Newcastle",0,0.166666666666667,0.666666666666667
+"1708","Birmingham","Oldham",NA,NA,NA
+"1709","Birmingham","Sheffield United",NA,NA,NA
+"1710","Birmingham","Southampton",1,0,0
+"1711","Birmingham","West Ham",0.2,0.4,0.4
+"1712","Birmingham","Norwich",0,0,1
+"1713","Birmingham","Tottenham",0.285714285714286,0.142857142857143,0.571428571428571
+"1714","Birmingham","Everton",0.142857142857143,0,0.428571428571429
+"1715","Birmingham","Ipswich",NA,NA,NA
+"1716","Birmingham","Leeds",1,0.5,0
+"1717","Birmingham","Wimbledon",NA,NA,NA
+"1718","Birmingham","Blackburn",0.714285714285714,0,0
+"1719","Birmingham","Coventry",NA,NA,NA
+"1720","Birmingham","Man United",0,0,0.571428571428571
+"1721","Birmingham","QPR",NA,NA,NA
+"1722","Birmingham","Sheffield Weds",NA,NA,NA
+"1723","Birmingham","Swindon",NA,NA,NA
+"1724","Birmingham","Crystal Palace",0,0,0
+"1725","Birmingham","Leicester",0,1,0
+"1726","Birmingham","Nottingham Forest",NA,NA,NA
+"1727","Birmingham","Bolton",0.714285714285714,0.142857142857143,0
+"1728","Birmingham","Middlesbrough",0.75,0,0
+"1729","Birmingham","Derby",0,1,1
+"1730","Birmingham","Sunderland",0.8,0.4,0.2
+"1731","Birmingham","Barnsley",NA,NA,NA
+"1732","Birmingham","Charlton",0,0.25,0.5
+"1733","Birmingham","Watford",NA,NA,NA
+"1734","Birmingham","Brentford",NA,NA,NA
+"1735","Birmingham","Fulham",0.285714285714286,0.285714285714286,0.428571428571429
+"1736","Birmingham","Birmingham",NA,NA,NA
+"1737","Birmingham","Middlesboro",1,0,0
+"1738","Birmingham","West Brom",0.5,0.25,0.25
+"1739","Birmingham","Portsmouth",0.6,0.2,0.2
+"1740","Birmingham","Wolves",0.333333333333333,0.333333333333333,0.666666666666667
+"1741","Birmingham","Wigan",0.75,0.25,0.25
+"1742","Birmingham","Reading",0,0,1
+"1743","Birmingham","Hull",0,1,1
+"1744","Birmingham","Spurs",0.5,0.5,0.5
+"1745","Birmingham","Burnley",1,0,0
+"1746","Birmingham","Blackpool",1,1,0
+"1747","Birmingham","Swansea",NA,NA,NA
+"1748","Birmingham","Cardiff",NA,NA,NA
+"1749","Birmingham","Bournemouth",NA,NA,NA
+"1750","Birmingham","Brighton",NA,NA,NA
+"1751","Birmingham","Huddersfield",NA,NA,NA
+"1752","Middlesboro","Arsenal",0,0,0
+"1753","Middlesboro","Aston Villa",0,0,0
+"1754","Middlesboro","Chelsea",0,0,1
+"1755","Middlesboro","Liverpool",1,0,0
+"1756","Middlesboro","Man City",1,0,0
+"1757","Middlesboro","Newcastle",1,0,0
+"1758","Middlesboro","Oldham",NA,NA,NA
+"1759","Middlesboro","Sheffield United",NA,NA,NA
+"1760","Middlesboro","Southampton",0,0,1
+"1761","Middlesboro","West Ham",0,0,1
+"1762","Middlesboro","Norwich",NA,NA,NA
+"1763","Middlesboro","Tottenham",1,1,0
+"1764","Middlesboro","Everton",0,0,1
+"1765","Middlesboro","Ipswich",NA,NA,NA
+"1766","Middlesboro","Leeds",0,1,1
+"1767","Middlesboro","Wimbledon",NA,NA,NA
+"1768","Middlesboro","Blackburn",1,0,0
+"1769","Middlesboro","Coventry",NA,NA,NA
+"1770","Middlesboro","Man United",1,0,0
+"1771","Middlesboro","QPR",NA,NA,NA
+"1772","Middlesboro","Sheffield Weds",NA,NA,NA
+"1773","Middlesboro","Swindon",NA,NA,NA
+"1774","Middlesboro","Crystal Palace",NA,NA,NA
+"1775","Middlesboro","Leicester",NA,NA,NA
+"1776","Middlesboro","Nottingham Forest",NA,NA,NA
+"1777","Middlesboro","Bolton",1,0,0
+"1778","Middlesboro","Middlesbrough",NA,NA,NA
+"1779","Middlesboro","Derby",NA,NA,NA
+"1780","Middlesboro","Sunderland",1,1,0
+"1781","Middlesboro","Barnsley",NA,NA,NA
+"1782","Middlesboro","Charlton",0,0,1
+"1783","Middlesboro","Watford",NA,NA,NA
+"1784","Middlesboro","Brentford",NA,NA,NA
+"1785","Middlesboro","Fulham",0,0,1
+"1786","Middlesboro","Birmingham",1,0,0
+"1787","Middlesboro","Middlesboro",NA,NA,NA
+"1788","Middlesboro","West Brom",1,0,0
+"1789","Middlesboro","Portsmouth",NA,NA,NA
+"1790","Middlesboro","Wolves",NA,NA,NA
+"1791","Middlesboro","Wigan",NA,NA,NA
+"1792","Middlesboro","Reading",NA,NA,NA
+"1793","Middlesboro","Hull",NA,NA,NA
+"1794","Middlesboro","Spurs",NA,NA,NA
+"1795","Middlesboro","Burnley",NA,NA,NA
+"1796","Middlesboro","Blackpool",NA,NA,NA
+"1797","Middlesboro","Swansea",NA,NA,NA
+"1798","Middlesboro","Cardiff",NA,NA,NA
+"1799","Middlesboro","Bournemouth",NA,NA,NA
+"1800","Middlesboro","Brighton",NA,NA,NA
+"1801","Middlesboro","Huddersfield",NA,NA,NA
+"1802","West Brom","Arsenal",0.25,0.0833333333333333,0.25
+"1803","West Brom","Aston Villa",0.2,0.2,0.6
+"1804","West Brom","Chelsea",0.25,0,0.0833333333333333
+"1805","West Brom","Liverpool",0.166666666666667,0.166666666666667,0.333333333333333
+"1806","West Brom","Man City",0.25,0.0833333333333333,0.0833333333333333
+"1807","West Brom","Newcastle",0.272727272727273,0.181818181818182,0.363636363636364
+"1808","West Brom","Oldham",NA,NA,NA
+"1809","West Brom","Sheffield United",NA,NA,NA
+"1810","West Brom","Southampton",0.375,0.25,0.25
+"1811","West Brom","West Ham",0.3,0.1,0.3
+"1812","West Brom","Norwich",0.2,0.6,0.2
+"1813","West Brom","Tottenham",0.25,0.0833333333333333,0.416666666666667
+"1814","West Brom","Everton",0.333333333333333,0.166666666666667,0.166666666666667
+"1815","West Brom","Ipswich",NA,NA,NA
+"1816","West Brom","Leeds",0,0,0
+"1817","West Brom","Wimbledon",NA,NA,NA
+"1818","West Brom","Blackburn",0.333333333333333,0.166666666666667,0.333333333333333
+"1819","West Brom","Coventry",NA,NA,NA
+"1820","West Brom","Man United",0.0833333333333333,0.25,0.166666666666667
+"1821","West Brom","QPR",0.666666666666667,0.333333333333333,0
+"1822","West Brom","Sheffield Weds",NA,NA,NA
+"1823","West Brom","Swindon",NA,NA,NA
+"1824","West Brom","Crystal Palace",0.333333333333333,0.333333333333333,0.5
+"1825","West Brom","Leicester",0,0.5,0
+"1826","West Brom","Nottingham Forest",NA,NA,NA
+"1827","West Brom","Bolton",0.333333333333333,0,0.666666666666667
+"1828","West Brom","Middlesbrough",0.25,0.25,0.25
+"1829","West Brom","Derby",NA,NA,NA
+"1830","West Brom","Sunderland",0.7,0.3,0.2
+"1831","West Brom","Barnsley",NA,NA,NA
+"1832","West Brom","Charlton",0,0.333333333333333,0
+"1833","West Brom","Watford",0.333333333333333,0,0.333333333333333
+"1834","West Brom","Brentford",NA,NA,NA
+"1835","West Brom","Fulham",0.375,0,0.5
+"1836","West Brom","Birmingham",0.5,0.25,0.25
+"1837","West Brom","Middlesboro",1,0,0
+"1838","West Brom","West Brom",NA,NA,NA
+"1839","West Brom","Portsmouth",0.666666666666667,0,0.333333333333333
+"1840","West Brom","Wolves",0.5,0.5,0.5
+"1841","West Brom","Wigan",0.2,0.4,0.2
+"1842","West Brom","Reading",1,0,0
+"1843","West Brom","Hull",0.5,0,0.25
+"1844","West Brom","Spurs",0.333333333333333,0.222222222222222,0.111111111111111
+"1845","West Brom","Burnley",0.666666666666667,0.333333333333333,0
+"1846","West Brom","Blackpool",1,0,0
+"1847","West Brom","Swansea",0.428571428571429,0.142857142857143,0.285714285714286
+"1848","West Brom","Cardiff",0,0,1
+"1849","West Brom","Bournemouth",0.666666666666667,0,0
+"1850","West Brom","Brighton",1,0,0
+"1851","West Brom","Huddersfield",0,0,0
+"1852","Portsmouth","Arsenal",0,0,0.571428571428571
+"1853","Portsmouth","Aston Villa",0.285714285714286,0.142857142857143,0.285714285714286
+"1854","Portsmouth","Chelsea",0,0,0.142857142857143
+"1855","Portsmouth","Liverpool",0.428571428571429,0,0.142857142857143
+"1856","Portsmouth","Man City",0.571428571428571,0,0.142857142857143
+"1857","Portsmouth","Newcastle",0.166666666666667,0.166666666666667,0.666666666666667
+"1858","Portsmouth","Oldham",NA,NA,NA
+"1859","Portsmouth","Sheffield United",1,0,0
+"1860","Portsmouth","Southampton",1,0,0
+"1861","Portsmouth","West Ham",0.2,0.6,0.6
+"1862","Portsmouth","Norwich",0,0,1
+"1863","Portsmouth","Tottenham",0.428571428571429,0,0.142857142857143
+"1864","Portsmouth","Everton",0.285714285714286,0.285714285714286,0.142857142857143
+"1865","Portsmouth","Ipswich",NA,NA,NA
+"1866","Portsmouth","Leeds",1,1,0
+"1867","Portsmouth","Wimbledon",NA,NA,NA
+"1868","Portsmouth","Blackburn",0.285714285714286,0.285714285714286,0.285714285714286
+"1869","Portsmouth","Coventry",NA,NA,NA
+"1870","Portsmouth","Man United",0.428571428571429,0,0.142857142857143
+"1871","Portsmouth","QPR",NA,NA,NA
+"1872","Portsmouth","Sheffield Weds",NA,NA,NA
+"1873","Portsmouth","Swindon",NA,NA,NA
+"1874","Portsmouth","Crystal Palace",1,1,0
+"1875","Portsmouth","Leicester",0,0,0
+"1876","Portsmouth","Nottingham Forest",NA,NA,NA
+"1877","Portsmouth","Bolton",0.428571428571429,0.285714285714286,0.285714285714286
+"1878","Portsmouth","Middlesbrough",0.666666666666667,0.166666666666667,0.166666666666667
+"1879","Portsmouth","Derby",1,0,0
+"1880","Portsmouth","Sunderland",0.75,0.5,0.25
+"1881","Portsmouth","Barnsley",NA,NA,NA
+"1882","Portsmouth","Charlton",0.25,0.25,0
+"1883","Portsmouth","Watford",1,0,0
+"1884","Portsmouth","Brentford",NA,NA,NA
+"1885","Portsmouth","Fulham",0.285714285714286,0.285714285714286,0.428571428571429
+"1886","Portsmouth","Birmingham",0.4,0.2,0.4
+"1887","Portsmouth","Middlesboro",NA,NA,NA
+"1888","Portsmouth","West Brom",0.666666666666667,0,0.333333333333333
+"1889","Portsmouth","Portsmouth",NA,NA,NA
+"1890","Portsmouth","Wolves",0.5,0.5,0.5
+"1891","Portsmouth","Wigan",0.6,0.4,0
+"1892","Portsmouth","Reading",1,0.5,0
+"1893","Portsmouth","Hull",0.5,0,0.5
+"1894","Portsmouth","Spurs",0.5,0,0
+"1895","Portsmouth","Burnley",1,1,0
+"1896","Portsmouth","Blackpool",NA,NA,NA
+"1897","Portsmouth","Swansea",NA,NA,NA
+"1898","Portsmouth","Cardiff",NA,NA,NA
+"1899","Portsmouth","Bournemouth",NA,NA,NA
+"1900","Portsmouth","Brighton",NA,NA,NA
+"1901","Portsmouth","Huddersfield",NA,NA,NA
+"1902","Wolves","Arsenal",0,0,0
+"1903","Wolves","Aston Villa",0,0.25,0.25
+"1904","Wolves","Chelsea",0.25,0,0
+"1905","Wolves","Liverpool",0,0.25,0.5
+"1906","Wolves","Man City",0.5,0,0
+"1907","Wolves","Newcastle",0,0,0.666666666666667
+"1908","Wolves","Oldham",NA,NA,NA
+"1909","Wolves","Sheffield United",NA,NA,NA
+"1910","Wolves","Southampton",0,0,0
+"1911","Wolves","West Ham",0,0.5,0.5
+"1912","Wolves","Norwich",0,0,1
+"1913","Wolves","Tottenham",0.25,0.25,0.25
+"1914","Wolves","Everton",0.25,0,0.5
+"1915","Wolves","Ipswich",NA,NA,NA
+"1916","Wolves","Leeds",1,0,0
+"1917","Wolves","Wimbledon",NA,NA,NA
+"1918","Wolves","Blackburn",0,0.25,0.5
+"1919","Wolves","Coventry",NA,NA,NA
+"1920","Wolves","Man United",0.5,0,0
+"1921","Wolves","QPR",0,1,0
+"1922","Wolves","Sheffield Weds",NA,NA,NA
+"1923","Wolves","Swindon",NA,NA,NA
+"1924","Wolves","Crystal Palace",NA,NA,NA
+"1925","Wolves","Leicester",1,0,0
+"1926","Wolves","Nottingham Forest",NA,NA,NA
+"1927","Wolves","Bolton",0.25,0,0
+"1928","Wolves","Middlesbrough",1,0,0
+"1929","Wolves","Derby",NA,NA,NA
+"1930","Wolves","Sunderland",1,0.333333333333333,0
+"1931","Wolves","Barnsley",NA,NA,NA
+"1932","Wolves","Charlton",0,0,0
+"1933","Wolves","Watford",NA,NA,NA
+"1934","Wolves","Brentford",NA,NA,NA
+"1935","Wolves","Fulham",0.75,0,0.25
+"1936","Wolves","Birmingham",0.333333333333333,0,0.333333333333333
+"1937","Wolves","Middlesboro",NA,NA,NA
+"1938","Wolves","West Brom",0.5,0,0
+"1939","Wolves","Portsmouth",0,0,0.5
+"1940","Wolves","Wolves",NA,NA,NA
+"1941","Wolves","Wigan",0.333333333333333,0.333333333333333,0
+"1942","Wolves","Reading",NA,NA,NA
+"1943","Wolves","Hull",0,0,1
+"1944","Wolves","Spurs",0.333333333333333,0,0.333333333333333
+"1945","Wolves","Burnley",1,1,0
+"1946","Wolves","Blackpool",1,0,0
+"1947","Wolves","Swansea",0,0,1
+"1948","Wolves","Cardiff",NA,NA,NA
+"1949","Wolves","Bournemouth",NA,NA,NA
+"1950","Wolves","Brighton",NA,NA,NA
+"1951","Wolves","Huddersfield",NA,NA,NA
+"1952","Wigan","Arsenal",0.125,0.125,0.25
+"1953","Wigan","Aston Villa",0.125,0.5,0.375
+"1954","Wigan","Chelsea",0.125,0,0.125
+"1955","Wigan","Liverpool",0.125,0.125,0.375
+"1956","Wigan","Man City",0.375,0.25,0.25
+"1957","Wigan","Newcastle",0.857142857142857,0,0
+"1958","Wigan","Oldham",NA,NA,NA
+"1959","Wigan","Sheffield United",0,1,0
+"1960","Wigan","Southampton",0,1,1
+"1961","Wigan","West Ham",0.571428571428571,0.285714285714286,0
+"1962","Wigan","Norwich",0.5,0,0.5
+"1963","Wigan","Tottenham",0.125,0.25,0.5
+"1964","Wigan","Everton",0.125,0.125,0.5
+"1965","Wigan","Ipswich",NA,NA,NA
+"1966","Wigan","Leeds",NA,NA,NA
+"1967","Wigan","Wimbledon",NA,NA,NA
+"1968","Wigan","Blackburn",0.428571428571429,0.142857142857143,0.285714285714286
+"1969","Wigan","Coventry",NA,NA,NA
+"1970","Wigan","Man United",0.125,0,0
+"1971","Wigan","QPR",0.5,0,0.5
+"1972","Wigan","Sheffield Weds",NA,NA,NA
+"1973","Wigan","Swindon",NA,NA,NA
+"1974","Wigan","Crystal Palace",NA,NA,NA
+"1975","Wigan","Leicester",NA,NA,NA
+"1976","Wigan","Nottingham Forest",NA,NA,NA
+"1977","Wigan","Bolton",0.285714285714286,0.428571428571429,0.428571428571429
+"1978","Wigan","Middlesbrough",0.25,0.25,0.25
+"1979","Wigan","Derby",1,1,0
+"1980","Wigan","Sunderland",0.428571428571429,0.428571428571429,0.285714285714286
+"1981","Wigan","Barnsley",NA,NA,NA
+"1982","Wigan","Charlton",1,0,0
+"1983","Wigan","Watford",0,0,1
+"1984","Wigan","Brentford",NA,NA,NA
+"1985","Wigan","Fulham",0.125,0.125,0.625
+"1986","Wigan","Birmingham",0.5,0,0.25
+"1987","Wigan","Middlesboro",NA,NA,NA
+"1988","Wigan","West Brom",0.4,0.6,0.2
+"1989","Wigan","Portsmouth",0.4,0.4,0.2
+"1990","Wigan","Wolves",0.666666666666667,0.666666666666667,0
+"1991","Wigan","Wigan",NA,NA,NA
+"1992","Wigan","Reading",0.666666666666667,0.333333333333333,0.333333333333333
+"1993","Wigan","Hull",0.5,0.5,0.5
+"1994","Wigan","Spurs",0.2,0.2,0.8
+"1995","Wigan","Burnley",1,1,0
+"1996","Wigan","Blackpool",0,1,0
+"1997","Wigan","Swansea",0,0,0
+"1998","Wigan","Cardiff",NA,NA,NA
+"1999","Wigan","Bournemouth",NA,NA,NA
+"2000","Wigan","Brighton",NA,NA,NA
+"2001","Wigan","Huddersfield",NA,NA,NA
+"2002","Reading","Arsenal",0,0,0
+"2003","Reading","Aston Villa",0.333333333333333,0,0
+"2004","Reading","Chelsea",0,0,0.333333333333333
+"2005","Reading","Liverpool",0.333333333333333,0,0.333333333333333
+"2006","Reading","Man City",0.666666666666667,0.333333333333333,0
+"2007","Reading","Newcastle",0.666666666666667,0.333333333333333,0.333333333333333
+"2008","Reading","Oldham",NA,NA,NA
+"2009","Reading","Sheffield United",1,1,0
+"2010","Reading","Southampton",0,0,0
+"2011","Reading","West Ham",0.666666666666667,0.333333333333333,0
+"2012","Reading","Norwich",0,0,1
+"2013","Reading","Tottenham",0.333333333333333,0,0
+"2014","Reading","Everton",0.666666666666667,0,0
+"2015","Reading","Ipswich",NA,NA,NA
+"2016","Reading","Leeds",NA,NA,NA
+"2017","Reading","Wimbledon",NA,NA,NA
+"2018","Reading","Blackburn",0,0,0.5
+"2019","Reading","Coventry",NA,NA,NA
+"2020","Reading","Man United",0,0,0.333333333333333
+"2021","Reading","QPR",0,0,1
+"2022","Reading","Sheffield Weds",NA,NA,NA
+"2023","Reading","Swindon",NA,NA,NA
+"2024","Reading","Crystal Palace",NA,NA,NA
+"2025","Reading","Leicester",NA,NA,NA
+"2026","Reading","Nottingham Forest",NA,NA,NA
+"2027","Reading","Bolton",0.5,0.5,0
+"2028","Reading","Middlesbrough",0.5,0.5,0.5
+"2029","Reading","Derby",1,1,0
+"2030","Reading","Sunderland",1,0,0
+"2031","Reading","Barnsley",NA,NA,NA
+"2032","Reading","Charlton",1,0,0
+"2033","Reading","Watford",0,0,0
+"2034","Reading","Brentford",NA,NA,NA
+"2035","Reading","Fulham",0.333333333333333,0.666666666666667,0.333333333333333
+"2036","Reading","Birmingham",1,0,0
+"2037","Reading","Middlesboro",NA,NA,NA
+"2038","Reading","West Brom",1,0,0
+"2039","Reading","Portsmouth",0,0,0.5
+"2040","Reading","Wolves",NA,NA,NA
+"2041","Reading","Wigan",0.666666666666667,0,0
+"2042","Reading","Reading",NA,NA,NA
+"2043","Reading","Hull",NA,NA,NA
+"2044","Reading","Spurs",0,0,1
+"2045","Reading","Burnley",NA,NA,NA
+"2046","Reading","Blackpool",NA,NA,NA
+"2047","Reading","Swansea",0,0,1
+"2048","Reading","Cardiff",NA,NA,NA
+"2049","Reading","Bournemouth",NA,NA,NA
+"2050","Reading","Brighton",NA,NA,NA
+"2051","Reading","Huddersfield",NA,NA,NA
+"2052","Hull","Arsenal",0,0.2,0
+"2053","Hull","Aston Villa",0.25,0,0.25
+"2054","Hull","Chelsea",0,0,0.2
+"2055","Hull","Liverpool",0.6,0,0.2
+"2056","Hull","Man City",0.2,0,0.2
+"2057","Hull","Newcastle",0,0.666666666666667,0.333333333333333
+"2058","Hull","Oldham",NA,NA,NA
+"2059","Hull","Sheffield United",NA,NA,NA
+"2060","Hull","Southampton",0.333333333333333,0,0
+"2061","Hull","West Ham",0.6,0,0.4
+"2062","Hull","Norwich",1,0,0
+"2063","Hull","Tottenham",0,0.2,0.2
+"2064","Hull","Everton",0.4,0,0.4
+"2065","Hull","Ipswich",NA,NA,NA
+"2066","Hull","Leeds",NA,NA,NA
+"2067","Hull","Wimbledon",NA,NA,NA
+"2068","Hull","Blackburn",0,0,0.5
+"2069","Hull","Coventry",NA,NA,NA
+"2070","Hull","Man United",0,0,0.2
+"2071","Hull","QPR",1,1,0
+"2072","Hull","Sheffield Weds",NA,NA,NA
+"2073","Hull","Swindon",NA,NA,NA
+"2074","Hull","Crystal Palace",0.333333333333333,0.333333333333333,0.333333333333333
+"2075","Hull","Leicester",0.5,0,0
+"2076","Hull","Nottingham Forest",NA,NA,NA
+"2077","Hull","Bolton",0.5,0,0
+"2078","Hull","Middlesbrough",1,0,0
+"2079","Hull","Derby",NA,NA,NA
+"2080","Hull","Sunderland",0.2,0.4,0.2
+"2081","Hull","Barnsley",NA,NA,NA
+"2082","Hull","Charlton",NA,NA,NA
+"2083","Hull","Watford",1,0,0
+"2084","Hull","Brentford",NA,NA,NA
+"2085","Hull","Fulham",1,0.333333333333333,0
+"2086","Hull","Birmingham",0,0,0
+"2087","Hull","Middlesboro",NA,NA,NA
+"2088","Hull","West Brom",0.25,0.25,0.75
+"2089","Hull","Portsmouth",0,0,1
+"2090","Hull","Wolves",0,0,1
+"2091","Hull","Wigan",0.5,0,0
+"2092","Hull","Reading",NA,NA,NA
+"2093","Hull","Hull",NA,NA,NA
+"2094","Hull","Spurs",0.2,0,0.4
+"2095","Hull","Burnley",0,0,0.333333333333333
+"2096","Hull","Blackpool",NA,NA,NA
+"2097","Hull","Swansea",0.666666666666667,0.333333333333333,0
+"2098","Hull","Cardiff",0,1,1
+"2099","Hull","Bournemouth",1,0,0
+"2100","Hull","Brighton",NA,NA,NA
+"2101","Hull","Huddersfield",NA,NA,NA
+"2102","Spurs","Arsenal",0.5,0,0.3
+"2103","Spurs","Aston Villa",0.5,0.375,0.25
+"2104","Spurs","Chelsea",0.2,0,0.2
+"2105","Spurs","Liverpool",0.4,0,0.2
+"2106","Spurs","Man City",0.2,0.1,0.5
+"2107","Spurs","Newcastle",0.625,0.125,0.125
+"2108","Spurs","Oldham",NA,NA,NA
+"2109","Spurs","Sheffield United",NA,NA,NA
+"2110","Spurs","Southampton",0.333333333333333,0.333333333333333,0.5
+"2111","Spurs","West Ham",0.333333333333333,0.222222222222222,0.333333333333333
+"2112","Spurs","Norwich",0.75,0,0
+"2113","Spurs","Tottenham",0.3,0.2,0
+"2114","Spurs","Everton",0.2,0.3,0.5
+"2115","Spurs","Ipswich",NA,NA,NA
+"2116","Spurs","Leeds",NA,NA,NA
+"2117","Spurs","Wimbledon",NA,NA,NA
+"2118","Spurs","Blackburn",1,0.5,0
+"2119","Spurs","Coventry",NA,NA,NA
+"2120","Spurs","Man United",0.2,0,0.4
+"2121","Spurs","QPR",0.666666666666667,0.333333333333333,0
+"2122","Spurs","Sheffield Weds",NA,NA,NA
+"2123","Spurs","Swindon",NA,NA,NA
+"2124","Spurs","Crystal Palace",0.4,0,0
+"2125","Spurs","Leicester",0,0.25,0.75
+"2126","Spurs","Nottingham Forest",NA,NA,NA
+"2127","Spurs","Bolton",0.5,0,0.25
+"2128","Spurs","Middlesbrough",1,0,0
+"2129","Spurs","Derby",NA,NA,NA
+"2130","Spurs","Sunderland",0.555555555555556,0.111111111111111,0.333333333333333
+"2131","Spurs","Barnsley",NA,NA,NA
+"2132","Spurs","Charlton",NA,NA,NA
+"2133","Spurs","Watford",0.333333333333333,1,0.333333333333333
+"2134","Spurs","Brentford",NA,NA,NA
+"2135","Spurs","Fulham",0.666666666666667,0.166666666666667,0.166666666666667
+"2136","Spurs","Birmingham",0.5,0,0
+"2137","Spurs","Middlesboro",NA,NA,NA
+"2138","Spurs","West Brom",0.333333333333333,0.555555555555556,0.444444444444444
+"2139","Spurs","Portsmouth",0.5,0.5,0.5
+"2140","Spurs","Wolves",0.666666666666667,0.333333333333333,0.333333333333333
+"2141","Spurs","Wigan",0.2,0,0.6
+"2142","Spurs","Reading",1,0,0
+"2143","Spurs","Hull",0.8,0.4,0.2
+"2144","Spurs","Spurs",NA,NA,NA
+"2145","Spurs","Burnley",0.5,0,0.25
+"2146","Spurs","Blackpool",0,0,0
+"2147","Spurs","Swansea",0.714285714285714,0.285714285714286,0.285714285714286
+"2148","Spurs","Cardiff",0,0,1
+"2149","Spurs","Bournemouth",0.333333333333333,0.333333333333333,0
+"2150","Spurs","Brighton",0,0,1
+"2151","Spurs","Huddersfield",1,0,0
+"2152","Burnley","Arsenal",0,0,0.25
+"2153","Burnley","Aston Villa",0,0.5,1
+"2154","Burnley","Chelsea",0,0.25,0.25
+"2155","Burnley","Liverpool",0.25,0,0
+"2156","Burnley","Man City",0.25,0,0.25
+"2157","Burnley","Newcastle",0.5,0,0.5
+"2158","Burnley","Oldham",NA,NA,NA
+"2159","Burnley","Sheffield United",NA,NA,NA
+"2160","Burnley","Southampton",0.666666666666667,0.333333333333333,0.333333333333333
+"2161","Burnley","West Ham",0.25,0.25,0.25
+"2162","Burnley","Norwich",NA,NA,NA
+"2163","Burnley","Tottenham",0.25,0,0.25
+"2164","Burnley","Everton",0.75,0.25,0
+"2165","Burnley","Ipswich",NA,NA,NA
+"2166","Burnley","Leeds",NA,NA,NA
+"2167","Burnley","Wimbledon",NA,NA,NA
+"2168","Burnley","Blackburn",0,0,0
+"2169","Burnley","Coventry",NA,NA,NA
+"2170","Burnley","Man United",0.25,0,0.25
+"2171","Burnley","QPR",1,0,0
+"2172","Burnley","Sheffield Weds",NA,NA,NA
+"2173","Burnley","Swindon",NA,NA,NA
+"2174","Burnley","Crystal Palace",0.666666666666667,0.333333333333333,0
+"2175","Burnley","Leicester",0.666666666666667,0,0
+"2176","Burnley","Nottingham Forest",NA,NA,NA
+"2177","Burnley","Bolton",0,0,1
+"2178","Burnley","Middlesbrough",1,0,0
+"2179","Burnley","Derby",NA,NA,NA
+"2180","Burnley","Sunderland",0.666666666666667,0,0.333333333333333
+"2181","Burnley","Barnsley",NA,NA,NA
+"2182","Burnley","Charlton",NA,NA,NA
+"2183","Burnley","Watford",1,0.5,0
+"2184","Burnley","Brentford",NA,NA,NA
+"2185","Burnley","Fulham",0,0,1
+"2186","Burnley","Birmingham",1,0,0
+"2187","Burnley","Middlesboro",NA,NA,NA
+"2188","Burnley","West Brom",0,0.333333333333333,0.666666666666667
+"2189","Burnley","Portsmouth",0,0,0
+"2190","Burnley","Wolves",0,0,0
+"2191","Burnley","Wigan",0,0,0
+"2192","Burnley","Reading",NA,NA,NA
+"2193","Burnley","Hull",0.666666666666667,0.666666666666667,0.333333333333333
+"2194","Burnley","Spurs",0.5,0.25,0.5
+"2195","Burnley","Burnley",NA,NA,NA
+"2196","Burnley","Blackpool",NA,NA,NA
+"2197","Burnley","Swansea",0.333333333333333,0,0
+"2198","Burnley","Cardiff",NA,NA,NA
+"2199","Burnley","Bournemouth",0.5,0.5,0
+"2200","Burnley","Brighton",0,0,1
+"2201","Burnley","Huddersfield",0,0,1
+"2202","Blackpool","Arsenal",0,0,0
+"2203","Blackpool","Aston Villa",0,0,1
+"2204","Blackpool","Chelsea",0,0,0
+"2205","Blackpool","Liverpool",1,1,0
+"2206","Blackpool","Man City",0,0,0
+"2207","Blackpool","Newcastle",0,1,1
+"2208","Blackpool","Oldham",NA,NA,NA
+"2209","Blackpool","Sheffield United",NA,NA,NA
+"2210","Blackpool","Southampton",NA,NA,NA
+"2211","Blackpool","West Ham",0,0,0
+"2212","Blackpool","Norwich",NA,NA,NA
+"2213","Blackpool","Tottenham",1,0,0
+"2214","Blackpool","Everton",0,0,1
+"2215","Blackpool","Ipswich",NA,NA,NA
+"2216","Blackpool","Leeds",NA,NA,NA
+"2217","Blackpool","Wimbledon",NA,NA,NA
+"2218","Blackpool","Blackburn",0,0,0
+"2219","Blackpool","Coventry",NA,NA,NA
+"2220","Blackpool","Man United",0,0,0
+"2221","Blackpool","QPR",NA,NA,NA
+"2222","Blackpool","Sheffield Weds",NA,NA,NA
+"2223","Blackpool","Swindon",NA,NA,NA
+"2224","Blackpool","Crystal Palace",NA,NA,NA
+"2225","Blackpool","Leicester",NA,NA,NA
+"2226","Blackpool","Nottingham Forest",NA,NA,NA
+"2227","Blackpool","Bolton",1,0,0
+"2228","Blackpool","Middlesbrough",NA,NA,NA
+"2229","Blackpool","Derby",NA,NA,NA
+"2230","Blackpool","Sunderland",0,1,0
+"2231","Blackpool","Barnsley",NA,NA,NA
+"2232","Blackpool","Charlton",NA,NA,NA
+"2233","Blackpool","Watford",NA,NA,NA
+"2234","Blackpool","Brentford",NA,NA,NA
+"2235","Blackpool","Fulham",0,0,1
+"2236","Blackpool","Birmingham",0,0,0
+"2237","Blackpool","Middlesboro",NA,NA,NA
+"2238","Blackpool","West Brom",1,0,0
+"2239","Blackpool","Portsmouth",NA,NA,NA
+"2240","Blackpool","Wolves",1,0,0
+"2241","Blackpool","Wigan",0,1,0
+"2242","Blackpool","Reading",NA,NA,NA
+"2243","Blackpool","Hull",NA,NA,NA
+"2244","Blackpool","Spurs",0,1,1
+"2245","Blackpool","Burnley",NA,NA,NA
+"2246","Blackpool","Blackpool",NA,NA,NA
+"2247","Blackpool","Swansea",NA,NA,NA
+"2248","Blackpool","Cardiff",NA,NA,NA
+"2249","Blackpool","Bournemouth",NA,NA,NA
+"2250","Blackpool","Brighton",NA,NA,NA
+"2251","Blackpool","Huddersfield",NA,NA,NA
+"2252","Swansea","Arsenal",0.428571428571429,0.428571428571429,0
+"2253","Swansea","Aston Villa",0.6,0.6,0.4
+"2254","Swansea","Chelsea",0.142857142857143,0,0.428571428571429
+"2255","Swansea","Liverpool",0.428571428571429,0.142857142857143,0.285714285714286
+"2256","Swansea","Man City",0.142857142857143,0,0.285714285714286
+"2257","Swansea","Newcastle",0.5,0.5,0.166666666666667
+"2258","Swansea","Oldham",NA,NA,NA
+"2259","Swansea","Sheffield United",NA,NA,NA
+"2260","Swansea","Southampton",0.166666666666667,0.166666666666667,0.166666666666667
+"2261","Swansea","West Ham",0.333333333333333,0.166666666666667,0.5
+"2262","Swansea","Norwich",0.5,0,0
+"2263","Swansea","Tottenham",0,0,0.285714285714286
+"2264","Swansea","Everton",0.142857142857143,0.142857142857143,0.428571428571429
+"2265","Swansea","Ipswich",NA,NA,NA
+"2266","Swansea","Leeds",NA,NA,NA
+"2267","Swansea","Wimbledon",NA,NA,NA
+"2268","Swansea","Blackburn",1,0,0
+"2269","Swansea","Coventry",NA,NA,NA
+"2270","Swansea","Man United",0.285714285714286,0.142857142857143,0.142857142857143
+"2271","Swansea","QPR",0.666666666666667,0.333333333333333,0.333333333333333
+"2272","Swansea","Sheffield Weds",NA,NA,NA
+"2273","Swansea","Swindon",NA,NA,NA
+"2274","Swansea","Crystal Palace",0.2,0.6,0.8
+"2275","Swansea","Leicester",0.5,0,0
+"2276","Swansea","Nottingham Forest",NA,NA,NA
+"2277","Swansea","Bolton",1,0,0
+"2278","Swansea","Middlesbrough",0,0,1
+"2279","Swansea","Derby",NA,NA,NA
+"2280","Swansea","Sunderland",0.333333333333333,0.333333333333333,0.5
+"2281","Swansea","Barnsley",NA,NA,NA
+"2282","Swansea","Charlton",NA,NA,NA
+"2283","Swansea","Watford",0.333333333333333,0.333333333333333,0.333333333333333
+"2284","Swansea","Brentford",NA,NA,NA
+"2285","Swansea","Fulham",0.666666666666667,1,0
+"2286","Swansea","Birmingham",NA,NA,NA
+"2287","Swansea","Middlesboro",NA,NA,NA
+"2288","Swansea","West Brom",0.857142857142857,0.285714285714286,0
+"2289","Swansea","Portsmouth",NA,NA,NA
+"2290","Swansea","Wolves",0,0,1
+"2291","Swansea","Wigan",0.5,1,0.5
+"2292","Swansea","Reading",0,0,1
+"2293","Swansea","Hull",0.333333333333333,0.333333333333333,0.333333333333333
+"2294","Swansea","Spurs",0.571428571428571,0,0.142857142857143
+"2295","Swansea","Burnley",1,0.666666666666667,0
+"2296","Swansea","Blackpool",NA,NA,NA
+"2297","Swansea","Swansea",NA,NA,NA
+"2298","Swansea","Cardiff",1,0,0
+"2299","Swansea","Bournemouth",0,0,0.666666666666667
+"2300","Swansea","Brighton",0,0,0
+"2301","Swansea","Huddersfield",1,0,0
+"2302","Cardiff","Arsenal",0,0,0
+"2303","Cardiff","Aston Villa",0,0,1
+"2304","Cardiff","Chelsea",0,0,0
+"2305","Cardiff","Liverpool",0,0,0
+"2306","Cardiff","Man City",1,0,0
+"2307","Cardiff","Newcastle",0,0,0
+"2308","Cardiff","Oldham",NA,NA,NA
+"2309","Cardiff","Sheffield United",NA,NA,NA
+"2310","Cardiff","Southampton",0,1,0
+"2311","Cardiff","West Ham",0,0,0
+"2312","Cardiff","Norwich",1,0,0
+"2313","Cardiff","Tottenham",0,0,0
+"2314","Cardiff","Everton",0,0,1
+"2315","Cardiff","Ipswich",NA,NA,NA
+"2316","Cardiff","Leeds",NA,NA,NA
+"2317","Cardiff","Wimbledon",NA,NA,NA
+"2318","Cardiff","Blackburn",NA,NA,NA
+"2319","Cardiff","Coventry",NA,NA,NA
+"2320","Cardiff","Man United",0,0,1
+"2321","Cardiff","QPR",NA,NA,NA
+"2322","Cardiff","Sheffield Weds",NA,NA,NA
+"2323","Cardiff","Swindon",NA,NA,NA
+"2324","Cardiff","Crystal Palace",0,0,0
+"2325","Cardiff","Leicester",NA,NA,NA
+"2326","Cardiff","Nottingham Forest",NA,NA,NA
+"2327","Cardiff","Bolton",NA,NA,NA
+"2328","Cardiff","Middlesbrough",NA,NA,NA
+"2329","Cardiff","Derby",NA,NA,NA
+"2330","Cardiff","Sunderland",0,0,1
+"2331","Cardiff","Barnsley",NA,NA,NA
+"2332","Cardiff","Charlton",NA,NA,NA
+"2333","Cardiff","Watford",NA,NA,NA
+"2334","Cardiff","Brentford",NA,NA,NA
+"2335","Cardiff","Fulham",1,1,0
+"2336","Cardiff","Birmingham",NA,NA,NA
+"2337","Cardiff","Middlesboro",NA,NA,NA
+"2338","Cardiff","West Brom",1,0,0
+"2339","Cardiff","Portsmouth",NA,NA,NA
+"2340","Cardiff","Wolves",NA,NA,NA
+"2341","Cardiff","Wigan",NA,NA,NA
+"2342","Cardiff","Reading",NA,NA,NA
+"2343","Cardiff","Hull",0,0,0
+"2344","Cardiff","Spurs",0,0,1
+"2345","Cardiff","Burnley",NA,NA,NA
+"2346","Cardiff","Blackpool",NA,NA,NA
+"2347","Cardiff","Swansea",1,0,0
+"2348","Cardiff","Cardiff",NA,NA,NA
+"2349","Cardiff","Bournemouth",NA,NA,NA
+"2350","Cardiff","Brighton",NA,NA,NA
+"2351","Cardiff","Huddersfield",NA,NA,NA
+"2352","Bournemouth","Arsenal",0.333333333333333,0,0.333333333333333
+"2353","Bournemouth","Aston Villa",0,1,0
+"2354","Bournemouth","Chelsea",0,0.666666666666667,0
+"2355","Bournemouth","Liverpool",0.333333333333333,0,0
+"2356","Bournemouth","Man City",0,0,0
+"2357","Bournemouth","Newcastle",0,1,0.5
+"2358","Bournemouth","Oldham",NA,NA,NA
+"2359","Bournemouth","Sheffield United",NA,NA,NA
+"2360","Bournemouth","Southampton",0.333333333333333,0,0.333333333333333
+"2361","Bournemouth","West Ham",0.333333333333333,0.333333333333333,0.333333333333333
+"2362","Bournemouth","Norwich",1,0,0
+"2363","Bournemouth","Tottenham",0,0,0.333333333333333
+"2364","Bournemouth","Everton",0.666666666666667,0,0.333333333333333
+"2365","Bournemouth","Ipswich",NA,NA,NA
+"2366","Bournemouth","Leeds",NA,NA,NA
+"2367","Bournemouth","Wimbledon",NA,NA,NA
+"2368","Bournemouth","Blackburn",NA,NA,NA
+"2369","Bournemouth","Coventry",NA,NA,NA
+"2370","Bournemouth","Man United",0.333333333333333,0,0
+"2371","Bournemouth","QPR",NA,NA,NA
+"2372","Bournemouth","Sheffield Weds",NA,NA,NA
+"2373","Bournemouth","Swindon",NA,NA,NA
+"2374","Bournemouth","Crystal Palace",0,0.333333333333333,0.666666666666667
+"2375","Bournemouth","Leicester",0.333333333333333,0,0.666666666666667
+"2376","Bournemouth","Nottingham Forest",NA,NA,NA
+"2377","Bournemouth","Bolton",NA,NA,NA
+"2378","Bournemouth","Middlesbrough",1,0,0
+"2379","Bournemouth","Derby",NA,NA,NA
+"2380","Bournemouth","Sunderland",0.5,0.5,0
+"2381","Bournemouth","Barnsley",NA,NA,NA
+"2382","Bournemouth","Charlton",NA,NA,NA
+"2383","Bournemouth","Watford",0,0,0.666666666666667
+"2384","Bournemouth","Brentford",NA,NA,NA
+"2385","Bournemouth","Fulham",NA,NA,NA
+"2386","Bournemouth","Birmingham",NA,NA,NA
+"2387","Bournemouth","Middlesboro",NA,NA,NA
+"2388","Bournemouth","West Brom",0.666666666666667,0.333333333333333,0.333333333333333
+"2389","Bournemouth","Portsmouth",NA,NA,NA
+"2390","Bournemouth","Wolves",NA,NA,NA
+"2391","Bournemouth","Wigan",NA,NA,NA
+"2392","Bournemouth","Reading",NA,NA,NA
+"2393","Bournemouth","Hull",1,0,0
+"2394","Bournemouth","Spurs",0.333333333333333,0.666666666666667,0.333333333333333
+"2395","Bournemouth","Burnley",0.5,0.5,0
+"2396","Bournemouth","Blackpool",NA,NA,NA
+"2397","Bournemouth","Swansea",1,0.333333333333333,0
+"2398","Bournemouth","Cardiff",NA,NA,NA
+"2399","Bournemouth","Bournemouth",NA,NA,NA
+"2400","Bournemouth","Brighton",1,0,0
+"2401","Bournemouth","Huddersfield",1,0,0
+"2402","Brighton","Arsenal",1,0,0
+"2403","Brighton","Aston Villa",NA,NA,NA
+"2404","Brighton","Chelsea",0,0,0
+"2405","Brighton","Liverpool",0,0,0
+"2406","Brighton","Man City",0,0,0
+"2407","Brighton","Newcastle",1,0,0
+"2408","Brighton","Oldham",NA,NA,NA
+"2409","Brighton","Sheffield United",NA,NA,NA
+"2410","Brighton","Southampton",0,0,1
+"2411","Brighton","West Ham",1,1,0
+"2412","Brighton","Norwich",NA,NA,NA
+"2413","Brighton","Tottenham",0,0,1
+"2414","Brighton","Everton",0,0,1
+"2415","Brighton","Ipswich",NA,NA,NA
+"2416","Brighton","Leeds",NA,NA,NA
+"2417","Brighton","Wimbledon",NA,NA,NA
+"2418","Brighton","Blackburn",NA,NA,NA
+"2419","Brighton","Coventry",NA,NA,NA
+"2420","Brighton","Man United",1,0,0
+"2421","Brighton","QPR",NA,NA,NA
+"2422","Brighton","Sheffield Weds",NA,NA,NA
+"2423","Brighton","Swindon",NA,NA,NA
+"2424","Brighton","Crystal Palace",0,0,1
+"2425","Brighton","Leicester",0,0,0
+"2426","Brighton","Nottingham Forest",NA,NA,NA
+"2427","Brighton","Bolton",NA,NA,NA
+"2428","Brighton","Middlesbrough",NA,NA,NA
+"2429","Brighton","Derby",NA,NA,NA
+"2430","Brighton","Sunderland",NA,NA,NA
+"2431","Brighton","Barnsley",NA,NA,NA
+"2432","Brighton","Charlton",NA,NA,NA
+"2433","Brighton","Watford",1,0,0
+"2434","Brighton","Brentford",NA,NA,NA
+"2435","Brighton","Fulham",NA,NA,NA
+"2436","Brighton","Birmingham",NA,NA,NA
+"2437","Brighton","Middlesboro",NA,NA,NA
+"2438","Brighton","West Brom",1,0,0
+"2439","Brighton","Portsmouth",NA,NA,NA
+"2440","Brighton","Wolves",NA,NA,NA
+"2441","Brighton","Wigan",NA,NA,NA
+"2442","Brighton","Reading",NA,NA,NA
+"2443","Brighton","Hull",NA,NA,NA
+"2444","Brighton","Spurs",0,0,1
+"2445","Brighton","Burnley",0,0,1
+"2446","Brighton","Blackpool",NA,NA,NA
+"2447","Brighton","Swansea",1,1,0
+"2448","Brighton","Cardiff",NA,NA,NA
+"2449","Brighton","Bournemouth",0,0,1
+"2450","Brighton","Brighton",NA,NA,NA
+"2451","Brighton","Huddersfield",0,0,1
+"2452","Huddersfield","Arsenal",0,0,0
+"2453","Huddersfield","Aston Villa",NA,NA,NA
+"2454","Huddersfield","Chelsea",0,0,0
+"2455","Huddersfield","Liverpool",0,0,0
+"2456","Huddersfield","Man City",0,0,0
+"2457","Huddersfield","Newcastle",1,0,0
+"2458","Huddersfield","Oldham",NA,NA,NA
+"2459","Huddersfield","Sheffield United",NA,NA,NA
+"2460","Huddersfield","Southampton",0,0,1
+"2461","Huddersfield","West Ham",0,0,0
+"2462","Huddersfield","Norwich",NA,NA,NA
+"2463","Huddersfield","Tottenham",0,0,0
+"2464","Huddersfield","Everton",0,0,0
+"2465","Huddersfield","Ipswich",NA,NA,NA
+"2466","Huddersfield","Leeds",NA,NA,NA
+"2467","Huddersfield","Wimbledon",NA,NA,NA
+"2468","Huddersfield","Blackburn",NA,NA,NA
+"2469","Huddersfield","Coventry",NA,NA,NA
+"2470","Huddersfield","Man United",1,0,0
+"2471","Huddersfield","QPR",NA,NA,NA
+"2472","Huddersfield","Sheffield Weds",NA,NA,NA
+"2473","Huddersfield","Swindon",NA,NA,NA
+"2474","Huddersfield","Crystal Palace",0,1,0
+"2475","Huddersfield","Leicester",0,0,1
+"2476","Huddersfield","Nottingham Forest",NA,NA,NA
+"2477","Huddersfield","Bolton",NA,NA,NA
+"2478","Huddersfield","Middlesbrough",NA,NA,NA
+"2479","Huddersfield","Derby",NA,NA,NA
+"2480","Huddersfield","Sunderland",NA,NA,NA
+"2481","Huddersfield","Barnsley",NA,NA,NA
+"2482","Huddersfield","Charlton",NA,NA,NA
+"2483","Huddersfield","Watford",1,1,0
+"2484","Huddersfield","Brentford",NA,NA,NA
+"2485","Huddersfield","Fulham",NA,NA,NA
+"2486","Huddersfield","Birmingham",NA,NA,NA
+"2487","Huddersfield","Middlesboro",NA,NA,NA
+"2488","Huddersfield","West Brom",1,1,0
+"2489","Huddersfield","Portsmouth",NA,NA,NA
+"2490","Huddersfield","Wolves",NA,NA,NA
+"2491","Huddersfield","Wigan",NA,NA,NA
+"2492","Huddersfield","Reading",NA,NA,NA
+"2493","Huddersfield","Hull",NA,NA,NA
+"2494","Huddersfield","Spurs",0,0,1
+"2495","Huddersfield","Burnley",0,0,1
+"2496","Huddersfield","Blackpool",NA,NA,NA
+"2497","Huddersfield","Swansea",0,0,1
+"2498","Huddersfield","Cardiff",NA,NA,NA
+"2499","Huddersfield","Bournemouth",1,0,0
+"2500","Huddersfield","Brighton",1,0,0
+"2501","Huddersfield","Huddersfield",NA,NA,NA

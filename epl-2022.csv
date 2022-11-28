@@ -1,0 +1,381 @@
+"","Match.Number","Round.Number","Date","Location","HomeTeam","AwayTeam","homeWinPct","awayWinPct","homeDrawPct","homeOdds","awayOdds","drawOdds"
+"1",1,1,"11-08-2017","Selhurst Park","Arsenal","Leicester",0.48,0.25,0.27,2.08,4,3.7
+"2",2,1,"12-08-2017","Craven Cottage","Brighton","Man City",0.25,0.5,0.25,4,2,4
+"3",3,1,"12-08-2017","Vitality Stadium","Chelsea","Burnley",0.38,0.31,0.31,2.63,3.23,3.23
+"4",4,1,"12-08-2017","Elland Road","Crystal Palace","Huddersfield",0.25,0.5,0.25,4,2,4
+"5",6,1,"12-08-2017","St. James' Park","Everton","Spurs",0.4,0.32,0.28,2.5,3.12,3.57
+"6",7,1,"12-08-2017","Tottenham Hotspur Stadium","Southampton","Swansea",0.38,0.29,0.33,2.63,3.45,3.03
+"7",8,1,"12-08-2017","Goodison Park","Watford","Liverpool",0.3,0.4,0.3,3.33,2.5,3.33
+"8",5,1,"12-08-2017","King Power Stadium","West Brom","Bournemouth",0.42,0.33,0.25,2.38,3.03,4
+"9",9,1,"13-08-2017","Old Trafford","Man United","West Ham",0.45,0.27,0.27,2.22,3.7,3.7
+"10",10,1,"13-08-2017","London Stadium","Newcastle","Tottenham",0.38,0.32,0.3,2.63,3.12,3.33
+"11",12,2,"19-08-2017","Villa Park","Bournemouth","Watford",0.25,0.33,0.42,4,3.03,2.38
+"12",11,2,"19-08-2017","Emirates Stadium","Burnley","West Brom",0.25,0.33,0.42,4,3.03,2.38
+"13",14,2,"19-08-2017","Amex Stadium","Leicester","Brighton",0.5,0.25,0.25,2,4,4
+"14",17,2,"19-08-2017","Etihad Stadium","Liverpool","Crystal Palace",0.38,0.34,0.28,2.63,2.94,3.57
+"15",19,2,"19-08-2017","St. Mary's Stadium","Southampton","West Ham",0.36,0.3,0.34,2.78,3.33,2.94
+"16",20,2,"19-08-2017","Molineux Stadium","Spurs","Arsenal",0.38,0.3,0.32,2.63,3.33,3.12
+"17",13,2,"19-08-2017","Brentford Community Stadium","Swansea","Man United",0.32,0.39,0.29,3.12,2.56,3.45
+"18",18,2,"20-08-2017","The City Ground","Huddersfield","Newcastle",0.5,0.25,0.25,2,4,4
+"19",15,2,"20-08-2017","Stamford Bridge","Tottenham","Chelsea",0.3,0.35,0.35,3.33,2.86,2.86
+"20",16,2,"21-08-2017","Anfield","Man City","Everton",0.38,0.32,0.3,2.63,3.12,3.33
+"21",29,3,"26-08-2017","Tottenham Hotspur Stadium","Bournemouth","Man City",0.25,0.5,0.25,4,2,4
+"22",22,3,"26-08-2017","Selhurst Park","Crystal Palace","Swansea",0.3,0.4,0.3,3.33,2.5,3.33
+"23",23,3,"26-08-2017","Goodison Park","Huddersfield","Southampton",0.25,0.25,0.5,4,4,2
+"24",24,3,"26-08-2017","Craven Cottage","Man United","Leicester",0.42,0.27,0.31,2.38,3.7,3.23
+"25",26,3,"26-08-2017","King Power Stadium","Newcastle","West Ham",0.39,0.29,0.32,2.56,3.45,3.12
+"26",21,3,"26-08-2017","Vitality Stadium","Watford","Brighton",0.25,0.25,0.5,4,4,2
+"27",25,3,"27-08-2017","Elland Road","Chelsea","Everton",0.39,0.26,0.35,2.56,3.85,2.86
+"28",30,3,"27-08-2017","London Stadium","Liverpool","Arsenal",0.37,0.3,0.33,2.7,3.33,3.03
+"29",28,3,"27-08-2017","St. James' Park","Tottenham","Burnley",0.44,0.25,0.31,2.27,4,3.23
+"30",27,3,"27-08-2017","Old Trafford","West Brom","Spurs",0.33,0.39,0.28,3.03,2.56,3.57
+"31",39,4,"09-09-2017","St. Mary's Stadium","Arsenal","Bournemouth",0.5,0.25,0.25,2,4,4
+"32",33,4,"09-09-2017","Brentford Community Stadium","Brighton","West Brom",0.5,0.25,0.25,2,4,4
+"33",34,4,"09-09-2017","Amex Stadium","Everton","Tottenham",0.3,0.33,0.37,3.33,3.03,2.7
+"34",35,4,"09-09-2017","Stamford Bridge","Leicester","Chelsea",0.31,0.4,0.29,3.23,2.5,3.45
+"35",36,4,"09-09-2017","Anfield","Man City","Liverpool",0.34,0.3,0.36,2.94,3.33,2.78
+"36",37,4,"09-09-2017","Etihad Stadium","Southampton","Watford",0.38,0.31,0.31,2.63,3.23,3.23
+"37",31,4,"09-09-2017","Emirates Stadium","Spurs","Man United",0.3,0.35,0.35,3.33,2.86,2.86
+"38",32,4,"10-09-2017","Villa Park","Burnley","Crystal Palace",0.42,0.33,0.25,2.38,3.03,4
+"39",40,4,"10-09-2017","Molineux Stadium","Swansea","Newcastle",0.38,0.33,0.29,2.63,3.03,3.45
+"40",38,4,"11-09-2017","The City Ground","West Ham","Huddersfield",0.5,0.25,0.25,2,4,4
+"41",43,5,"15-09-2017","Craven Cottage","Bournemouth","Brighton",0.5,0.25,0.25,2,4,4
+"42",47,5,"16-09-2017","Selhurst Park","Crystal Palace","Southampton",0.31,0.34,0.34,3.23,2.94,2.94
+"43",48,5,"16-09-2017","St. Mary's Stadium","Huddersfield","Leicester",0.25,0.25,0.5,4,4,2
+"44",44,5,"16-09-2017","Elland Road","Liverpool","Burnley",0.44,0.25,0.31,2.27,4,3.23
+"45",41,5,"16-09-2017","Vitality Stadium","Newcastle","Spurs",0.38,0.28,0.34,2.63,3.57,2.94
+"46",42,5,"16-09-2017","Emirates Stadium","Tottenham","Swansea",0.46,0.25,0.29,2.17,4,3.45
+"47",50,5,"16-09-2017","Etihad Stadium","Watford","Man City",0.25,0.44,0.31,4,2.27,3.23
+"48",46,5,"16-09-2017","London Stadium","West Brom","West Ham",0.32,0.35,0.32,3.12,2.86,3.12
+"49",49,5,"17-09-2017","Anfield","Chelsea","Arsenal",0.36,0.32,0.32,2.78,3.12,3.12
+"50",45,5,"17-09-2017","King Power Stadium","Man United","Everton",0.44,0.26,0.3,2.27,3.85,3.33
+"51",55,6,"23-09-2017","Goodison Park","Burnley","Huddersfield",0.25,0.25,0.5,4,4,2
+"52",52,6,"23-09-2017","Brentford Community Stadium","Everton","Bournemouth",0.5,0.25,0.25,2,4,4
+"53",54,6,"23-09-2017","Stamford Bridge","Leicester","Liverpool",0.33,0.35,0.31,3.03,2.86,3.23
+"54",57,6,"23-09-2017","St. James' Park","Man City","Crystal Palace",0.46,0.25,0.29,2.17,4,3.45
+"55",58,6,"23-09-2017","The City Ground","Southampton","Man United",0.32,0.39,0.29,3.12,2.56,3.45
+"56",59,6,"23-09-2017","Tottenham Hotspur Stadium","Spurs","Chelsea",0.3,0.4,0.3,3.33,2.5,3.33
+"57",60,6,"23-09-2017","Molineux Stadium","Swansea","Watford",0.33,0.33,0.33,3.03,3.03,3.03
+"58",51,6,"23-09-2017","Villa Park","West Ham","Tottenham",0.36,0.35,0.28,2.78,2.86,3.57
+"59",53,6,"24-09-2017","Amex Stadium","Brighton","Newcastle",0.5,0.25,0.25,2,4,4
+"60",56,6,"25-09-2017","Old Trafford","Arsenal","West Brom",0.46,0.27,0.27,2.17,3.7,3.7
+"61",64,7,"30-09-2017","Craven Cottage","Bournemouth","Leicester",0.33,0.25,0.42,3.03,4,2.38
+"62",61,7,"30-09-2017","Vitality Stadium","Chelsea","Man City",0.4,0.29,0.31,2.5,3.45,3.23
+"63",66,7,"30-09-2017","King Power Stadium","Huddersfield","Tottenham",0.25,0.5,0.25,4,2,4
+"64",67,7,"30-09-2017","Anfield","Man United","Crystal Palace",0.5,0.25,0.25,2,4,4
+"65",69,7,"30-09-2017","St. Mary's Stadium","Spurs","Southampton",0.33,0.29,0.38,3.03,3.45,2.63
+"66",68,7,"30-09-2017","Etihad Stadium","West Brom","Watford",0.33,0.33,0.33,3.03,3.03,3.03
+"67",62,7,"30-09-2017","Emirates Stadium","West Ham","Swansea",0.46,0.29,0.25,2.17,3.45,4
+"68",70,7,"01-10-2017","London Stadium","Arsenal","Brighton",0.5,0.25,0.25,2,4,4
+"69",63,7,"01-10-2017","Selhurst Park","Everton","Burnley",0.44,0.31,0.25,2.27,3.23,4
+"70",65,7,"01-10-2017","Elland Road","Newcastle","Liverpool",0.36,0.33,0.32,2.78,3.03,3.12
+"71",71,8,"14-10-2017","Villa Park","Burnley","West Ham",0.31,0.38,0.31,3.23,2.63,3.23
+"72",78,8,"14-10-2017","The City Ground","Crystal Palace","Chelsea",0.31,0.44,0.25,3.23,2.27,4
+"73",80,8,"14-10-2017","Molineux Stadium","Liverpool","Man United",0.33,0.36,0.31,3.03,2.78,3.23
+"74",73,8,"14-10-2017","Amex Stadium","Man City","Spurs",0.45,0.28,0.28,2.22,3.57,3.57
+"75",77,8,"14-10-2017","St. James' Park","Swansea","Huddersfield",0.5,0.25,0.25,2,4,4
+"76",79,8,"14-10-2017","Tottenham Hotspur Stadium","Tottenham","Bournemouth",0.5,0.25,0.25,2,4,4
+"77",72,8,"14-10-2017","Brentford Community Stadium","Watford","Arsenal",0.3,0.45,0.25,3.33,2.22,4
+"78",76,8,"15-10-2017","Old Trafford","Brighton","Everton",0.25,0.25,0.5,4,4,2
+"79",75,8,"15-10-2017","Goodison Park","Southampton","Newcastle",0.43,0.26,0.31,2.33,3.85,3.23
+"80",74,8,"16-10-2017","Stamford Bridge","Leicester","West Brom",0.25,0.38,0.38,4,2.63,2.63
+"81",82,9,"20-10-2017","Emirates Stadium","West Ham","Brighton",0.25,0.5,0.25,4,2,4
+"82",81,9,"21-10-2017","Vitality Stadium","Chelsea","Watford",0.45,0.25,0.3,2.22,4,3.33
+"83",83,9,"21-10-2017","Selhurst Park","Huddersfield","Man United",0.5,0.25,0.25,2,4,4
+"84",84,9,"21-10-2017","Craven Cottage","Man City","Burnley",0.38,0.25,0.38,2.63,4,2.63
+"85",87,9,"21-10-2017","Anfield","Newcastle","Crystal Palace",0.39,0.29,0.32,2.56,3.45,3.12
+"86",89,9,"21-10-2017","St. Mary's Stadium","Southampton","West Brom",0.38,0.31,0.31,2.63,3.23,3.23
+"87",90,9,"21-10-2017","London Stadium","Spurs","Bournemouth",0.33,0.42,0.25,3.03,2.38,4
+"88",88,9,"21-10-2017","Etihad Stadium","Swansea","Leicester",0.38,0.38,0.25,2.63,2.63,4
+"89",85,9,"22-10-2017","Elland Road","Everton","Arsenal",0.31,0.37,0.32,3.23,2.7,3.12
+"90",86,9,"22-10-2017","King Power Stadium","Tottenham","Liverpool",0.36,0.32,0.32,2.78,3.12,3.12
+"91",91,10,"28-10-2017","Vitality Stadium","Arsenal","Swansea",0.36,0.36,0.29,2.78,2.78,3.45
+"92",94,10,"28-10-2017","Stamford Bridge","Bournemouth","Chelsea",0.25,0.5,0.25,4,2,4
+"93",97,10,"28-10-2017","Etihad Stadium","Crystal Palace","West Ham",0.32,0.36,0.32,3.12,2.78,3.12
+"94",98,10,"28-10-2017","St. James' Park","Liverpool","Huddersfield",0.5,0.25,0.25,2,4,4
+"95",93,10,"28-10-2017","Amex Stadium","Man United","Tottenham",0.45,0.27,0.28,2.22,3.7,3.57
+"96",95,10,"28-10-2017","Selhurst Park","Watford","Spurs",0.25,0.5,0.25,4,2,4
+"97",100,10,"28-10-2017","London Stadium","West Brom","Man City",0.31,0.42,0.27,3.23,2.38,3.7
+"98",92,10,"29-10-2017","Emirates Stadium","Brighton","Southampton",0.25,0.25,0.5,4,4,2
+"99",96,10,"29-10-2017","Goodison Park","Leicester","Everton",0.31,0.31,0.38,3.23,3.23,2.63
+"100",99,10,"30-10-2017","The City Ground","Burnley","Newcastle",0.38,0.25,0.38,2.63,4,2.63
+"101",102,11,"04-11-2017","Brentford Community Stadium","Huddersfield","West Brom",0.5,0.25,0.25,2,4,4
+"102",105,11,"04-11-2017","King Power Stadium","Newcastle","Bournemouth",0.25,0.5,0.25,4,2,4
+"103",103,11,"04-11-2017","Craven Cottage","Southampton","Burnley",0.42,0.33,0.25,2.38,3.03,4
+"104",110,11,"04-11-2017","Molineux Stadium","Spurs","Leicester",0.25,0.31,0.44,4,3.23,2.27
+"105",109,11,"04-11-2017","Tottenham Hotspur Stadium","Swansea","Brighton",0.25,0.5,0.25,4,2,4
+"106",101,11,"04-11-2017","Villa Park","West Ham","Liverpool",0.34,0.38,0.28,2.94,2.63,3.57
+"107",104,11,"05-11-2017","Elland Road","Chelsea","Man United",0.37,0.3,0.33,2.7,3.33,3.03
+"108",107,11,"05-11-2017","Old Trafford","Everton","Watford",0.45,0.25,0.3,2.22,4,3.33
+"109",108,11,"05-11-2017","St. Mary's Stadium","Man City","Arsenal",0.34,0.38,0.29,2.94,2.63,3.45
+"110",106,11,"05-11-2017","Anfield","Tottenham","Crystal Palace",0.38,0.28,0.34,2.63,3.57,2.94
+"111",114,12,"18-11-2017","Amex Stadium","Arsenal","Tottenham",0.39,0.26,0.35,2.56,3.85,2.86
+"112",117,12,"18-11-2017","Selhurst Park","Bournemouth","Huddersfield",0.5,0.25,0.25,2,4,4
+"113",111,12,"18-11-2017","Vitality Stadium","Burnley","Swansea",0.33,0.42,0.25,3.03,2.38,4
+"114",112,12,"18-11-2017","Emirates Stadium","Crystal Palace","Everton",0.28,0.38,0.34,3.57,2.63,2.94
+"115",113,12,"18-11-2017","Brentford Community Stadium","Leicester","Man City",0.29,0.39,0.32,3.45,2.56,3.12
+"116",118,12,"18-11-2017","St. James' Park","Liverpool","Southampton",0.39,0.29,0.32,2.56,3.45,3.12
+"117",119,12,"18-11-2017","Anfield","Man United","Newcastle",0.4,0.26,0.34,2.5,3.85,2.94
+"118",120,12,"18-11-2017","Old Trafford","West Brom","Chelsea",0.31,0.42,0.27,3.23,2.38,3.7
+"119",115,12,"19-11-2017","Craven Cottage","Watford","West Ham",0.35,0.3,0.35,2.86,3.33,2.86
+"120",116,12,"20-11-2017","King Power Stadium","Brighton","Spurs",0.25,0.25,0.5,4,4,2
+"121",126,13,"24-11-2017","The City Ground","West Ham","Leicester",0.41,0.32,0.27,2.44,3.12,3.7
+"122",123,13,"25-11-2017","Goodison Park","Crystal Palace","Spurs",0.45,0.25,0.3,2.22,4,3.33
+"123",125,13,"25-11-2017","Etihad Stadium","Liverpool","Chelsea",0.37,0.31,0.32,2.7,3.23,3.12
+"124",122,13,"25-11-2017","Stamford Bridge","Man United","Brighton",0.5,0.25,0.25,2,4,4
+"125",121,13,"25-11-2017","Villa Park","Newcastle","Watford",0.38,0.38,0.25,2.63,2.63,4
+"126",124,13,"25-11-2017","Elland Road","Swansea","Bournemouth",0.25,0.33,0.42,4,3.03,2.38
+"127",127,13,"25-11-2017","St. Mary's Stadium","Tottenham","West Brom",0.35,0.27,0.38,2.86,3.7,2.63
+"128",130,13,"26-11-2017","Molineux Stadium","Burnley","Arsenal",0.25,0.44,0.31,4,2.27,3.23
+"129",128,13,"26-11-2017","Tottenham Hotspur Stadium","Huddersfield","Man City",0.25,0.5,0.25,4,2,4
+"130",129,13,"26-11-2017","London Stadium","Southampton","Everton",0.39,0.29,0.32,2.56,3.45,3.12
+"131",137,14,"28-11-2017","King Power Stadium","Brighton","Crystal Palace",0.25,0.25,0.5,4,4,2
+"132",131,14,"28-11-2017","Vitality Stadium","Leicester","Tottenham",0.38,0.33,0.29,2.63,3.03,3.45
+"133",133,14,"28-11-2017","Brentford Community Stadium","Watford","Man United",0.3,0.45,0.25,3.33,2.22,4
+"134",134,14,"28-11-2017","Amex Stadium","West Brom","Newcastle",0.32,0.34,0.34,3.12,2.94,2.94
+"135",135,14,"29-11-2017","Selhurst Park","Arsenal","Huddersfield",0.5,0.25,0.25,2,4,4
+"136",140,14,"29-11-2017","St. James' Park","Bournemouth","Burnley",0.38,0.38,0.25,2.63,2.63,4
+"137",136,14,"29-11-2017","Craven Cottage","Chelsea","Swansea",0.46,0.25,0.29,2.17,4,3.45
+"138",138,14,"29-11-2017","Anfield","Everton","West Ham",0.41,0.28,0.31,2.44,3.57,3.23
+"139",132,14,"29-11-2017","Emirates Stadium","Man City","Southampton",0.38,0.31,0.31,2.63,3.23,3.23
+"140",139,14,"29-11-2017","Old Trafford","Spurs","Liverpool",0.35,0.35,0.3,2.86,2.86,3.33
+"141",144,15,"02-12-2017","Elland Road","Arsenal","Man United",0.35,0.32,0.33,2.86,3.12,3.03
+"142",145,15,"02-12-2017","Etihad Stadium","Brighton","Liverpool",0.25,0.5,0.25,4,2,4
+"143",146,15,"02-12-2017","The City Ground","Chelsea","Newcastle",0.42,0.26,0.32,2.38,3.85,3.12
+"144",150,15,"02-12-2017","Molineux Stadium","Everton","Huddersfield",0.5,0.25,0.25,2,4,4
+"145",143,15,"02-12-2017","Goodison Park","Leicester","Burnley",0.42,0.25,0.33,2.38,4,3.03
+"146",142,15,"02-12-2017","Stamford Bridge","Spurs","Swansea",0.43,0.25,0.32,2.33,4,3.12
+"147",141,15,"02-12-2017","Villa Park","Watford","Tottenham",0.25,0.35,0.4,4,2.86,2.5
+"148",147,15,"02-12-2017","St. Mary's Stadium","West Brom","Crystal Palace",0.33,0.29,0.38,3.03,3.45,2.63
+"149",149,15,"03-12-2017","London Stadium","Bournemouth","Southampton",0.33,0.33,0.33,3.03,3.03,3.03
+"150",148,15,"03-12-2017","Tottenham Hotspur Stadium","Man City","West Ham",0.44,0.28,0.28,2.27,3.57,3.57
+"151",155,16,"09-12-2017","Etihad Stadium","Burnley","Watford",0.5,0.25,0.25,2,4,4
+"152",151,16,"09-12-2017","Vitality Stadium","Crystal Palace","Bournemouth",0.25,0.33,0.42,4,3.03,2.38
+"153",154,16,"09-12-2017","Anfield","Huddersfield","Brighton",0.5,0.25,0.25,2,4,4
+"154",157,16,"09-12-2017","The City Ground","Newcastle","Leicester",0.41,0.32,0.27,2.44,3.12,3.7
+"155",158,16,"09-12-2017","Tottenham Hotspur Stadium","Swansea","West Brom",0.46,0.29,0.25,2.17,3.45,4
+"156",159,16,"09-12-2017","London Stadium","Tottenham","Spurs",0.38,0.3,0.32,2.63,3.33,3.12
+"157",156,16,"09-12-2017","St. James' Park","West Ham","Chelsea",0.34,0.38,0.28,2.94,2.63,3.57
+"158",160,16,"10-12-2017","Molineux Stadium","Liverpool","Everton",0.36,0.27,0.37,2.78,3.7,2.7
+"159",152,16,"10-12-2017","Amex Stadium","Man United","Man City",0.36,0.32,0.31,2.78,3.12,3.23
+"160",153,16,"10-12-2017","Craven Cottage","Southampton","Arsenal",0.32,0.35,0.33,3.12,2.86,3.03
+"161",163,17,"12-12-2017","Brentford Community Stadium","Burnley","Spurs",0.38,0.25,0.38,2.63,4,2.63
+"162",165,17,"12-12-2017","Selhurst Park","Crystal Palace","Watford",0.42,0.33,0.25,2.38,3.03,4
+"163",166,17,"12-12-2017","Goodison Park","Huddersfield","Chelsea",0.25,0.5,0.25,4,2,4
+"164",168,17,"13-12-2017","King Power Stadium","Liverpool","West Brom",0.42,0.29,0.29,2.38,3.45,3.45
+"165",170,17,"13-12-2017","St. Mary's Stadium","Man United","Bournemouth",0.42,0.25,0.33,2.38,4,3.03
+"166",162,17,"13-12-2017","Villa Park","Newcastle","Everton",0.38,0.33,0.29,2.63,3.03,3.45
+"167",161,17,"13-12-2017","Emirates Stadium","Southampton","Leicester",0.35,0.29,0.35,2.86,3.45,2.86
+"168",164,17,"13-12-2017","Stamford Bridge","Swansea","Man City",0.29,0.39,0.32,3.45,2.56,3.12
+"169",169,17,"13-12-2017","Old Trafford","Tottenham","Brighton",0.5,0.25,0.25,2,4,4
+"170",167,17,"13-12-2017","Elland Road","West Ham","Arsenal",0.27,0.39,0.34,3.7,2.56,2.94
+"171",179,18,"16-12-2017","London Stadium","Arsenal","Newcastle",0.43,0.29,0.27,2.33,3.45,3.7
+"172",174,18,"16-12-2017","Anfield","Brighton","Burnley",0.25,0.25,0.5,4,4,2
+"173",180,18,"16-12-2017","Molineux Stadium","Chelsea","Southampton",0.4,0.29,0.31,2.5,3.45,3.23
+"174",171,18,"16-12-2017","Vitality Stadium","Leicester","Crystal Palace",0.33,0.38,0.29,3.03,2.63,3.45
+"175",173,18,"16-12-2017","Craven Cottage","Man City","Tottenham",0.35,0.36,0.29,2.86,2.78,3.45
+"176",175,18,"16-12-2017","Etihad Stadium","Spurs","West Ham",0.33,0.33,0.33,3.03,3.03,3.03
+"177",176,18,"16-12-2017","St. James' Park","Watford","Huddersfield",0.25,0.5,0.25,4,2,4
+"178",172,18,"17-12-2017","Amex Stadium","Bournemouth","Liverpool",0.33,0.42,0.25,3.03,2.38,4
+"179",178,18,"17-12-2017","Tottenham Hotspur Stadium","West Brom","Man United",0.27,0.44,0.29,3.7,2.27,3.45
+"180",177,18,"18-12-2017","The City Ground","Everton","Swansea",0.36,0.29,0.36,2.78,3.45,2.78
+"181",183,19,"22-12-2017","Brentford Community Stadium","Arsenal","Liverpool",0.34,0.31,0.35,2.94,3.23,2.86
+"182",186,19,"23-12-2017","Goodison Park","Brighton","Watford",0.5,0.25,0.25,2,4,4
+"183",188,19,"23-12-2017","King Power Stadium","Burnley","Tottenham",0.31,0.38,0.31,3.23,2.63,3.23
+"184",181,19,"23-12-2017","Emirates Stadium","Everton","Chelsea",0.33,0.34,0.33,3.03,2.94,3.03
+"185",189,19,"23-12-2017","Old Trafford","Leicester","Man United",0.27,0.4,0.33,3.7,2.5,3.03
+"186",190,19,"23-12-2017","St. Mary's Stadium","Man City","Bournemouth",0.5,0.25,0.25,2,4,4
+"187",187,19,"23-12-2017","Elland Road","Southampton","Huddersfield",0.25,0.25,0.5,4,4,2
+"188",182,19,"23-12-2017","Villa Park","Spurs","West Brom",0.33,0.31,0.36,3.03,3.23,2.78
+"189",185,19,"23-12-2017","Selhurst Park","Swansea","Crystal Palace",0.3,0.25,0.45,3.33,4,2.22
+"190",184,19,"23-12-2017","Stamford Bridge","West Ham","Newcastle",0.35,0.35,0.3,2.86,2.86,3.33
+"191",191,20,"26-12-2017","Villa Park","Bournemouth","West Ham",0.33,0.33,0.33,3.03,3.03,3.03
+"192",196,20,"26-12-2017","Old Trafford","Chelsea","Brighton",0.5,0.25,0.25,2,4,4
+"193",193,20,"26-12-2017","Amex Stadium","Huddersfield","Spurs",0.25,0.25,0.5,4,4,2
+"194",194,20,"26-12-2017","Stamford Bridge","Liverpool","Swansea",0.43,0.29,0.29,2.33,3.45,3.45
+"195",195,20,"26-12-2017","Goodison Park","Man United","Burnley",0.38,0.25,0.38,2.63,4,2.63
+"196",198,20,"26-12-2017","The City Ground","Tottenham","Southampton",0.43,0.29,0.28,2.33,3.45,3.57
+"197",200,20,"26-12-2017","Molineux Stadium","Watford","Leicester",0.38,0.31,0.31,2.63,3.23,3.23
+"198",192,20,"26-12-2017","Brentford Community Stadium","West Brom","Everton",0.33,0.38,0.29,3.03,2.63,3.45
+"199",197,20,"27-12-2017","St. James' Park","Newcastle","Man City",0.33,0.38,0.29,3.03,2.63,3.45
+"200",199,20,"28-12-2017","Tottenham Hotspur Stadium","Crystal Palace","Arsenal",0.28,0.41,0.31,3.57,2.44,3.23
+"201",207,21,"30-12-2017","Anfield","Bournemouth","Everton",0.42,0.25,0.33,2.38,4,3.03
+"202",201,21,"30-12-2017","Vitality Stadium","Chelsea","Spurs",0.48,0.25,0.28,2.08,4,3.57
+"203",206,21,"30-12-2017","King Power Stadium","Huddersfield","Burnley",0.25,0.25,0.5,4,4,2
+"204",208,21,"30-12-2017","Etihad Stadium","Liverpool","Leicester",0.4,0.31,0.29,2.5,3.23,3.45
+"205",209,21,"30-12-2017","St. Mary's Stadium","Man United","Southampton",0.43,0.28,0.29,2.33,3.57,3.45
+"206",210,21,"30-12-2017","London Stadium","Newcastle","Brighton",0.25,0.25,0.5,4,4,2
+"207",203,21,"30-12-2017","Selhurst Park","Watford","Swansea",0.42,0.33,0.25,2.38,3.03,4
+"208",205,21,"31-12-2017","Elland Road","Crystal Palace","Man City",0.32,0.39,0.29,3.12,2.56,3.45
+"209",202,21,"31-12-2017","Emirates Stadium","West Brom","Arsenal",0.31,0.38,0.31,3.23,2.63,3.23
+"210",204,21,"01-01-2018","Craven Cottage","Brighton","Bournemouth",0.25,0.25,0.5,4,4,2
+"211",211,22,"01-01-2018","Villa Park","Burnley","Liverpool",0.31,0.44,0.25,3.23,2.27,4
+"212",212,22,"01-01-2018","Brentford Community Stadium","Everton","Man United",0.31,0.4,0.29,3.23,2.5,3.45
+"213",213,22,"01-01-2018","Amex Stadium","Leicester","Huddersfield",0.5,0.25,0.25,2,4,4
+"214",214,22,"01-01-2018","Stamford Bridge","Spurs","Newcastle",0.41,0.31,0.28,2.44,3.23,3.57
+"215",215,22,"02-01-2018","Goodison Park","Man City","Watford",0.44,0.25,0.31,2.27,4,3.23
+"216",216,22,"02-01-2018","Old Trafford","Southampton","Crystal Palace",0.44,0.28,0.28,2.27,3.57,3.57
+"217",217,22,"02-01-2018","St. James' Park","Swansea","Tottenham",0.25,0.43,0.32,4,2.33,3.12
+"218",218,22,"02-01-2018","The City Ground","West Ham","West Brom",0.32,0.28,0.4,3.12,3.57,2.5
+"219",219,22,"03-01-2018","Tottenham Hotspur Stadium","Arsenal","Chelsea",0.36,0.3,0.34,2.78,3.33,2.94
+"220",220,22,"04-01-2018","Molineux Stadium","Tottenham","West Ham",0.39,0.3,0.32,2.56,3.33,3.12
+"221",221,23,"13-01-2018","Vitality Stadium","Chelsea","Leicester",0.4,0.27,0.33,2.5,3.7,3.03
+"222",222,23,"13-01-2018","Emirates Stadium","Crystal Palace","Burnley",0.33,0.33,0.33,3.03,3.03,3.03
+"223",223,23,"13-01-2018","Selhurst Park","Huddersfield","West Ham",0.25,0.5,0.25,4,2,4
+"224",224,23,"13-01-2018","Craven Cottage","Newcastle","Swansea",0.29,0.38,0.33,3.45,2.63,3.03
+"225",225,23,"13-01-2018","Elland Road","Tottenham","Everton",0.4,0.28,0.32,2.5,3.57,3.12
+"226",226,23,"13-01-2018","King Power Stadium","Watford","Southampton",0.31,0.31,0.38,3.23,3.23,2.63
+"227",227,23,"13-01-2018","Anfield","West Brom","Brighton",0.5,0.25,0.25,2,4,4
+"228",228,23,"14-01-2018","Etihad Stadium","Bournemouth","Arsenal",0.33,0.33,0.33,3.03,3.03,3.03
+"229",229,23,"14-01-2018","St. Mary's Stadium","Liverpool","Man City",0.44,0.26,0.3,2.27,3.85,3.33
+"230",230,23,"15-01-2018","London Stadium","Man United","Spurs",0.48,0.25,0.28,2.08,4,3.57
+"231",231,24,"20-01-2018","Villa Park","Arsenal","Crystal Palace",0.44,0.28,0.28,2.27,3.57,3.57
+"232",232,24,"20-01-2018","Brentford Community Stadium","Brighton","Chelsea",0.25,0.5,0.25,4,2,4
+"233",233,24,"20-01-2018","Amex Stadium","Burnley","Man United",0.31,0.38,0.31,3.23,2.63,3.23
+"234",234,24,"20-01-2018","Stamford Bridge","Everton","West Brom",0.38,0.29,0.33,2.63,3.45,3.03
+"235",235,24,"20-01-2018","Goodison Park","Leicester","Watford",0.5,0.25,0.25,2,4,4
+"236",236,24,"20-01-2018","Old Trafford","Man City","Newcastle",0.43,0.26,0.31,2.33,3.85,3.23
+"237",237,24,"20-01-2018","St. James' Park","Spurs","Huddersfield",0.5,0.25,0.25,2,4,4
+"238",238,24,"20-01-2018","The City Ground","West Ham","Bournemouth",0.33,0.33,0.33,3.03,3.03,3.03
+"239",239,24,"21-01-2018","Tottenham Hotspur Stadium","Southampton","Tottenham",0.36,0.33,0.31,2.78,3.03,3.23
+"240",240,24,"22-01-2018","Molineux Stadium","Swansea","Liverpool",0.36,0.32,0.32,2.78,3.12,3.12
+"241",241,25,"30-01-2018","Vitality Stadium","Huddersfield","Liverpool",0.25,0.5,0.25,4,2,4
+"242",242,25,"30-01-2018","Selhurst Park","Swansea","Arsenal",0.36,0.39,0.25,2.78,2.56,4
+"243",243,25,"30-01-2018","Goodison Park","West Ham","Crystal Palace",0.36,0.32,0.32,2.78,3.12,3.12
+"244",244,25,"31-01-2018","Craven Cottage","Chelsea","Bournemouth",0.33,0.42,0.25,3.03,2.38,4
+"245",245,25,"31-01-2018","Elland Road","Everton","Leicester",0.33,0.27,0.4,3.03,3.7,2.5
+"246",246,25,"31-01-2018","King Power Stadium","Man City","West Brom",0.44,0.27,0.29,2.27,3.7,3.45
+"247",247,25,"31-01-2018","Old Trafford","Newcastle","Burnley",0.25,0.25,0.5,4,4,2
+"248",248,25,"31-01-2018","St. James' Park","Southampton","Brighton",0.25,0.25,0.5,4,4,2
+"249",249,25,"31-01-2018","Tottenham Hotspur Stadium","Spurs","Watford",0.33,0.33,0.33,3.03,3.03,3.03
+"250",250,25,"31-01-2018","London Stadium","Tottenham","Man United",0.31,0.37,0.32,3.23,2.7,3.12
+"251",251,26,"03-02-2018","Emirates Stadium","Arsenal","Everton",0.44,0.26,0.3,2.27,3.85,3.33
+"252",252,26,"03-02-2018","Villa Park","Bournemouth","Spurs",0.33,0.33,0.33,3.03,3.03,3.03
+"253",253,26,"03-02-2018","Brentford Community Stadium","Brighton","West Ham",0.5,0.25,0.25,2,4,4
+"254",254,26,"03-02-2018","Amex Stadium","Burnley","Man City",0.31,0.38,0.31,3.23,2.63,3.23
+"255",255,26,"03-02-2018","Stamford Bridge","Leicester","Swansea",0.44,0.25,0.31,2.27,4,3.23
+"256",256,26,"03-02-2018","Anfield","Man United","Huddersfield",0.5,0.25,0.25,2,4,4
+"257",257,26,"03-02-2018","Etihad Stadium","West Brom","Southampton",0.34,0.34,0.31,2.94,2.94,3.23
+"258",258,26,"04-02-2018","The City Ground","Crystal Palace","Newcastle",0.29,0.39,0.32,3.45,2.56,3.12
+"259",259,26,"04-02-2018","St. Mary's Stadium","Liverpool","Tottenham",0.4,0.27,0.33,2.5,3.7,3.03
+"260",260,26,"05-02-2018","Molineux Stadium","Watford","Chelsea",0.35,0.35,0.3,2.86,2.86,3.33
+"261",261,27,"10-02-2018","Vitality Stadium","Everton","Crystal Palace",0.34,0.34,0.31,2.94,2.94,3.23
+"262",262,27,"10-02-2018","Selhurst Park","Man City","Leicester",0.36,0.39,0.25,2.78,2.56,4
+"263",263,27,"10-02-2018","Goodison Park","Spurs","Brighton",0.25,0.25,0.5,4,4,2
+"264",264,27,"10-02-2018","Craven Cottage","Swansea","Burnley",0.5,0.25,0.25,2,4,4
+"265",265,27,"10-02-2018","Elland Road","Tottenham","Arsenal",0.34,0.3,0.36,2.94,3.33,2.78
+"266",266,27,"10-02-2018","King Power Stadium","West Ham","Watford",0.4,0.35,0.25,2.5,2.86,4
+"267",267,27,"11-02-2018","Old Trafford","Huddersfield","Bournemouth",0.5,0.25,0.25,2,4,4
+"268",268,27,"11-02-2018","St. James' Park","Newcastle","Man United",0.3,0.38,0.32,3.33,2.63,3.12
+"269",269,27,"11-02-2018","Tottenham Hotspur Stadium","Southampton","Liverpool",0.33,0.36,0.31,3.03,2.78,3.23
+"270",270,27,"12-02-2018","London Stadium","Chelsea","West Brom",0.46,0.25,0.29,2.17,4,3.45
+"271",271,28,"24-02-2018","Emirates Stadium","Bournemouth","Newcastle",0.25,0.38,0.38,4,2.63,2.63
+"272",272,28,"24-02-2018","Villa Park","Brighton","Swansea",0.5,0.25,0.25,2,4,4
+"273",273,28,"24-02-2018","Brentford Community Stadium","Burnley","Southampton",0.42,0.25,0.33,2.38,4,3.03
+"274",274,28,"24-02-2018","Amex Stadium","Leicester","Spurs",0.38,0.31,0.31,2.63,3.23,3.23
+"275",275,28,"24-02-2018","Stamford Bridge","Liverpool","West Ham",0.42,0.26,0.32,2.38,3.85,3.12
+"276",276,28,"24-02-2018","Anfield","Watford","Everton",0.35,0.35,0.3,2.86,2.86,3.33
+"277",277,28,"24-02-2018","Etihad Stadium","West Brom","Huddersfield",0.25,0.5,0.25,4,2,4
+"278",278,28,"25-02-2018","The City Ground","Crystal Palace","Tottenham",0.31,0.41,0.28,3.23,2.44,3.57
+"279",279,28,"25-02-2018","St. Mary's Stadium","Man United","Chelsea",0.34,0.31,0.35,2.94,3.23,2.86
+"280",280,28,"01-03-2018","Molineux Stadium","Arsenal","Man City",0.39,0.28,0.34,2.56,3.57,2.94
+"281",281,29,"03-03-2018","Vitality Stadium","Burnley","Everton",0.44,0.31,0.25,2.27,3.23,4
+"282",282,29,"03-03-2018","Emirates Stadium","Leicester","Bournemouth",0.25,0.25,0.5,4,4,2
+"283",283,29,"03-03-2018","Amex Stadium","Liverpool","Newcastle",0.45,0.26,0.29,2.22,3.85,3.45
+"284",284,29,"03-03-2018","Stamford Bridge","Southampton","Spurs",0.29,0.33,0.38,3.45,3.03,2.63
+"285",285,29,"03-03-2018","Selhurst Park","Swansea","West Ham",0.33,0.29,0.38,3.03,3.45,2.63
+"286",286,29,"03-03-2018","Goodison Park","Tottenham","Huddersfield",0.5,0.25,0.25,2,4,4
+"287",287,29,"03-03-2018","Etihad Stadium","Watford","West Brom",0.42,0.25,0.33,2.38,4,3.03
+"288",288,29,"04-03-2018","St. James' Park","Brighton","Arsenal",0.5,0.25,0.25,2,4,4
+"289",289,29,"04-03-2018","The City Ground","Man City","Chelsea",0.34,0.39,0.28,2.94,2.56,3.57
+"290",290,29,"05-03-2018","London Stadium","Crystal Palace","Man United",0.25,0.41,0.34,4,2.44,2.94
+"291",291,30,"10-03-2018","Villa Park","Chelsea","Crystal Palace",0.41,0.31,0.28,2.44,3.23,3.57
+"292",292,30,"10-03-2018","Brentford Community Stadium","Everton","Brighton",0.5,0.25,0.25,2,4,4
+"293",293,30,"10-03-2018","Craven Cottage","Huddersfield","Swansea",0.25,0.25,0.5,4,4,2
+"294",294,30,"10-03-2018","Elland Road","Man United","Liverpool",0.41,0.3,0.29,2.44,3.33,3.45
+"295",295,30,"10-03-2018","King Power Stadium","Newcastle","Southampton",0.41,0.29,0.29,2.44,3.45,3.45
+"296",296,30,"10-03-2018","Anfield","West Brom","Leicester",0.25,0.5,0.25,4,2,4
+"297",297,30,"10-03-2018","Old Trafford","West Ham","Burnley",0.44,0.31,0.25,2.27,3.23,4
+"298",298,30,"11-03-2018","St. Mary's Stadium","Arsenal","Watford",0.45,0.3,0.25,2.22,3.33,4
+"299",299,30,"11-03-2018","Tottenham Hotspur Stadium","Bournemouth","Tottenham",0.25,0.42,0.33,4,2.38,3.03
+"300",300,30,"12-03-2018","Molineux Stadium","Spurs","Man City",0.3,0.32,0.38,3.33,3.12,2.63
+"301",301,31,"17-03-2018","Villa Park","Bournemouth","West Brom",0.42,0.25,0.33,2.38,4,3.03
+"302",302,31,"17-03-2018","Stamford Bridge","Huddersfield","Crystal Palace",0.25,0.5,0.25,4,2,4
+"303",303,31,"17-03-2018","Goodison Park","Liverpool","Watford",0.45,0.3,0.25,2.22,3.33,4
+"304",304,31,"17-03-2018","Elland Road","Spurs","Everton",0.3,0.32,0.38,3.33,3.12,2.63
+"305",305,31,"31-03-2018","Etihad Stadium","Brighton","Leicester",0.25,0.5,0.25,4,2,4
+"306",306,31,"31-03-2018","The City Ground","Crystal Palace","Liverpool",0.31,0.41,0.28,3.23,2.44,3.57
+"307",307,31,"31-03-2018","St. Mary's Stadium","Everton","Man City",0.39,0.3,0.31,2.56,3.33,3.23
+"308",308,31,"31-03-2018","Tottenham Hotspur Stadium","Man United","Swansea",0.43,0.29,0.29,2.33,3.45,3.45
+"309",309,31,"31-03-2018","London Stadium","Newcastle","Huddersfield",0.5,0.25,0.25,2,4,4
+"310",310,31,"31-03-2018","Molineux Stadium","Watford","Bournemouth",0.25,0.25,0.5,4,4,2
+"311",311,32,"31-03-2018","Vitality Stadium","West Brom","Burnley",0.42,0.33,0.25,2.38,3.03,4
+"312",312,32,"31-03-2018","Emirates Stadium","West Ham","Southampton",0.42,0.31,0.27,2.38,3.23,3.7
+"313",313,32,"01-04-2018","Brentford Community Stadium","Arsenal","Spurs",0.5,0.25,0.25,2,4,4
+"314",314,32,"01-04-2018","Amex Stadium","Chelsea","Tottenham",0.41,0.26,0.33,2.44,3.85,3.03
+"315",315,32,"07-04-2018","Selhurst Park","Bournemouth","Crystal Palace",0.25,0.33,0.42,4,3.03,2.38
+"316",316,32,"07-04-2018","Craven Cottage","Brighton","Huddersfield",0.25,0.25,0.5,4,4,2
+"317",317,32,"07-04-2018","King Power Stadium","Everton","Liverpool",0.31,0.35,0.34,3.23,2.86,2.94
+"318",318,32,"07-04-2018","Anfield","Leicester","Newcastle",0.34,0.32,0.34,2.94,3.12,2.94
+"319",319,32,"07-04-2018","Old Trafford","Man City","Man United",0.34,0.39,0.28,2.94,2.56,3.57
+"320",320,32,"07-04-2018","St. James' Park","Spurs","Tottenham",0.32,0.42,0.25,3.12,2.38,4
+"321",321,33,"07-04-2018","Goodison Park","Watford","Burnley",0.38,0.38,0.25,2.63,2.63,4
+"322",322,33,"07-04-2018","Elland Road","West Brom","Swansea",0.36,0.32,0.32,2.78,3.12,3.12
+"323",323,33,"08-04-2018","The City Ground","Arsenal","Southampton",0.43,0.25,0.32,2.33,4,3.12
+"324",324,33,"08-04-2018","Tottenham Hotspur Stadium","Chelsea","West Ham",0.4,0.3,0.31,2.5,3.33,3.23
+"325",325,33,"14-04-2018","London Stadium","Burnley","Leicester",0.42,0.33,0.25,2.38,3.03,4
+"326",326,33,"14-04-2018","Molineux Stadium","Crystal Palace","Brighton",0.5,0.25,0.25,2,4,4
+"327",327,33,"14-04-2018","Villa Park","Huddersfield","Watford",0.5,0.25,0.25,2,4,4
+"328",328,33,"14-04-2018","Stamford Bridge","Liverpool","Bournemouth",0.42,0.25,0.33,2.38,4,3.03
+"329",329,33,"14-04-2018","St. Mary's Stadium","Southampton","Chelsea",0.31,0.4,0.29,3.23,2.5,3.45
+"330",330,33,"14-04-2018","Etihad Stadium","Swansea","Everton",0.29,0.36,0.36,3.45,2.78,2.78
+"331",331,34,"14-04-2018","Vitality Stadium","Tottenham","Man City",0.4,0.31,0.29,2.5,3.23,3.45
+"332",332,34,"15-04-2018","Emirates Stadium","Man United","West Brom",0.38,0.31,0.31,2.63,3.23,3.23
+"333",333,34,"15-04-2018","Brentford Community Stadium","Newcastle","Arsenal",0.32,0.35,0.34,3.12,2.86,2.94
+"334",334,34,"16-04-2018","Amex Stadium","West Ham","Spurs",0.31,0.31,0.39,3.23,3.23,2.56
+"335",335,34,"17-04-2018","Selhurst Park","Brighton","Tottenham",0.25,0.25,0.5,4,4,2
+"336",336,34,"18-04-2018","Craven Cottage","Bournemouth","Man United",0.33,0.42,0.25,3.03,2.38,4
+"337",337,34,"19-04-2018","King Power Stadium","Burnley","Chelsea",0.25,0.44,0.31,4,2.27,3.23
+"338",338,34,"19-04-2018","Anfield","Leicester","Southampton",0.4,0.27,0.33,2.5,3.7,3.03
+"339",339,34,"21-04-2018","Old Trafford","Watford","Crystal Palace",0.25,0.33,0.42,4,3.03,2.38
+"340",340,34,"21-04-2018","St. James' Park","West Brom","Liverpool",0.29,0.38,0.33,3.45,2.63,3.03
+"341",341,35,"22-04-2018","Vitality Stadium","Arsenal","West Ham",0.43,0.31,0.26,2.33,3.23,3.85
+"342",342,35,"22-04-2018","Amex Stadium","Man City","Swansea",0.5,0.25,0.25,2,4,4
+"343",343,35,"22-04-2018","Craven Cottage","Spurs","Burnley",0.38,0.31,0.31,2.63,3.23,3.23
+"344",344,35,"23-04-2018","Anfield","Everton","Newcastle",0.39,0.3,0.3,2.56,3.33,3.33
+"345",345,35,"28-04-2018","Etihad Stadium","Burnley","Brighton",0.25,0.25,0.5,4,4,2
+"346",346,35,"28-04-2018","St. James' Park","Crystal Palace","Leicester",0.38,0.33,0.29,2.63,3.03,3.45
+"347",347,35,"28-04-2018","The City Ground","Huddersfield","Everton",0.25,0.5,0.25,4,2,4
+"348",348,35,"28-04-2018","Tottenham Hotspur Stadium","Liverpool","Spurs",0.4,0.25,0.35,2.5,4,2.86
+"349",349,35,"28-04-2018","London Stadium","Newcastle","West Brom",0.41,0.3,0.3,2.44,3.33,3.33
+"350",350,35,"28-04-2018","Molineux Stadium","Southampton","Bournemouth",0.42,0.25,0.33,2.38,4,3.03
+"351",351,36,"28-04-2018","Emirates Stadium","Swansea","Chelsea",0.29,0.36,0.36,3.45,2.78,2.78
+"352",352,36,"29-04-2018","Villa Park","Man United","Arsenal",0.41,0.28,0.31,2.44,3.57,3.23
+"353",353,36,"29-04-2018","Brentford Community Stadium","West Ham","Man City",0.35,0.34,0.31,2.86,2.94,3.23
+"354",354,36,"30-04-2018","Stamford Bridge","Tottenham","Watford",0.5,0.25,0.25,2,4,4
+"355",355,36,"04-05-2018","Selhurst Park","Brighton","Man United",0.5,0.25,0.25,2,4,4
+"356",356,36,"05-05-2018","Goodison Park","Bournemouth","Swansea",0.5,0.25,0.25,2,4,4
+"357",357,36,"05-05-2018","Elland Road","Everton","Southampton",0.42,0.26,0.32,2.38,3.85,3.12
+"358",358,36,"05-05-2018","King Power Stadium","Leicester","West Ham",0.34,0.34,0.32,2.94,2.94,3.12
+"359",359,36,"05-05-2018","Old Trafford","Spurs","Crystal Palace",0.35,0.4,0.25,2.86,2.5,4
+"360",360,36,"05-05-2018","St. Mary's Stadium","Watford","Newcastle",0.38,0.25,0.38,2.63,4,2.63
+"361",361,37,"05-05-2018","Vitality Stadium","West Brom","Tottenham",0.31,0.33,0.35,3.23,3.03,2.86
+"362",362,37,"06-05-2018","Amex Stadium","Arsenal","Burnley",0.5,0.25,0.25,2,4,4
+"363",363,37,"06-05-2018","Craven Cottage","Chelsea","Liverpool",0.39,0.31,0.3,2.56,3.23,3.33
+"364",364,37,"06-05-2018","Anfield","Man City","Huddersfield",0.25,0.25,0.5,4,4,2
+"365",365,37,"08-05-2018","Etihad Stadium","Swansea","Southampton",0.29,0.42,0.29,3.45,2.38,3.45
+"366",366,37,"09-05-2018","St. James' Park","Chelsea","Huddersfield",0.25,0.25,0.5,4,4,2
+"367",367,37,"09-05-2018","The City Ground","Leicester","Arsenal",0.29,0.33,0.38,3.45,3.03,2.63
+"368",368,37,"09-05-2018","Tottenham Hotspur Stadium","Man City","Brighton",0.5,0.25,0.25,2,4,4
+"369",369,37,"09-05-2018","London Stadium","Tottenham","Newcastle",0.39,0.35,0.26,2.56,2.86,3.85
+"370",370,37,"10-05-2018","Molineux Stadium","West Ham","Man United",0.28,0.35,0.36,3.57,2.86,2.78
+"371",371,38,"13-05-2018","Emirates Stadium","Burnley","Bournemouth",0.38,0.38,0.25,2.63,2.63,4
+"372",372,38,"13-05-2018","Villa Park","Crystal Palace","West Brom",0.42,0.33,0.25,2.38,3.03,4
+"373",373,38,"13-05-2018","Brentford Community Stadium","Huddersfield","Arsenal",0.25,0.5,0.25,4,2,4
+"374",374,38,"13-05-2018","Stamford Bridge","Liverpool","Brighton",0.5,0.25,0.25,2,4,4
+"375",375,38,"13-05-2018","Selhurst Park","Man United","Watford",0.5,0.25,0.25,2,4,4
+"376",376,38,"13-05-2018","Goodison Park","Newcastle","Chelsea",0.37,0.32,0.32,2.7,3.12,3.12
+"377",377,38,"13-05-2018","Elland Road","Southampton","Man City",0.31,0.37,0.33,3.23,2.7,3.03
+"378",378,38,"13-05-2018","King Power Stadium","Swansea","Spurs",0.39,0.32,0.29,2.56,3.12,3.45
+"379",379,38,"13-05-2018","Old Trafford","Tottenham","Leicester",0.35,0.33,0.31,2.86,3.03,3.23
+"380",380,38,"13-05-2018","St. Mary's Stadium","West Ham","Everton",0.31,0.36,0.33,3.23,2.78,3.03
